@@ -1,0 +1,39 @@
+{
+  "updated": "2026-11-03",
+  "articles": [
+    {
+      "id": "atlantic-a320neo-20261027",
+      "date": "2026-10-27",
+      "source": "Airbus",
+      "url": "https://www.airbus.com/en/newsroom/press-releases",
+      "category": {
+        "ko": "항공사",
+        "en": "Airlines",
+        "ja": "航空会社",
+        "zh": "航空公司"
+      },
+      "locales": {
+        "ko": {
+          "title": "Atlantic Airways, A320neo 2대 추가 주문",
+          "summary": "Airbus는 페로제도 항공사 Atlantic Airways가 A320neo 두 대를 추가 주문했다고 발표했습니다.",
+          "body": "Airbus의 10월 27일 발표에 따르면 Atlantic Airways가 A320neo 두 대를 추가 주문했습니다.\n\n이 소식은 주문 계약에 관한 발표입니다. 항공기가 이미 인도됐거나 특정 노선에 투입됐다는 의미는 아닙니다. 도입 일정과 실제 운항 계획은 항공사의 후속 안내를 확인해야 합니다."
+        },
+        "en": {
+          "title": "Atlantic Airways orders two more A320neo aircraft",
+          "summary": "Airbus announced an order for two additional A320neo aircraft from Atlantic Airways, the Faroe Islands airline.",
+          "body": "According to the Airbus announcement dated October 27, Atlantic Airways ordered two additional A320neo aircraft.\n\nThis announcement concerns an aircraft order. It does not mean that the aircraft have already been delivered or assigned to specific routes. Delivery and operating plans require further confirmation from the airline."
+        },
+        "ja": {
+          "title": "Atlantic Airways、A320neoを2機追加発注",
+          "summary": "Airbusは、フェロー諸島のAtlantic AirwaysがA320neoを2機追加発注したと発表しました。",
+          "body": "Airbusの10月27日の発表によると、Atlantic AirwaysがA320neoを2機追加発注しました。\n\n今回の発表は発注契約に関するものです。すでに引き渡されたことや、特定の路線への投入が決まったことを示すものではありません。導入時期と運航計画は航空会社の追加発表を確認する必要があります。"
+        },
+        "zh": {
+          "title": "Atlantic Airways增订两架A320neo",
+          "summary": "Airbus宣布，法罗群岛航空公司Atlantic Airways增订两架A320neo飞机。",
+          "body": "根据Airbus于10月27日发布的信息，Atlantic Airways增订了两架A320neo飞机。\n\n这是一项订购公告，并不意味着飞机已经交付或已投入特定航线。交付时间和实际运营计划仍需以航空公司的后续公告为准。"
+        }
+      }
+    }
+  ]
+}
