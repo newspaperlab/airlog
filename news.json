@@ -155,6 +155,108 @@
       }
     },
     {
+      "id": "icelease-767-cargo-conversion-20261102",
+      "date": "2026-11-02",
+      "published": "2026-11-04",
+      "source": "Boeing",
+      "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters/default.aspx",
+      "category": {
+        "ko": "항공 화물",
+        "en": "Air cargo",
+        "ja": "航空貨物",
+        "zh": "航空货运"
+      },
+      "locales": {
+        "ko": {
+          "title": "여객기 767의 두 번째 일자리, 아이슬리스가 화물기 개조를 택한 이유",
+          "summary": "보잉과 아이슬리스가 767 한 대를 화물기로 개조하기로 했다. 추가 두 대는 옵션으로 남겨뒀다.",
+          "body": "계약서에서 확정된 숫자는 한 대다\n보잉은 11월 2일 항공기 리스 회사 아이슬리스와 767-300 여객기 한 대의 화물기 개조에 합의했다고 밝혔다. 두 대를 더 맡길 수 있는 옵션도 포함됐다. 서명 행사는 10월 22일 열렸다. 발표일과 계약을 기념한 행사가 열렸던 날이 다르다.\n\n여객기에서 화물기로\nBCF는 Boeing Converted Freighter의 약자다. 이미 제작된 여객기를 바탕으로, 주 객실에 화물을 싣고 고정할 수 있게 바꾸는 방식이다. 큰 화물 출입문과 적재 구조가 필요한 이유다. 이 기종에 대해 보잉은 화물 57톤을 싣고 3,300해리(약 6,110km)를 비행할 수 있다고 제시한다. 실제 운항 계획에는 날씨와 예비 연료 등 별도 조건이 반영된다.\n\n개조는 싱가포르에서\n첫 기체는 2027년 1분기 싱가포르의 ST엔지니어링 시설에 들어가고 2분기 인도가 예상된다. 리스사 입장에서는 한 대를 먼저 확보한 뒤 수요에 따라 추가 물량을 결정할 여지가 있다. 화주가 이용할 수 있는 노선이나 운항사는 이번 발표에서 제시되지 않았다."
+        },
+        "en": {
+          "title": "A second job for the Boeing 767",
+          "summary": "Icelease agreed to one passenger-to-freighter conversion, with options for two more.",
+          "body": "One firm conversion\nBoeing announced the deal on November 2. Icelease, an aircraft lessor, has agreed to convert one 767-300 and holds options on two more. The signing ceremony took place October 22.\n\nWhat a conversion changes\nA converted freighter uses an existing passenger airframe. A large cargo door and equipment to secure loads let the main deck carry freight. Boeing quotes 3,300 nautical miles with a 57-tonne payload. Operating conditions affect individual flights.\n\nThe Singapore timeline\nThe first aircraft is scheduled to enter ST Engineering’s facility in early 2027, with delivery expected in the second quarter. The options give Icelease room to respond to demand. The announcement did not name operating routes or an airline."
+        },
+        "ja": {
+          "title": "ボーイング767、旅客機から貨物機へ",
+          "summary": "アイスリースが1機の改修を発注し、さらに2機のオプションを確保した。",
+          "body": "確定したのは1機\nボーイングは11月2日、航空機リース会社アイスリースと767-300の貨物機改修で合意したと発表した。署名式は10月22日に行われた。\n\n旅客機の再活用\n既存の旅客機を使い、主デッキに貨物を固定して積めるようにする。大型の貨物ドアも必要となる。ボーイングによると積載量57トンで航続距離は3,300海里。実際の運航条件によって変わる。\n\n改修はシンガポールで\n初号機は2027年第1四半期にSTエンジニアリングの施設に入り、第2四半期に引き渡す予定。追加分には需要に応じて判断できる余地がある。運航会社や路線は発表されていない。"
+        },
+        "zh": {
+          "title": "波音767从客机转为货机",
+          "summary": "Icelease确定改装一架，并保留另外两架的选择权。",
+          "body": "确定的是一架\n波音11月2日宣布与飞机租赁公司Icelease达成协议，将一架767-300改装为货机。签约仪式于10月22日举行。\n\n改装改变什么\n既有客机增加大型货舱门及固定货物的设备，使主甲板可以装货。波音给出的数据为载重57吨时航程3,300海里。具体航班仍受实际运行条件影响。\n\n在新加坡改装\n首架飞机计划于2027年第一季度进入ST Engineering设施，预计第二季度交付。额外选项便于租赁公司根据需求安排。公告未公布承运航司或航线。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Boeing",
+          "url": "https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-and-Icelease-Sign-Agreement-for-up-to-Three-767-300-Boeing-Converted-Freighters/default.aspx"
+        }
+      ],
+      "image": {
+        "url": "assets/icelease-767-cargo-conversion-20261102.webp",
+        "generated": true,
+        "alt": {
+          "ko": "AI 생성 콘셉트 일러스트 · 여객기 767의 두 번째 일자리, 아이슬리스가 화물기 개조를 택한 이유",
+          "en": "AI-generated conceptual illustration · A second job for the Boeing 767",
+          "ja": "AI生成のコンセプトイラスト · ボーイング767、旅客機から貨物機へ",
+          "zh": "AI生成的概念插画 · 波音767从客机转为货机"
+        }
+      }
+    },
+    {
+      "id": "lufthansa-q3-demand-20261103",
+      "date": "2026-11-03",
+      "published": "2026-11-04",
+      "source": "Lufthansa Group",
+      "url": "https://newsroom.lufthansagroup.com/lufthansa-group-steigert-operativen-gewinn--starke-nachfrage-und-kostendisziplin-gleichen-hoehere-treibstoffkosten-mehr-als-aus/",
+      "category": {
+        "ko": "항공 산업",
+        "en": "Airline business",
+        "ja": "航空ビジネス",
+        "zh": "航空产业"
+      },
+      "locales": {
+        "ko": {
+          "title": "루프트한자, 연료비가 늘고도 영업이익이 오른 3분기",
+          "summary": "루프트한자그룹의 3분기 매출은 122억 유로였다. 항공사 실적에서 매출과 이익은 어떻게 다를까?",
+          "body": "7~9월에 무슨 일이 있었나\n루프트한자그룹은 11월 3일 3분기 매출이 전년 동기보다 9% 증가한 122억 유로라고 발표했다. 회사가 공시한 조정 영업이익은 약 14억 유로로 6% 늘었다. 같은 기간 연료비는 5억 4,300만 유로 증가했다.\n\n그룹 실적과 개별 항공편\n루프트한자그룹에는 독일의 루프트한자 외에도 여러 항공사와 화물·정비 사업이 있다. 그룹 매출은 이 사업들을 함께 보여준다. 조정 영업이익은 회사가 일부 항목을 조정해 영업 활동 성과를 보여주는 지표라서, 매출이나 최종 순이익과는 보는 범위가 다르다.\n\n여행자가 읽을 수 있는 것\n회사는 강한 수요와 비용 관리를 수익 개선의 배경으로 꼽았다. 여름 성수기를 포함하는 분기인 만큼, 이 성과를 겨울 노선에 그대로 대입하기는 어렵다. 여행 비용을 비교할 때는 그룹 실적보다 같은 날짜의 직항 여부와 변경 수수료, 수하물 포함 운임이 더 직접적인 기준이다."
+        },
+        "en": {
+          "title": "Lufthansa Group’s profit rose despite higher fuel costs",
+          "summary": "The group reported €12.2 billion in third-quarter revenue. Here is what the headline figures capture.",
+          "body": "July to September\nLufthansa Group reported on November 3 that third-quarter revenue rose 9% to €12.2 billion. Adjusted EBIT reached around €1.4 billion, up 6%, while fuel costs rose €543 million year over year.\n\nReading group results\nThe group includes airlines beyond Lufthansa itself, plus cargo and maintenance operations. Adjusted EBIT measures operating performance after adjustments. Revenue measures sales, and net income reflects additional items.\n\nWhat travellers can take from it\nThe company pointed to strong demand and cost control. A quarter that includes summer travel tells little about fares on a particular winter route. For a specific booking, compare schedules, change fees and baggage-inclusive prices."
+        },
+        "ja": {
+          "title": "燃料費が増えてもルフトハンザの営業利益は増加",
+          "summary": "グループの第3四半期売上高は122億ユーロだった。",
+          "body": "7～9月の決算\nルフトハンザグループは11月3日、売上高が前年同期比9％増の122億ユーロと発表した。調整後EBITは約14億ユーロで6％増え、燃料費は5億4,300万ユーロ増加した。\n\nグループの範囲\nルフトハンザ以外の航空会社や貨物、整備部門も含む。調整後EBITは特定項目を調整した営業活動の指標で、売上高や純利益とは異なる。\n\n利用者が確認したい点\n会社は需要の強さと費用管理を挙げた。夏の需要を含む決算から冬の個別路線の運賃は読み取れない。予約時は運航日や変更手数料、手荷物込みの価格が判断材料になる。"
+        },
+        "zh": {
+          "title": "燃油成本上升，汉莎集团三季度营业利润仍增长",
+          "summary": "集团公布第三季度营收为122亿欧元。",
+          "body": "7至9月的表现\n汉莎集团11月3日宣布，营收同比增长9%至122亿欧元，调整后息税前利润增长6%至约14亿欧元，燃油成本同比增加5.43亿欧元。\n\n理解集团数字\n集团还包括其他航空公司、货运和维修业务。调整后息税前利润衡量经部分项目调整的经营表现，营收和净利润则反映不同范围。\n\n旅客如何理解\n公司将改善归因于旺盛需求和成本管理。包含暑期的季度数据难以预测某条冬季航线的票价。预订时可以比较航班时间、改签费用和包含行李的总价。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Lufthansa Group",
+          "url": "https://newsroom.lufthansagroup.com/lufthansa-group-steigert-operativen-gewinn--starke-nachfrage-und-kostendisziplin-gleichen-hoehere-treibstoffkosten-mehr-als-aus/"
+        }
+      ],
+      "image": {
+        "url": "assets/lufthansa-q3-demand-20261103.webp",
+        "generated": true,
+        "alt": {
+          "ko": "AI 생성 콘셉트 일러스트 · 루프트한자, 연료비가 늘고도 영업이익이 오른 3분기",
+          "en": "AI-generated conceptual illustration · Lufthansa Group’s profit rose despite higher fuel costs",
+          "ja": "AI生成のコンセプトイラスト · 燃料費が増えてもルフトハンザの営業利益は増加",
+          "zh": "AI生成的概念插画 · 燃油成本上升，汉莎集团三季度营业利润仍增长"
+        }
+      }
+    },
+    {
       "id": "atlantic-a320neo-20261027",
       "date": "2026-10-27",
       "source": "Airbus",
