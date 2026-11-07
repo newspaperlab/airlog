@@ -1,6 +1,269 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "articles": [
+    {
+      "id": "airfrance-60th-a220-20261106",
+      "date": "2026-11-06",
+      "published": "2026-11-08",
+      "source": "Air France",
+      "url": "https://corporate.airfrance.com/en/news/air-france-receives-its-60th-airbus-a220-mimizan-five-years-after-aircrafts-first-entry",
+      "category": {
+        "ko": "기단·객실",
+        "en": "Fleet & cabin",
+        "ja": "機材・客室",
+        "zh": "机队与客舱"
+      },
+      "locales": {
+        "ko": {
+          "title": "에어프랑스 A220 60호기 인수, 와이파이는 기종보다 개별 기체를 봐야",
+          "summary": "11월 6일 인수를 발표했다. A220 기단의 85%에 고속 무료 와이파이가 적용됐지만 모든 기체가 같은 상태는 아니다.",
+          "body": "에어프랑스가 11월 6일 60번째 에어버스 A220을 인수했다고 발표했다. 기체 이름은 Mimizan이며 첫 여객 운항은 이후 며칠 안에 시작할 예정이라고 안내했다. 같은 발표에서 회사는 운항 중인 A220의 85%가 무료 고속 와이파이를 갖췄고, 아직 설치하지 않은 기체는 2027년 2월까지 개조할 계획이라고 밝혔다. 기체 인수, 첫 여객 운항, 통신 장비 설치는 각각 다른 단계다.\n\n유럽 연결편을 맡는 148석\n에어프랑스는 프랑스의 주요 항공사로, A220을 단·중거리 노선에 사용한다. 이번 자료에 제시된 객실은 148석이다. 장거리 항공편으로 파리에 도착한 뒤 유럽 도시로 이동하는 승객도 이런 기재를 접할 수 있다. A220의 도입은 단순히 새 비행기 한 대가 늘어나는 일만이 아니라, 일정에 맞게 노선에 배치하고 정비·승무원 교육까지 준비하는 과정이다. 인수 당일 바로 모든 항공편의 기종이나 객실이 바뀌는 것은 아니다.\n\n좌석은 한 줄에 다섯 개를 놓는 구성이며, 회사는 승객의 80%가 창가 또는 통로 좌석을 이용할 수 있다고 설명했다. 2석과 3석 묶음 가운데 중간 좌석이 한 개라는 구조를 떠올리면 이 비율을 이해하기 쉽다. 다만 이는 좌석 배치의 특징이지 모든 승객에게 원하는 자리를 무료로 보장하는 제도는 아니다. 유아 동반이나 일행끼리 붙어 앉기처럼 목적이 있다면 예약한 운임의 좌석 지정 조건과 실제 남은 자리를 함께 확인해야 한다.\n\n85%는 전체 노선의 보장 수치가 아니다\n와이파이 적용률의 분모는 에어프랑스가 설명한 A220 운항 기단이다. 회사 전체 항공기나 모든 유럽 출발편을 뜻하지 않는다. 같은 기종 이름을 보고 예약해도 개별 기체의 장비 상태가 다를 수 있다. 발표는 61번째 이후 도입 A220은 인수 뒤 작업 과정에서 설치하고 첫 여객 운항 전에 준비한다고 안내했다. 이는 신규 도입 절차에 관한 계획이며, 이번 60호기에 특정 날짜의 통신 제공을 별도로 보증하는 설명으로 바꿀 수는 없다.\n\n회사는 A220이 50개 목적지에 투입되고 지금까지 약 2400만명이 이용했다고 밝혔다. 목적지 수는 하루의 운항 편수가 아니고, 누적 이용객은 한 해의 승객 수와도 다르다. 이런 숫자는 기종이 항공사 운항에 자리 잡은 규모를 설명하지만, 내가 탈 편의 정시성이나 인터넷 속도를 알려주지는 않는다. 통신을 업무에 사용할 사람은 해당 항공편의 안내와 이용 조건을 확인하고 필요한 자료를 미리 준비하는 것이 현실적이다. 이 기사는 기내 접속 속도를 독립적으로 측정한 사용기가 아니다.\n\n이번 인수의 의미는 A220 중심의 단·중거리 기단이 커지는 가운데 기존 기체의 서비스도 단계적으로 맞춰가고 있다는 점이다. 이는 공개된 도입과 개조 계획을 함께 읽은 해석이며, 특정 노선의 증편을 확정한 것은 아니다. 앞으로 확인할 것은 Mimizan의 실제 첫 여객 운항과 미설치 기체의 개조 진행이다. 예약 화면의 기종, 좌석표, 출발 전 서비스 안내를 서로 다른 정보로 읽으면 새 기체라는 말만으로 생기는 과도한 기대를 줄이고 자신의 여정에 필요한 조건을 더 정확히 고를 수 있다."
+        },
+        "en": {
+          "title": "Air France takes its 60th A220 as Wi-Fi rollout continues",
+          "summary": "The November 6 delivery comes with 85% of the A220 fleet equipped for free high-speed Wi-Fi, not universal availability.",
+          "body": "Air France announced delivery of its 60th Airbus A220 on November 6. Named Mimizan, it is expected to carry its first customers in the following days. The airline also says 85% of its operating A220 fleet has free high-speed Wi-Fi, with remaining aircraft scheduled for upgrades by February 2027. Delivery, passenger entry into service and connectivity installation are separate milestones.\n\nThe 148-seat European connection\nAir France uses the A220 on short- and medium-haul routes, including connections after long-haul arrivals in Paris. The stated cabin has 148 seats. Introducing an aircraft also requires scheduling, maintenance and crew preparation; delivery does not change every flight's equipment that day.\n\nFive-abreast seating gives 80% of passengers a window or aisle, the airline says. In a two-plus-three row there is one middle position among five. This describes a layout, not free selection or a guarantee of everyone's preferred seat. Families and groups should check fare rules and available seats.\n\nWhat 85% covers\nThe denominator is Air France's operating A220 fleet, not all its aircraft or European departures. Individual examples can have different equipment. The airline plans to equip incoming A220s from the 61st during post-delivery work before their first commercial flight. That process should not be rewritten as a specific connectivity guarantee for the 60th aircraft.\n\nAir France reports 50 destinations and nearly 24 million cumulative A220 customers. Destinations are not daily flights, and cumulative passengers are not annual passengers. These figures describe integration at scale, not a particular flight's punctuality or internet speed. Anyone planning work should check flight-specific terms and prepare required documents; this article reports no independent connection-speed test.\n\nThe milestone combines fleet growth with staged service upgrades. That is an interpretation of disclosed plans, not a confirmed frequency increase. Mimizan's actual first passenger flight and the remaining retrofits are the next milestones. Treat aircraft type, seat map and predeparture service notices as different information when selecting an itinerary."
+        },
+        "ja": {
+          "title": "Air Franceが60機目のA220受領、Wi-Fiは個別機を確認",
+          "summary": "11月6日受領。A220の85%で無料高速Wi-Fiを提供するが全機同時ではない。",
+          "body": "Air Franceは11月6日、60機目のA220を受領したと発表した。Mimizanと名付け、数日以内に初の旅客運航を予定する。運航中A220の85%は無料高速Wi-Fiを装備し、残りは2027年2月までに改修する計画だ。受領、旅客運航、通信設置は別段階である。\n\n148席の欧州接続\n同社はA220を短中距離に使い、パリ到着後の乗り継ぎでも利用し得る。客室は148席。導入には配機、整備、乗員準備も必要で、受領当日に全便の機材が変わるわけではない。\n\n横5席で80%が窓側か通路側になるという。2席と3席なら中央席は5席中1席だ。ただし配置の特徴で、希望席の無料保証ではない。家族やグループは運賃の指定条件と空席を確認したい。\n\n85%の範囲\n分母は同社の運航A220で、全機材や全欧州便ではない。同型でも装備が違い得る。61機目以降は引き渡し後、旅客初便前に設置する計画で、60機目の特定日の通信保証に置き換えられない。\n\n同社は50目的地と累計約2400万人も示す。目的地は1日の便数でなく累計は年間人数でない。定着の規模を示しても個別便の定時性や速度は分からない。仕事用なら当該便の条件と資料準備が必要で、本稿は速度実測ではない。\n\n機材増加と段階的改修を合わせた節目というのが本稿の解釈で、特定路線増便の確定ではない。Mimizanの実際の初便と残る改修が次の確認点。機種、座席表、出発前のサービス案内を分けて読むと旅程に必要な条件を選びやすい。"
+        },
+        "zh": {
+          "title": "法航接收第60架A220，Wi-Fi仍需看具体飞机",
+          "summary": "11月6日接收，A220机队85%已配免费高速Wi-Fi，但并非全部相同。",
+          "body": "法航11月6日宣布接收第60架A220，命名Mimizan，预计数日内开始载客。运营A220机队85%已配免费高速Wi-Fi，其余计划2027年2月前改装。接收、载客和通信安装是不同阶段。\n\n148座的欧洲连接\n法航用A220飞短中程，旅客在巴黎长途航班后转机也可能乘坐。公告客舱148座，引进还需排班、维修和乘务准备，接收当天并非全部航班换机。\n\n每排五座使80%位置靠窗或走道：二加三布局中只有一个中间座。这是布局特征，不是免费保证理想座位。家庭和同行者仍需核对票价选座条件与空位。\n\n85%的范围\n分母是法航运营A220，并非所有飞机或欧洲航班。同型号个体装备可不同。公司计划第61架起在交付后、首次载客前安装，不能改写成第60架某日的通信保证。\n\n公司还报50目的地和累计近2400万旅客，目的地不是日航班数，累计不是年人数。这显示机型融入规模，不说明单班准点或网速。办公使用者应查看该班条件并备好资料，本稿没有独立测速。\n\n机队扩张与分批服务改装并行，是依据计划的分析，并非某线增班确认。下一步看Mimizan实际载客首航与剩余改装。分清机型、座位图和出发前服务提示，才能更准确选择行程。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Air France",
+          "url": "https://corporate.airfrance.com/en/news/air-france-receives-its-60th-airbus-a220-mimizan-five-years-after-aircrafts-first-entry"
+        }
+      ],
+      "image": {
+        "url": "assets/20261108-af220.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "공항 탑승교 옆 일반 소형 여객기, AI 참고 장면",
+          "en": "Generic small airliner at a jet bridge, AI reference",
+          "ja": "搭乗橋脇の一般小型旅客機、AI参考画像",
+          "zh": "登机桥旁通用小型客机，AI参考图"
+        }
+      }
+    },
+    {
+      "id": "pia-birmingham-islamabad-return-20261103",
+      "date": "2026-11-03",
+      "published": "2026-11-08",
+      "source": "Birmingham Airport",
+      "url": "https://www.birminghamairport.co.uk/latest-news/pia-flights-from-birmingham-to-pakistan-return/",
+      "category": {
+        "ko": "노선 재개",
+        "en": "Route resumption",
+        "ja": "路線再開",
+        "zh": "航线恢复"
+      },
+      "locales": {
+        "ko": {
+          "title": "PIA, 버밍엄–이슬라마바드 12월 1일 재개 계획…주 3회 직항",
+          "summary": "공항이 11월 3일 발표했다. 영국 출발은 화·목·토요일이며, 현지 시각과 도착 날짜를 따로 읽어야 한다.",
+          "body": "파키스탄국제항공(PIA)이 버밍엄과 이슬라마바드를 잇는 직항을 12월 1일부터 재개할 계획이라고 버밍엄공항이 11월 3일 발표했다. 영국 출발은 화요일·목요일·토요일 주 3회이며 보잉 777을 투입한다고 안내했다. 발표일은 11월이고 운항 시작 예정일은 12월이다. 지금은 앞으로의 재개 일정이 확인된 단계로, 첫 비행이 이미 출발했다고 쓸 수는 없다.\n\n미들랜즈에서 환승을 줄이는 연결\nPIA는 파키스탄의 항공사이고, 버밍엄공항은 영국 미들랜즈 지역의 주요 공항이다. 공항은 지역에서 파키스탄까지 직접 연결하는 선택지가 다시 생긴다고 설명했다. 영국의 다른 공항까지 먼저 이동하거나 중간 도시에서 항공편을 갈아타던 사람에게는 비교 경로가 늘어난다. 특히 친지 방문은 현지에 머무는 기간과 가져가는 짐이 여행마다 달라, 단순한 비행시간뿐 아니라 출발 공항까지의 이동과 운임 조건을 함께 살펴야 한다.\n\n공항은 2025년 버밍엄과 파키스탄 사이에 간접 연결편으로 이동한 양방향 승객이 17만8000명을 넘었다고 제시했다. 이 수치는 새 직항편의 예약 실적이 아니라 과거의 간접 이동 수요다. 또한 웨스트미들랜즈의 파키스탄계 인구가 32만명 이상이라는 배경을 들었다. 지역 거주 인구와 실제 항공 수요, 새 노선 탑승객은 각각 다른 기준이므로 같은 숫자로 취급하면 안 된다. 공항은 이 노선의 친지 방문 수요를 기대하지만 실제 이용률은 운항 후의 자료가 필요하다.\n\n시간표의 두 줄을 왕복으로 읽기\n공개된 편명은 이슬라마바드발 PK791과 버밍엄발 PK792다. 안내 시각은 각각 12시 15분 출발·16시 도착, 18시 30분 출발·7시 15분 도착으로 적혀 있다. 서로 다른 나라의 현지 시각을 단순히 빼면 실제 비행시간이 나오지 않는다. 특히 저녁 출발 뒤 아침 도착 여정은 예약 확인서에서 도착 날짜까지 확인해야 한다. 이 기사에서는 표에 생략된 날짜 표시를 임의로 확정하지 않았으며, 호텔이나 후속 교통은 실제 구매한 여정의 날짜를 기준으로 정해야 한다.\n\n777이라는 기종명도 항공권의 모든 조건을 말해주지는 않는다. 같은 계열이라도 좌석 구성과 수하물, 식사, 변경·환불 규정은 판매 운임에 따라 달라질 수 있다. 공항 발표에는 개별 항공편의 최종 좌석 배치와 모든 판매 조건이 담겨 있지 않다. 기존 환승편과 비교할 때에는 왕복 총액에 필요한 짐과 좌석 선택을 맞추고, 직항이 주 3회라는 점이 출발·귀국 날짜에 주는 제약도 계산할 필요가 있다. 새 직항이라는 이유만으로 모든 여행에 가장 편리하다고 단정하기 어렵다.\n\n이번 발표의 핵심은 영국 중부와 파키스탄 사이의 이동을 한 구간으로 연결할 예정이라는 점이다. 이 자체가 지역 생활권에는 의미가 있지만, 모든 국가 출발 여행자를 위한 새 환승 상품을 뜻하는 것은 아니다. 한국에서 두 나라를 묶어 방문하려면 구간별 입국과 예약 조건을 따로 확인해야 한다. 향후 확인할 지점은 12월의 실제 첫 운항과 판매 시간표의 변경 여부다. 11월 3일의 발표와 12월 1일의 예정 운항을 나눠 읽으면 현재 확정된 것과 앞으로 확인할 것이 분명해진다."
+        },
+        "en": {
+          "title": "PIA plans a December 1 return between Birmingham and Islamabad",
+          "summary": "The airport announced three weekly departures on Tuesdays, Thursdays and Saturdays; local times and dates matter.",
+          "body": "Birmingham Airport announced on November 3 that PIA plans to resume nonstop Islamabad service from December 1. Boeing 777 departures from Birmingham are scheduled Tuesdays, Thursdays and Saturdays. This is a November announcement of a December start, not a completed inaugural flight.\n\nAn option for the Midlands\nPIA is Pakistan's airline; Birmingham serves the English Midlands. The restored link offers an alternative to traveling overland to another UK airport or connecting abroad. Visiting friends and relatives can involve different trip lengths and baggage, so airport access and ticket rules matter alongside flying time.\n\nThe airport cites more than 178,000 two-way passengers traveling indirectly between Birmingham and Pakistan in 2025 and over 320,000 residents of Pakistani heritage in the West Midlands. Historical indirect traffic is not bookings on the new flight, and population is not passenger volume. Expected visiting demand needs actual post-launch data for evaluation.\n\nRead both timetable directions\nPK791 is listed departing Islamabad at 12:15 and arriving Birmingham at 16:00; PK792 departs 18:30 and arrives 07:15. Subtracting local clock times across countries does not give elapsed flight time. Evening departures and morning arrivals require checking the arrival date on the booking. This report does not invent a date marker omitted from the table; plan hotels and onward transport from the purchased itinerary.\n\nA 777 label does not specify every seat or fare rule. The announcement lacks complete seat maps, baggage and change/refund terms. Compare round-trip totals with matching luggage and selection needs, and account for a three-weekly service's calendar limits. Nonstop does not mean best for every journey.\n\nThe practical change is a planned single-segment connection for the region, not a universal new transfer product. Travelers combining countries from Korea still need segment-specific entry and ticket checks. The actual December inaugural flight and any schedule amendments are the next evidence. Separating November 3 from December 1 distinguishes confirmed planning from future operation."
+        },
+        "ja": {
+          "title": "PIA、バーミンガム–イスラマバードを12月1日再開予定",
+          "summary": "空港は11月3日発表。英国発は火・木・土曜で、時刻と到着日を確認したい。",
+          "body": "バーミンガム空港は11月3日、PIAのイスラマバード直行便を12月1日から再開予定と発表した。777で英国発は火・木・土曜の週3便。11月の発表と12月の予定で、初便がすでに飛んだわけではない。\n\nミッドランズの選択\nPIAはパキスタンの航空会社。地域の旅客は別の英国空港への陸路や海外乗り継ぎと比較できる。親族訪問では滞在や荷物が異なり、飛行時間だけでなく空港までの移動と運賃も重要だ。\n\n空港は2025年の間接移動が往復方向合計17万8000人超、地域のパキスタン系住民32万人超と説明する。過去の間接需要は新便予約ではなく、人口も旅客数ではない。期待需要の評価には開始後の実績を要する。\n\n往復の現地時刻\nPK791は12:15発16:00着、PK792は18:30発7:15着と示す。国の異なる時計を引いても飛行時間にはならない。夜発朝着は予約の到着日も見る必要がある。本稿は省略された日付を創作せず、宿泊と接続は購入旅程に従う。\n\n777でも全座席や運賃条件は分からない。荷物、変更、払い戻し、座席図は別確認し、週3便の日程制約も含め総額で比較したい。直行でも全旅程に最適とは限らない。\n\n地域を一区間で結ぶ予定が変化で、全世界向け接続商品ではない。韓国から組み合わせるなら区間別の入国と予約が必要だ。実際の12月初便と変更が次の確認点。11月3日と12月1日を区別すると計画と実施が明確になる。"
+        },
+        "zh": {
+          "title": "PIA计划12月1日恢复伯明翰—伊斯兰堡直飞",
+          "summary": "机场11月3日公布，英国出发为周二四六，需分清当地时刻及到达日期。",
+          "body": "伯明翰机场11月3日宣布PIA计划12月1日起恢复伊斯兰堡直飞，波音777执飞，英国出发周二四六每周三班。这是11月公告和12月计划，并非首航已完成。\n\n中部地区选择\nPIA是巴基斯坦航司，当地旅客可与前往英国其他机场或海外转机比较。探亲行程停留和行李不同，需看机场交通及票价，而非只有飞行时间。\n\n机场称2025年两方向间接旅客超过178000人，西米德兰兹巴基斯坦裔超过320000人。历史转机需求不是新航班预订，人口也不是客流。预期需求要靠开航后数据评估。\n\n看清双向时刻\nPK791列12:15出发16:00到，PK792为18:30至07:15。跨国当地时间不能直接相减当航程，晚出晨到还要核对预订单到达日期。本文不补造表格省略的日期标记，酒店和接驳按购买行程安排。\n\n777名称不说明全部座位或票规，行李、改退、座位图另查。比较同等行李选座的往返总额，并考虑每周三班的日历限制，直飞不一定对每段旅行最优。\n\n变化是计划为地区提供一段直连，而非全球通用转机产品。从韩国等地组合仍需逐段核对入境及机票。后续看12月实际首航和时间表变更，分清11月3日和12月1日，才能区别计划与实施。"
+        }
+      },
+      "sources": [
+        {
+          "name": "Birmingham Airport",
+          "url": "https://www.birminghamairport.co.uk/latest-news/pia-flights-from-birmingham-to-pakistan-return/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261108-pia.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "일반 영국 공항 출발장 여행객, AI 참고 장면",
+          "en": "Travelers in a generic UK departure hall, AI reference",
+          "ja": "一般英国空港の出発客、AI参考画像",
+          "zh": "通用英国机场出发旅客，AI参考图"
+        }
+      }
+    },
+    {
+      "id": "ana-honolulu-nh182-daily-window-20261108",
+      "date": "2026-08-20",
+      "published": "2026-11-08",
+      "source": "ANA",
+      "url": "https://www.ana.co.jp/en/jp/guide/plan/airinfo/int-routeinfo/",
+      "category": {
+        "ko": "시간표 해설",
+        "en": "Schedule explained",
+        "ja": "時刻表解説",
+        "zh": "时刻表解读"
+      },
+      "locales": {
+        "ko": {
+          "title": "ANA 나리타–호놀룰루 NH182, 11월 6~20일 매일 운항 시간표",
+          "summary": "8월 20일 갱신 시간표의 이번 주 적용 내용을 확인했다. NH182의 기간별 편수와 노선 전체의 편수는 구분해야 한다.",
+          "body": "ANA의 공개 겨울 시간표에 따르면 나리타발 호놀룰루행 NH182는 11월 6일부터 20일까지 매일 운항하는 일정이다. 직전인 10월 25일~11월 5일에는 화·금·일요일 주 3회로 표시돼 있다. 이번 주 바뀐 것은 이 편명의 운항 패턴이다. 원문은 8월 20일 갱신된 자료로, 11월에 새로 발표한 증편 소식으로 바꿔 쓰면 안 된다. 본지는 11월 8일 현재 적용되는 구간을 다시 확인했다.\n\n편명 하나와 노선 전체는 다르다\nANA는 일본의 항공사로 도쿄와 하와이 사이에 여러 편명을 운항한다. 같은 표에는 NH184 나리타발과 NH186 하네다발이 매일 운항하는 일정으로 나온다. 따라서 NH182가 주 3회에서 매일로 바뀐다는 말은 나리타–호놀룰루 전체가 처음 매일 운항하게 됐다는 뜻이 아니다. 노선을 비교할 때에는 출발 공항과 편명을 먼저 나눠야 한다. 도쿄라는 도시 이름만 같다고 나리타와 하네다에서의 출발을 같은 공항으로 생각하면 이동 계획이 틀어질 수 있다.\n\n이 매일 운항 구간은 11월 20일까지다. 11월 21일~12월 16일에는 NH182를 다시 화·금·일요일로 표시하고, 12월 17일부터는 다음 매일 운항 구간이 이어진다. 시즌 내내 한 가지 횟수가 고정돼 있지 않다는 얘기다. 특히 출발은 매일 운항 구간에 맞지만 귀국은 다른 기간에 속할 수 있다. 왕복을 같은 달의 하나의 빈도로 묶기보다 각각의 날짜와 귀국편 NH181의 조건을 조회해야 한다. 운항 예정표와 실제 잔여 좌석도 같은 정보는 아니다.\n\n태평양을 건너는 날짜 읽기\n일본과 하와이 여행은 날짜 변경선을 지나므로 시각뿐 아니라 달력의 날짜를 확인하는 것이 중요하다. 단순히 몇 시 출발·몇 시 도착만 보고 숙박 시작일을 정하면 날짜를 어긋나게 잡을 수 있다. 실제 예약 확인서의 현지 도착일을 기준으로 호텔과 렌터카를 맞춰야 한다. 이 기사에서는 표에 없는 개별 출도착 시각이나 비행시간을 만들어 넣지 않았다. 한국에서 일본 국내 공항을 경유한다면 첫 구간과 국제선 사이의 공항 이동 여부도 별도로 확인해야 한다.\n\nANA는 FLYING HONU 안내 페이지에서도 기간별 운항을 설명한다. 그러나 기종과 운항 횟수가 안내돼 있다는 사실만으로 특정 좌석·서비스를 무조건 보장한다고 볼 수 없다. 일정이 바뀌거나 기재가 교체될 수 있으므로 구매 단계에서 실제 판매편의 기종과 좌석도를 확인하는 과정이 남는다. 이미 여행 날짜가 정해졌다면 추가된 날짜에 이용 가능한 운임이 있는지 보는 것이 중요하다. 편수가 늘어난다고 모든 날의 가격이 내려간다는 관계는 이 자료에서 확인되지 않는다.\n\n이번 시간표는 주 단위의 여행 선택이 시즌 중에도 바뀐다는 사례다. 11월 6일의 적용 시작과 11월 20일의 종료를 함께 적어야 변화의 범위가 보인다. 이는 공개된 표를 독자의 일정에 맞춰 해석한 것이며 개별 비행의 실제 출발을 모두 추적한 보도는 아니다. 항공권을 아직 고르지 않은 사람은 편명별 판매 날짜를 비교할 수 있고, 이미 예약한 사람은 자신의 여정이 달라졌는지 항공사의 예약 정보를 확인하면 된다. 과거 발표를 현재 적용 내용으로 읽되 새 발표라고 포장하지 않는 것이 이 소식의 기준이다."
+        },
+        "en": {
+          "title": "ANA’s NH182 enters a November daily-service window",
+          "summary": "A previously published timetable applies this week; one flight number is different from total route frequency.",
+          "body": "ANA's winter timetable lists daily Narita–Honolulu NH182 service from November 6 through 20, following a Tuesday/Friday/Sunday pattern from October 25 through November 5. This week's change concerns that flight number. The source was updated August 20; it is not a newly announced November expansion. We rechecked the currently applicable window on November 8.\n\nOne number versus the route\nANA lists daily NH184 from Narita and NH186 from Haneda as well. NH182 becoming daily does not mean Narita–Honolulu gains daily service for the first time. Separate airport and flight number: Narita and Haneda are not the same departure point despite serving Tokyo.\n\nNH182 returns to Tuesdays, Fridays and Sundays from November 21 to December 16, before another daily window from December 17. One frequency does not apply all season. An outbound date can be in a different window from the return, so check each date and NH181 separately. Scheduled operation and available seats are also different.\n\nCrossing the date line\nTravel between Japan and Hawaii requires calendar dates as well as clock times. Use the booking's local arrival date for hotels and cars. This article invents no times or durations missing from the table. Connecting from Korea also requires checking whether an airport transfer is involved.\n\nANA's FLYING HONU page explains seasonal patterns too. Published aircraft and frequency do not unconditionally guarantee a seat or service; substitutions and changes remain possible. Check the aircraft and seat map on the actual flight for sale. Extra operating dates do not by themselves establish lower fares.\n\nThe useful window has both a November 6 start and November 20 end. This is timetable interpretation, not tracking every actual departure. Prospective passengers can compare dates; existing customers can check their booking for changes. A prior announcement can be relevant now without being presented as newly issued."
+        },
+        "ja": {
+          "title": "ANA成田–ホノルルNH182、11月6～20日は毎日運航予定",
+          "summary": "8月20日更新表の今週適用分を確認。1便名と路線全体を区別したい。",
+          "body": "ANA冬ダイヤでは成田–ホノルルNH182は11月6～20日毎日運航予定。直前の10月25日～11月5日は火・金・日曜だった。今週の変化はこの便名のパターンで、原文は8月20日更新。11月の新発表ではなく、11月8日に適用区間を再確認した。\n\n便名と路線全体\n同表には成田NH184と羽田NH186も毎日とある。NH182の変更は成田線が初めて毎日になる意味ではない。空港と便名を分け、成田と羽田を同一視しないことが必要だ。\n\n11月21日～12月16日は再び火・金・日、12月17日から次の毎日区間。全季固定でなく、往路と復路が別期間の場合もある。日付とNH181をそれぞれ確認し、運航予定と空席も分けて読む。\n\n日付変更線を読む\n日本とハワイでは時計だけでなく到着日が重要。宿や車は確認書の現地日付に合わせる。本稿は表にない時刻や所要時間を作っていない。韓国経由などでは空港間移動の有無も別確認だ。\n\nFLYING HONU案内も季節運航を説明するが、機種と頻度が全座席・サービスの無条件保証にはならない。変更や機材交替があり得るため販売便の機種と座席図を見る。追加日程だけで値下げも確定しない。\n\n11月6日と20日を両方示すと範囲が明確になる。時刻表の解釈で全初出発の追跡ではない。購入前は日付比較、購入済みは予約変更確認が役立つ。過去発表の現在適用を新発表と装わず読む記事である。"
+        },
+        "zh": {
+          "title": "ANA成田—檀香山NH182进入11月每日运营窗口",
+          "summary": "核对8月20日更新表的本周适用内容，单一航班频次不等于整条航线。",
+          "body": "ANA冬季表列成田至檀香山NH182于11月6日至20日每日计划运营，之前10月25日至11月5日为周二五日。本周改变的是此航班号模式，原表8月20日更新，非11月新公告；本稿11月8日核对当前适用窗口。\n\n航班号与整条线\n同表成田NH184、羽田NH186也是每日，所以NH182变化不代表成田线首次每日。先分机场与航班号，成田和羽田不能因同属东京而混为一处。\n\n11月21日至12月16日再回二五日，12月17日起另一每日窗口。全季非固定，去回程可属不同区间，应逐日并查NH181，计划运营与余票也不同。\n\n跨越日期线\n日本至夏威夷要看日期不只时钟，酒店租车按预订单当地到达日。本稿不制造表格没有的时刻或航程；从韩国组合还要查是否换机场。\n\nFLYING HONU页也列季节模式，但机型频次不保证所有座位服务，仍可能换机或改期，应看实际在售航班座位图。增班日期也不自动等于降价。\n\n同时写明11月6日起、20日止才能看清范围。这是表格解读，并非跟踪每次实际起飞。未买票者可比日期，已买者查预订变更。旧公告现在生效有价值，却不应包装为新发布。"
+        }
+      },
+      "sources": [
+        {
+          "name": "ANA",
+          "url": "https://www.ana.co.jp/en/jp/guide/plan/airinfo/int-routeinfo/"
+        },
+        {
+          "name": "ANA · FLYING HONU service calendar",
+          "url": "https://www.ana.co.jp/en/jp/international/area/hawaii/a380/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261108-ana.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "태평양 상공 일반 여객기 창밖 풍경, AI 참고 장면",
+          "en": "Generic airliner view above the Pacific, AI reference",
+          "ja": "太平洋上の一般機窓、AI参考画像",
+          "zh": "太平洋上空通用客机窗景，AI参考图"
+        }
+      }
+    },
+    {
+      "id": "american-miami-cap-haitien-20261101",
+      "date": "2026-11-01",
+      "published": "2026-11-08",
+      "source": "American Airlines",
+      "url": "https://news.aa.com/news/news-details/2026/American-Airlines-returns-to-Haiti-with-all-Haitian-crew-marking-100th-destination-served-in-the-region-NET-OTH-11/",
+      "category": {
+        "ko": "국제선 연결",
+        "en": "International network",
+        "ja": "国際線ネットワーク",
+        "zh": "国际网络"
+      },
+      "locales": {
+        "ko": {
+          "title": "아메리칸항공, 마이애미–카프아이시앵 매일 운항 재개 발표",
+          "summary": "11월 1일 재개를 알렸다. 카리브·중남미 100번째 목적지라는 숫자와 구체적인 도착 공항을 구분해 읽었다.",
+          "body": "아메리칸항공이 11월 1일 마이애미(MIA)와 아이티 북부 카프아이시앵(CAP)을 잇는 매일 직항 운항 재개를 발표했다. 항공사는 첫 운항을 기념한 소식으로 소개했으며 보잉 737을 투입한다고 설명했다. 카프아이시앵은 수도 포르토프랭스와 다른 도시다. ‘아이티행 재개’라는 큰 표현보다 실제 도착 공항을 확인해야 여행의 의미를 정확히 알 수 있다.\n\n마이애미 허브에 더해진 한 도시\n아메리칸항공은 미국의 대형 항공사로 마이애미에서 카리브해와 중남미 여러 도시를 연결한다. 회사는 카프아이시앵이 이 지역 네트워크의 100번째 목적지라고 설명했다. 이 수치는 회사 전체 취항지가 100개라는 뜻이 아니고, 아이티에 새로 공항 100개를 연결했다는 뜻도 아니다. 지역이라는 분모를 붙여야 규모를 이해할 수 있다. 한 도시를 추가하는 일은 현지 출발 여행뿐 아니라 미국 여러 도시에서 마이애미를 거치는 연결에도 영향을 준다.\n\n회사는 미국 내 90개 넘는 연결편 선택을 소개했다. 그렇다고 모든 출발지에서 같은 날 짧은 대기로 연결되거나, 원하는 운임으로 한 장의 항공권을 살 수 있다는 보증은 아니다. 출발 날짜별 시간표와 운임 조합이 다르기 때문이다. 이미 마이애미행을 따로 샀다면 뒤 구간이 추가돼도 자동으로 연결 보호가 생기지는 않는다. 각 구간의 예약 번호와 수하물 처리, 지연 때 재예약 조건을 확인해야 한다. 환승의 편리함은 노선 지도보다 실제 예약 조합에서 결정된다.\n\n첫 운항 승무원과 상시 서비스\n발표는 첫 비행을 아이티 출신이며 크리올어를 사용하는 승무원들이 운항했다는 점을 강조했다. 이는 특정 기념 비행의 구성에 관한 설명이다. 앞으로 모든 편에서 같은 승무원 구성이나 언어 서비스가 제공된다고 바꿔 적을 근거는 없다. 지역 사회와 항공편의 연결을 보여주는 사례로 읽되, 개별 승객이 요청할 수 있는 서비스는 항공사의 실제 안내를 따라야 한다. 본지는 이 비행을 동행 취재하거나 승무원을 인터뷰하지 않았다.\n\n737이라는 기재 이름 역시 좌석 수와 좌석 간격, 수하물 허용량을 모두 확정하지 않는다. 회사의 운항 재개 공지에는 판매되는 모든 운임의 세부 조건이 담겨 있지 않다. 방문 목적지와 공항 사이의 지상 이동도 별도로 계획해야 한다. 운항 재개는 항공편을 제공한다는 소식이지 현지 이동과 입국 조건까지 하나의 상품으로 보장하는 설명은 아니다. 항공사의 시간표와 관계 당국의 현재 안내는 맡는 역할이 다르므로 구분해서 확인해야 한다.\n\n이번 발표에서 확인되는 변화는 카프아이시앵 직항의 재개와 마이애미 지역 연결망의 확대다. 회사가 제시한 향후 겨울 운항 확대와 공항 시설 투자 계획은 별도의 일정으로 진행된다. 새 노선 하나가 열렸다고 모든 시설 계획까지 이미 완성됐다고 해석할 수 없다. 독자는 11월 1일 발표, 실제 판매 중인 출발일, 구체적인 CAP 공항이라는 세 지점을 기준으로 여정을 읽을 수 있다. 이후 평가할 것은 실제 운항 유지와 연결 품질이며, 이번 공지만으로 이를 미리 보증할 수는 없다. 매일 운항은 출발 기회의 빈도이며, 특정 날짜의 잔여 좌석이나 최종 판매 요금까지 나타내는 수치는 아니다."
+        },
+        "en": {
+          "title": "American restores Miami–Cap-Haïtien service in its regional network",
+          "summary": "The November 1 announcement marks a regional destination milestone, with a specific Haitian airport.",
+          "body": "American announced restored daily nonstop Miami–Cap-Haïtien service on November 1, describing an inaugural celebration and Boeing 737 operation. Cap-Haïtien in northern Haiti is not the capital, Port-au-Prince. The specific arrival airport matters more than a broad “Haiti return” label.\n\nA city in the Miami network\nAmerican calls CAP its 100th destination in the Caribbean and Latin America, not its 100th worldwide destination. The regional denominator is essential. The new link also affects travelers connecting through Miami from elsewhere in the US.\n\nThe airline describes more than 90 US connections, but not every origin guarantees a convenient same-day transfer or one through fare. Dates and bookings differ. A separately bought Miami ticket does not automatically gain connection protection. Check reservations, baggage and rebooking terms; the actual itinerary matters more than a map.\n\nAn inaugural crew, not every crew\nThe release highlights a Haitian, Creole-speaking crew on the milestone flight. That does not promise the same staffing or language provision on every future service. It illustrates a community connection, while individual service requests require actual airline guidance. This report contains no invented onboard reporting or interviews.\n\nA 737 name does not establish seating, legroom or baggage limits across all fares. Ground travel from the correct airport also needs separate planning. Airline service resumption does not bundle local transport and entry conditions into a guarantee; airline and government notices serve different roles.\n\nThe confirmed development is the CAP link and Miami network expansion. Other winter growth and airport-investment plans have separate timelines and are not all completed by this launch. Read the November 1 release alongside actual dates on sale and the CAP airport code. Continued operation and connection quality require later evidence, not assumptions from the announcement. Daily frequency does not establish remaining seats or final fares on a particular date."
+        },
+        "ja": {
+          "title": "American、マイアミ–カパイシアン再開を発表",
+          "summary": "11月1日再開発表。地域100目的地の範囲と到着空港を確認する。",
+          "body": "Americanは11月1日、マイアミ–カパイシアン毎日直行便の再開を発表し、初便を記念した。737を使う。ハイチ北部のCAPは首都ポルトープランスとは別の都市で、国名だけでなく到着空港が重要だ。\n\n地域ネットワークの1都市\nカリブ・中南米で100番目という説明は全世界100目的地ではない。分母を地域と読み、米国内からマイアミ経由の旅にも関係する。\n\n90超の米国接続を紹介するが、全出発地で同日短時間や一冊の券を保証しない。別購入のマイアミ便に自動で接続保護は付かず、予約、荷物、再予約条件を確認する。地図より実旅程が重要だ。\n\n初便の乗員と常時提供\nハイチ出身でクレオール語を使う初便乗員を紹介したが、全便で同構成を約束しない。地域とのつながりの事例でありサービス要求は案内で確認する。本稿は同乗取材や架空インタビューをしていない。\n\n737だけで座席、足元、荷物は決まらず運賃別条件が残る。到着後の移動も別計画だ。再開は地上交通と入国の保証ではなく、航空会社と当局の案内は役割が異なる。\n\n確認できる変化はCAP再開とマイアミ網拡大。他の冬季・施設計画は別日程で、全部完成とは限らない。11月1日、販売日、CAPコードを基準に読み、運航継続や接続品質は後の資料で評価したい。毎日という頻度は特定日の空席や最終運賃を示さない。"
+        },
+        "zh": {
+          "title": "美航宣布恢复迈阿密至海地角每日直飞",
+          "summary": "11月1日公告涉及区域第100航点，需明确具体海地机场。",
+          "body": "美航11月1日宣布恢复迈阿密至海地角每日直飞，并介绍纪念首航，使用737。海地北部CAP不是首都太子港，具体机场比“恢复海地航班”更重要。\n\n区域网络中的一城\n公司称加勒比及拉美第100目的地，并非全球第100。区域分母明确后，才可理解对美国其他城市经迈阿密连接的意义。\n\n超过90个美国衔接选择不保证每地都能同日短转或买一张联程。单独买的迈阿密票不会自动获保护，应查预订、行李及延误改订。实际组合比地图更重要。\n\n首航机组不等于常规配置\n公告强调海地裔、讲克里奥尔语的纪念航班机组，不保证所有未来班次相同。它说明社区联系，具体服务仍看官方安排，本稿未虚构随行或采访。\n\n737名称不能确定全部座位空间及行李，票规另查。到达后地面交通也须计划。恢复运营不等于打包保证入境及当地交通，航司和当局公告角色不同。\n\n已确认的是CAP直飞与迈阿密网络扩大，冬季其他扩张和设施计划另有时间表，不因一条线就全部完工。按11月1日、在售日期及CAP代码阅读，持续运营和衔接质量还需后续证据。每日频次不是具体日期的余票或最终票价。"
+        }
+      },
+      "sources": [
+        {
+          "name": "American Airlines",
+          "url": "https://news.aa.com/news/news-details/2026/American-Airlines-returns-to-Haiti-with-all-Haitian-crew-marking-100th-destination-served-in-the-region-NET-OTH-11/"
+        }
+      ],
+      "image": {
+        "url": "assets/20261108-haiti.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "일반 열대 해안 공항의 여객기, AI 참고 장면",
+          "en": "Generic airliner at a tropical airport, AI reference",
+          "ja": "一般熱帯空港の旅客機、AI参考画像",
+          "zh": "通用热带机场客机，AI参考图"
+        }
+      }
+    },
+    {
+      "id": "flyadeal-jeddah-lucknow-20261106",
+      "date": "2026-11-06",
+      "published": "2026-11-08",
+      "source": "flyadeal · issued release via ZAWYA",
+      "url": "https://www.zawya.com/en/press-release/companies-news/flyadeal-launches-jeddahlucknow-flights-expanding-india-network-2044944",
+      "category": {
+        "ko": "신규 노선",
+        "en": "New routes",
+        "ja": "新路線",
+        "zh": "新航线"
+      },
+      "locales": {
+        "ko": {
+          "title": "flyadeal, 제다–러크나우 직항 시작…발표보다 이틀 먼저 운항",
+          "summary": "11월 6일 배포 자료는 11월 4일 시작을 알렸다. 인도 세 번째 정기 목적지에 주 3회 A320neo를 투입한다.",
+          "body": "사우디아라비아의 저비용항공사 flyadeal이 제다와 인도 러크나우 사이 직항을 11월 4일 시작했다고 11월 6일 배포 자료를 통해 알렸다. 매주 월요일·수요일·일요일 양방향 주 3회 운항하며 186석 에어버스 A320neo를 사용한다. 발표일과 운항 개시일이 이틀 차이 난다. 하이데라바드와 뭄바이에 이어 러크나우가 이 항공사의 인도 세 번째 정기 목적지가 됐다는 설명이다.\n\n사우디와 인도 사이의 추가 연결\nflyadeal은 Saudia Group 소속 저비용항공사다. 이번 소식은 그룹 전체의 인도 진출이 처음이라는 뜻이 아니라, flyadeal 자체 정기 노선망의 확대다. 제다에서 러크나우까지 중간 공항에 내리지 않는 선택지가 생겼다는 점이 핵심이다. 항공사는 업무와 여행, 친지 방문 수요를 배경으로 들었다. 실제 어떤 승객층이 얼마나 이용하는지는 운항 후 자료로 확인할 부분이며, 회사의 수요 설명을 이미 측정한 탑승 실적으로 취급할 수는 없다.\n\n주 3회는 달력에서 확인해야 한다\n월·수·일요일이라는 패턴은 매일 출발할 수 있는 노선과 다르다. 짧은 체류를 계획한다면 출발편만이 아니라 귀국편 날짜까지 먼저 맞춰봐야 한다. 예를 들어 행사 참석 뒤 바로 다음 날 귀국하려고 해도 해당 요일에 편이 없을 수 있다. 이는 공개된 운항일에서 읽을 수 있는 일정의 제약이지 모든 날의 예약 상황을 조회한 결과는 아니다. 특정 날짜의 항공편이 판매되는지와 좌석이 남아 있는지는 실제 예약 화면에서 확인해야 한다.\n\nA320neo의 좌석 수와 여행 비용\nA320neo는 단일 통로 여객기 계열이다. 여기서 186석은 flyadeal이 이 노선에 제시한 기재 구성으로, 같은 기종을 쓰는 모든 항공사의 좌석 수와 같지 않다. 좌석을 많이 넣는 구성과 개별 승객의 운임 조건은 별개의 문제다. 저비용항공사에서는 기본 요금에 어떤 수하물과 서비스가 포함되는지 특히 중요하다. 직항과 환승편을 비교한다면 필요한 짐, 좌석 선택과 변경 규정을 같은 조건으로 놓고 총액을 보는 편이 정확하다.\n\n항공사의 공식 러크나우–제다 판매 페이지에서도 노선과 운임 조회를 확인할 수 있다. 다만 페이지는 최근 48시간 수집 가격이 예약 시점에 남아 있지 않을 수 있다고 설명한다. 시작가 문구를 모든 출발일의 확정 운임으로 인용하면 안 되는 이유다. 표시 통화와 출발 방향, 편도인지 왕복인지도 맞춰야 한다. 이 기사에서는 변동하는 최저가를 대표 가격으로 제시하지 않았고, 발표에 없는 수하물 허용량이나 무료 식사 조건을 만들어 넣지 않았다.\n\n이번 자료는 항공사가 배포한 보도자료가 ZAWYA의 배포 채널에 실린 것이며, 판매 가능 여부는 항공사 공식 페이지와 함께 확인했다. 하나는 노선 개시를 알리는 기록이고 다른 하나는 현재 예약을 위한 화면이다. 두 자료가 맡는 역할이 다르다. 독자가 활용할 핵심은 11월 4일 실제 개시를 알린 점, 주 3회라는 운항 빈도, 구체적인 JED–LKO 도시쌍이다. 향후 시간표 변경과 개별 편의 운항은 출발 전 다시 확인해야 하며, 이번 연결이 모든 여행에서 환승보다 싸거나 빠르다고 미리 결론 낼 수는 없다."
+        },
+        "en": {
+          "title": "flyadeal’s Jeddah–Lucknow link began before its announcement",
+          "summary": "The November 6 release reports a November 4 start, with three weekly A320neo services.",
+          "body": "flyadeal said in a release distributed November 6 that Jeddah–Lucknow nonstop service began November 4. It operates three times weekly in each direction on Mondays, Wednesdays and Sundays using 186-seat A320neos. The start precedes publication by two days. Lucknow becomes its third scheduled Indian destination after Hyderabad and Mumbai.\n\nAn additional Saudi–India connection\nflyadeal is Saudia Group's low-cost carrier. This expands its own scheduled network, not the group's first entry into India. The direct connection avoids an intermediate airport. The airline cites business, leisure and family visits, but actual passenger composition requires later evidence rather than treating expected demand as measured traffic.\n\nPut the days on a calendar\nThree weekly days differ from daily choice. For a short stay, match return as well as outward dates; a next-day return after an event may not operate. This is a schedule implication, not a check of every date's availability. Flights for sale and remaining seats need an actual booking search.\n\nSeats and cost\nThe 186 seats are this carrier's stated A320neo configuration, not every operator's layout. Cabin density and fare inclusions are different issues. Compare direct and connecting totals with the same baggage, seat and change requirements, especially with a low-cost fare.\n\nThe official Lucknow–Jeddah sales page also lists the route. It warns that fares collected within 48 hours may no longer be available. A starting price is not every date's guaranteed fare; currency, direction and one-way versus return must match. We do not supply a representative volatile fare or invent included baggage or meals.\n\nThe primary release is distributed through ZAWYA, while the carrier page serves reservations. One records the launch; the other supports current searching. The useful facts are November 4 commencement, three weekly services and JED–LKO. Recheck changes before travel; the connection is not established as cheaper or faster for every itinerary."
+        },
+        "ja": {
+          "title": "flyadealジェッダ–ラクナウ線、発表の2日前に開始",
+          "summary": "11月6日資料で4日開始を報告。インド3番目の定期目的地へ週3便。",
+          "body": "flyadealは11月6日配布資料で、ジェッダ–ラクナウ直行便を4日に開始したと説明した。186席A320neoで月・水・日曜の双方向週3便。発表より2日早い開始で、ハイデラバード、ムンバイに次ぐ同社3番目のインド定期目的地だ。\n\n追加の両国接続\nSaudia Groupの低コスト会社自身の網拡大で、グループ初のインド進出ではない。中間空港を避ける選択が増える。仕事、旅行、親族訪問という会社説明は需要の背景で、実測旅客構成は後の資料が必要だ。\n\n曜日をカレンダーに\n週3便では短期滞在の復路も合わせる必要がある。行事翌日に必ず帰れるとは限らない。これは曜日からの解釈で、全日の空席確認ではない。販売日と残席は検索する必要がある。\n\n座席数と費用\n186席はこの会社のA320neo構成で全社共通でない。密度と運賃の包含条件は別だ。低コスト運賃と乗り継ぎを比べるなら荷物、座席、変更条件をそろえ総額で見る。\n\n公式ラクナウ–ジェッダ販売ページでも路線を確認できるが、48時間以内に集めた価格が予約時に残らない場合を注記する。最安は全日保証でなく、通貨、方向、片道・往復を合わせたい。本稿は変動価格や未確認の無料食事・荷物を創作していない。\n\n一次発表はZAWYAの配布枠、予約は航空会社ページで役割が違う。11月4日、週3便、JED–LKOが要点。出発前の変更確認は残り、全旅程で安く速いとは断定できない。"
+        },
+        "zh": {
+          "title": "flyadeal吉达—勒克瑙直飞，运营早于公告两天",
+          "summary": "11月6日资料称4日已开始，每周三班A320neo，成为其印度第三个定期航点。",
+          "body": "flyadeal11月6日分发资料称吉达—勒克瑙直飞已于4日开始，186座A320neo在周一三日双向每周三班。运营早于公告两天，继海得拉巴、孟买后成为其印度第三定期目的地。\n\n新增两国连接\n这是Saudia Group旗下低成本航司自身扩网，并非集团首次进入印度。直飞免去中间落地，公司提商务、休闲和探亲需求，但实际客群需后续数据，不能把预期当实测。\n\n把星期放进日历\n每周三班需去回程一起匹配，活动次日未必有返程。这是基于星期的行程分析，不是每天余票核查，在售航班和空位仍需搜索。\n\n座位与成本\n186座是该航司配置，不是全部A320neo相同。密度与票价包含项不同，比较直飞转机时需统一行李、选座、改签后看总额。\n\n官方勒克瑙—吉达销售页可查路，但提示48小时内收集价格预订时可能不在。起价不保证所有日期，应统一币种、方向、单程往返。本文不填造免费行李餐食，也不以变动最低价代表全部。\n\n一手声明经ZAWYA分发，航司页面供订票，角色不同。核心为11月4日已开始、每周三班和JED–LKO，出发前仍查变更，不能预断所有行程更快更便宜。"
+        }
+      },
+      "sources": [
+        {
+          "name": "flyadeal · issued release via ZAWYA",
+          "url": "https://www.zawya.com/en/press-release/companies-news/flyadeal-launches-jeddahlucknow-flights-expanding-india-network-2044944"
+        },
+        {
+          "name": "flyadeal · official route and fare search",
+          "url": "https://www.flyadeal.com/flights/en/flights-from-lucknow-to-jeddah"
+        }
+      ],
+      "image": {
+        "url": "assets/20261108-lucknow.jpg",
+        "generated": true,
+        "alt": {
+          "ko": "국제선 공항 통로의 일반 가족 여행객, AI 참고 장면",
+          "en": "Generic family travelers in an international terminal, AI reference",
+          "ja": "一般空港の家族旅行客、AI参考画像",
+          "zh": "国际航站楼的通用家庭旅客，AI参考图"
+        }
+      }
+    },
     {
       "id": "easyjet-keflavik-uk-routes-20261106",
       "date": "2026-11-06",
