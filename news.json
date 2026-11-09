@@ -1,6 +1,285 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "articles": [
+    {
+      "id": "airbus-a350-ulr-distance-record-20261109",
+      "date": "2026-11-09",
+      "published": "2026-11-10",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Airbus — A350-1000ULR distance record",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record",
+      "sources": [
+        {
+          "name": "Airbus — A350-1000ULR distance record",
+          "url": "https://www.airbus.com/en/newsroom/press-releases/2026-11-airbus-a350-1000ulr-for-qantas-breaks-world-distance-record"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "에어버스 A350 초장거리형, 2만3155km 시험비행으로 거리 기록",
+          "summary": "멜버른에서 툴루즈까지 24시간 24분 비행했다. 7월 시험 결과를 11월에 발표했으며 콴타스의 여객 운항은 2027년 계획이다.",
+          "body": "에어버스는 A350-1000ULR이 민간 여객기 최장 비행 거리 부문에서 기네스 세계 기록을 세웠다고 현지시간 11월 9일 발표했다. 실제 비행은 7월 27~28일이었다. 시험기는 멜버른을 출발해 태평양과 북미, 대서양을 거쳐 프랑스 툴루즈까지 1만2503해리, 약 2만3155km를 비행했다. 에어버스가 밝힌 비행시간은 24시간 24분이다. 회사는 국제항공연맹과 항공편 추적 서비스 플라이트레이더24가 기록의 근거가 된 비행 데이터를 독립적으로 검증했다고 밝혔다.\n\nA350은 에어버스의 두 엔진 광동체 항공기 계열이다. 광동체는 객실이 넓어 통로를 두 줄 두는 형태를 말한다. ULR은 초장거리라는 뜻으로, 이번 모델은 콴타스가 시드니에서 런던과 뉴욕을 논스톱으로 잇기 위해 추진하는 프로젝트 선라이즈에 맞춰 개발됐다. 표준 A350-1000을 바탕으로 후방 중앙 연료 탱크를 기체 구조에 통합했다. 에어버스가 설명한 항속거리 증가분은 약 1000해리다. 이 값은 개조로 늘어난 성능을 가리키고, 1만2503해리는 특정 시험에서 실제로 비행한 거리다.\n\n시험이 확인한 범위\n시험 목적에는 출발지에서 밀어내기를 시작한 시점부터 도착지에서 바퀴 고임목을 설치할 때까지 23시간이 걸리는 운항을 모사하는 과제가 포함됐다. 이 구간 전체를 블록 타임이라고 한다. 공항에서 지상 이동하는 시간까지 담는 기준이다. 발표문에 나온 24시간 24분은 기록 비행의 비행시간으로 제시됐다. 두 수치가 측정하는 구간이 다르므로 단순히 빼서 시험 목표 초과분을 구하는 데 쓰기 어렵다.\n\n탑승 인원은 시험 조종사와 엔지니어 등을 포함해 13명이었다. 콴타스가 계획하는 시드니발 런던·뉴욕 여객 노선은 에어버스 설명으로 약 1만 해리, 최대 22시간 수준이다. 상업 운항에서는 여행객과 수하물, 화물의 무게를 반영하고 실제 바람과 우회 공항, 연료 여유를 고려해 매일 비행계획을 짠다. 따라서 한 차례의 시험에서 달성한 거리를 표를 사는 승객의 예정 비행거리나 운항시간으로 옮겨 쓰면 여행 계획에 맞지 않는다.\n\n기록에 사용한 경로도 항속거리 비교의 일부다. 시험기는 멜버른을 떠난 뒤 시드니 상공을 지나 북동쪽으로 태평양을 건넜다. 이어 북미 대륙과 대서양을 횡단하고 런던 상공을 지나 툴루즈로 향했다. 발표에 적힌 거리는 이렇게 실제로 선택한 경로를 따라 집계한 값이다. 지도에서 두 공항을 최단 경로로 연결해 잰 거리와는 기준이 다르다. 해리는 항공과 해상에서 쓰는 거리 단위로 1해리는 1.852km다. 같은 수치를 다른 단위로 읽을 때는 반올림 자리 때문에 몇 km 차이가 날 수 있다.\n\n콴타스는 이 초장거리형을 12대 주문했다. 에어버스가 11월 9일 제시한 일정은 첫 기체를 2027년 4월 인도하고 같은 해 후반 시드니–런던 노선에 투입하는 것이다. 이 발표에는 첫 운항의 날짜와 운임이 제시되지 않았다. 기록이 여행자에게 의미를 갖는 지점은 환승을 건너뛸 수 있는 노선의 기술적 가능성이 한 단계 더 구체화됐다는 데 있다. 실제 소요시간과 객실 선택, 예약 가능 날짜는 항공사가 시간표와 판매 조건을 공개할 때 확인할 수 있다."
+        },
+        "en": {
+          "title": "Airbus A350 ultra-long-range variant sets a 23,155 km flight record",
+          "summary": "The aircraft flew from Melbourne to Toulouse in 24 hours and 24 minutes in July. Airbus announced the record in November, with Qantas passenger service planned for 2027.",
+          "body": "Airbus announced on November 9 that the A350-1000ULR had set a Guinness World Record for distance flown by a commercial airliner. The flight took place on July 27–28. It traveled from Melbourne across the Pacific, North America and the Atlantic to Toulouse, covering 12,503 nautical miles, or about 23,155 km. Airbus reported a flight time of 24 hours and 24 minutes. The company said the International Aeronautical Federation and Flightradar24 independently validated the underlying aircraft data.\n\nThe A350 is Airbus's twin-engine widebody family. A widebody cabin generally accommodates two aisles. ULR stands for ultra-long range, and this version was developed for Qantas's Project Sunrise, which aims to connect Sydney nonstop to London and New York. A rear center fuel tank is integrated into the structure of the standard A350-1000 design. Airbus attributes about 1,000 nautical miles of extra range to the modification. That figure describes the increment, while 12,503 nautical miles describes the particular test flight.\n\nWhat the test measured\nOne test objective was to simulate a sector with a 23-hour block time. Block time runs from pushback at departure to chocks on at arrival and includes time on the ground. Airbus separately reports 24 hours and 24 minutes as the record flight's flight time. Subtracting those numbers would compare two different measurement windows.\n\nThirteen people were aboard, including test pilots and engineers. Airbus describes the prospective Sydney–London and Sydney–New York services as roughly 10,000 nautical miles, taking up to 22 hours. Airline dispatch also considers passenger, baggage and cargo weight, winds, diversion options and fuel reserves. The distance achieved on one test flight therefore cannot serve as an itinerary estimate for a ticketed flight.\n\nThe route matters to the record. The test aircraft passed over Sydney, crossed the Pacific northeastward, flew over North America and the Atlantic, and went over London before Toulouse. The published figure follows the flown track. A shortest-distance line between the two airports measures something else. One nautical mile equals 1.852 km, so reported equivalents can differ slightly because of rounding.\n\nQantas ordered 12 of the ultra-long-range variant. Airbus's November announcement places first delivery in April 2027, with Sydney–London service later that year. It gives neither a first passenger flight date nor a fare. For travelers, the record advances the technical case for a route that removes a connection. Published timetables and sales terms will establish the flight duration, cabin choices and dates that can actually be booked."
+        },
+        "ja": {
+          "title": "エアバスA350超長距離型、試験飛行で2万3155キロの距離記録",
+          "summary": "7月にメルボルンからトゥールーズまで24時間24分で飛行。11月に記録が発表され、カンタスの旅客便は2027年の計画だ。",
+          "body": "エアバスは11月9日、A350-1000ULRが民間旅客機の飛行距離でギネス世界記録を樹立したと発表した。飛行は7月27～28日。メルボルンから太平洋、北米、大西洋を経てトゥールーズまで1万2503海里、約2万3155キロを飛び、飛行時間は24時間24分だった。同社によると、国際航空連盟とFlightradar24が根拠となる飛行データを独立に検証した。\n\nA350は双発のワイドボディ機で、客室に通常2本の通路がある。ULRは超長距離を指す。シドニーとロンドン、ニューヨークを直行で結ぶカンタスのプロジェクト・サンライズ向けに、標準A350-1000の機体構造に後部中央燃料タンクを組み込んだ。航続距離の増加は約1000海里とされる。増加分と、特定の試験で飛んだ1万2503海里は指標が異なる。\n\n試験にはブロックタイム23時間の区間を再現する課題が含まれた。ブロックタイムは出発時のプッシュバックから到着時の車輪止め設置までで、地上移動も含む。24時間24分は発表上の飛行時間であり、測定範囲の異なる値を引き算して目標との差を示すことはできない。\n\n機内には試験操縦士や技術者など13人が乗っていた。シドニー発のロンドン・ニューヨーク便は約1万海里、最大22時間を想定する。商業便の計画では旅客、手荷物、貨物の重量や風、代替空港、燃料余裕を毎回考慮する。試験距離をそのまま旅客便の予定距離や所要時間に当てはめると実際の旅程とずれる。\n\n経路も記録の条件だ。試験機はシドニー上空を通り、北東へ太平洋を横断し、北米、大西洋、ロンドン上空を経てトゥールーズへ向かった。公表距離は実際の航跡に沿った値で、両空港の最短距離とは基準が違う。1海里は1.852キロで、換算値は丸め方でわずかに異なることがある。\n\nカンタスは超長距離型を12機発注した。11月発表では初号機を2027年4月に引き渡し、同年後半にシドニー～ロンドン線へ投入する計画だ。初便の日付と運賃は公表されていない。乗り継ぎを省ける路線の技術的な裏付けが進んだ段階で、実際の所要時間、客室の選択肢、予約可能日は航空会社の時刻表と販売案内で確認できる。"
+        },
+        "zh": {
+          "title": "空客A350超远程型试飞23155公里，创下飞行距离纪录",
+          "summary": "试飞于7月从墨尔本飞往图卢兹，耗时24小时24分钟。空客11月公布纪录，澳航客运服务计划于2027年启动。",
+          "body": "空客11月9日宣布，A350-1000ULR创下商用客机飞行距离吉尼斯世界纪录。试飞实际发生在7月27日至28日，从墨尔本经太平洋、北美和大西洋抵达图卢兹，飞行12503海里，约23155公里，耗时24小时24分钟。空客表示，国际航空联合会和Flightradar24独立核验了相关飞行数据。\n\nA350是双发宽体客机系列，客舱通常有两条通道。ULR指超远程。这一机型为澳航“日出计划”开发，目标是从悉尼不经停飞往伦敦和纽约。在标准A350-1000基础上，机体结构中加入后部中央油箱。空客称航程增加约1000海里。这个数字是改型带来的增量，12503海里则是这一次试飞的距离。\n\n测试任务包括模拟轮挡时间为23小时的航段。轮挡时间从离港推出到抵港放置轮挡，包含地面滑行。空客另将24小时24分钟列为纪录飞行的飞行时间。两个数字的统计范围不同，直接相减无法准确说明试飞超出目标多少。\n\n机上共13人，包括试飞员和工程师。空客预计，悉尼至伦敦和纽约的客运航线约为1万海里，最长约22小时。实际放行要按旅客、行李和货物重量，以及风况、备降机场和燃油余量制定计划。一次试飞的距离不能直接当作乘客行程的里程或耗时。\n\n航迹也是理解纪录的一部分。试验机经过悉尼上空，向东北横越太平洋，再经北美、大西洋和伦敦上空飞往图卢兹。公布数字按实际航迹统计，机场之间的最短距离采用另一口径。1海里等于1.852公里，换算值可能因取整略有差别。\n\n澳航已订购12架超远程型飞机。按空客11月公布的计划，首架将于2027年4月交付，同年稍晚投入悉尼至伦敦航线。公告未公布首班客运航班的日期和票价。此次纪录使减少中转的技术方案更加具体，乘客仍需等航司公布时刻表和销售条件，才能确定时间、舱位和可订日期。"
+        }
+      },
+      "image": {
+        "url": "assets/20261110-ulr.jpg",
+        "alt": {
+          "ko": "새벽빛이 드는 시험 격납고의 일반 광동체 항공기",
+          "en": "Generic widebody jet in a test hangar at dawn",
+          "ja": "朝の試験格納庫にある一般的な大型旅客機",
+          "zh": "晨光下试验机库内的通用宽体客机"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "pal-manila-chicago-nonstop-20261109",
+      "date": "2026-04-16",
+      "published": "2026-11-10",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Chicago Department of Aviation — Route announcement",
+      "url": "https://www.routesonline.com/airports/6929/chicago-department-of-aviation/news/299666202/philippine-airlines-launches-first-nonstop-chicagomanila-service-expanding-midwest-access-to-the-philippines/",
+      "sources": [
+        {
+          "name": "Chicago Department of Aviation — Route announcement",
+          "url": "https://www.routesonline.com/airports/6929/chicago-department-of-aviation/news/299666202/philippine-airlines-launches-first-nonstop-chicagomanila-service-expanding-midwest-access-to-the-philippines/"
+        },
+        {
+          "name": "Philippine Airlines — Winter timetable, October 29 revision",
+          "url": "https://www.philippineairlines.com/content/dam/palportal/migration/feature/timetable/261029-International-W26-as-of-Oct-29-2026.pdf"
+        },
+        {
+          "name": "Philippine Consulate General in Chicago — Public advisory",
+          "url": "https://www.chicagopcg.com/advisory-details-0826.html"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "필리핀항공 마닐라–시카고 논스톱, 11월 9일부터 주 3회 시간표",
+          "summary": "4월 발표한 노선이 겨울 시간표에 들어갔다. 귀국편의 현지 도착일은 출발일보다 이틀 뒤다.",
+          "body": "필리핀항공의 마닐라–시카고 오헤어 논스톱 노선이 11월 9일 운항 개시일을 맞았다. 시카고 항공국은 4월 16일 노선 계획을 발표했고, 필리핀항공은 10월 29일자 겨울 시간표에 첫 운항일과 편명을 반영했다. 시간표상 마닐라 출발편은 PR132, 오헤어 출발편은 PR133이다. 양방향 월·수·금 주 3회 운항이다. 이 기사에서 확인한 것은 항공사의 개시 일정과 시간표이며 첫 편의 실제 도착 시각은 확인되지 않았다.\n\n필리핀항공은 마닐라를 주요 거점으로 국내선과 국제선을 운영하는 필리핀 국적 항공사다. 시카고 항공국은 오헤어가 필리핀항공의 미국과 미국령을 합친 여덟 번째 목적지가 된다고 밝혔다. 오헤어는 시카고의 대표적인 국제선 공항이고, 항공권에는 ORD로 표시된다. 마닐라의 MNL과 함께 이 공항 코드를 확인하면 같은 도시 이름으로 검색되는 다른 공항이나 경유 여정을 구별할 수 있다.\n\n시카고 주재 필리핀 총영사관은 에어버스 A350 투입을 안내했다. 이 기종은 장거리 노선에 쓰이는 두 통로 광동체 여객기다. 논스톱 구간은 중간 공항에 착륙하지 않아 마닐라와 시카고 사이에서 비행기를 갈아탈 필요가 없다. 미국 중서부에 최종 목적지가 있는 여행객에게는 태평양 횡단 뒤 다른 관문에서 갈아타던 여정을 줄일 수 있는 선택지가 된다. 필리핀 지방 도시나 미국 내 다른 도시까지 간다면 그 이후 연결편을 따로 비교해야 한다.\n\n현지 시계로 읽는 시간표\n10월 29일자 시간표에서 11월 9일부터 2027년 3월 12일까지의 PR132는 마닐라 16시 40분 출발, 시카고 16시 55분 도착으로 표기됐다. 두 시각은 각각 현지시간이다. 시계로 15분 차이가 나지만 시차와 날짜 변경선이 반영된 결과다. 역방향 PR133은 오헤어 22시 45분 출발, 마닐라 05시 25분 도착이며 뒤에 +2가 붙는다. 월요일 시카고에서 출발하면 수요일 아침 마닐라에 도착하는 일정이라는 뜻이다. 3월 15일부터 일부 시각이 바뀌는 별도 표도 있다.\n\n주 3회 노선의 편익은 출발 요일과 맞을 때 커진다. 예를 들어 시카고에서 화요일 저녁에 출발해야 한다면 다른 항공사의 환승 일정까지 비교해야 한다. 오헤어에서 미국 국내선을 탈 경우 국제선 도착 후 입국 심사와 수하물 처리 시간을 계산해야 한다. 마닐라 도착 뒤 국내선으로 이동할 때도 예약 내역에서 터미널과 연결 조건을 확인할 필요가 있다. 논스톱으로 단축되는 구간과 여행 전체에 필요한 시간은 별도로 계산하는 편이 정확하다.\n\n계획을 비교할 때는 일정에 적힌 마닐라 도착 날짜를 숙박과 국내선 예약에도 그대로 적용해야 한다. 날짜가 바뀌는 귀국편을 단순히 다음 날 도착으로 처리하면 예약 하루가 어긋날 수 있다. 시간표의 적용 구간이 달라지는 3월에는 같은 요일과 편명이라도 현지 출발 시간을 다시 확인해야 한다.\n\n공식 겨울 시간표는 정해진 기간의 계획이다. 여름철 증편이나 연중 동일한 출발 시각은 공개된 자료에서 확인되지 않았다. 과거 예매 행사 운임 역시 당시 예약 기간을 전제로 한다. 지금 구매할 독자에게 필요한 기준은 여행일의 PR132·PR133 운항 여부, 결제 단계의 총액, 그리고 환승이 있다면 최종 목적지까지의 도착 시각이다."
+        },
+        "en": {
+          "title": "Philippine Airlines schedules Manila–Chicago nonstops three times weekly from November 9",
+          "summary": "The route announced in April enters the winter timetable. The return flight reaches Manila two local calendar days after departure.",
+          "body": "Philippine Airlines reached the November 9 scheduled start of its Manila–Chicago O’Hare nonstop service. The Chicago Department of Aviation announced the plan on April 16. PAL’s October 29 winter timetable lists PR132 from Manila and PR133 from O’Hare, operating Mondays, Wednesdays and Fridays in both directions. The timetable establishes the scheduled launch and frequencies. Actual arrival of the first flight was unverified at publication.\n\nPAL is the Philippine flag carrier, operating domestic and international routes from its Manila hub. Chicago becomes its eighth destination across the U.S. and its territories, according to Chicago’s aviation department. The new service uses O’Hare, shown as ORD, and Manila, shown as MNL. Checking those codes helps distinguish the nonstop from itineraries involving other airports or connections.\n\nThe Philippine consulate in Chicago identifies the Airbus A350 as the planned aircraft. The A350 is a twin-aisle long-haul jet. A nonstop flight eliminates an intermediate landing and aircraft change between Manila and Chicago. This adds an option for travelers bound for the Midwest who previously connected through a different gateway. Travelers continuing to another Philippine or U.S. city still need to compare onward connections.\n\nReading local times\nThrough March 12, 2027, PR132 is listed at 16:40 from Manila and 16:55 into Chicago, both local times. The 15-minute clock difference reflects time zones and the date line. PR133 leaves Chicago at 22:45 and arrives at 05:25 with a +2 marker. A Monday departure therefore arrives in Manila on Wednesday morning. A separate timetable entry changes some times from March 15.\n\nA three-times-weekly flight is most useful when the schedule matches the trip. A passenger who must leave Chicago on Tuesday evening may still need a connecting itinerary. A domestic connection at O’Hare also requires time for immigration and baggage handling. At Manila, onward travelers should check terminals and the terms of the connection. Compare time for the whole journey, not just the portion shortened by the new nonstop.\n\nUse the Manila arrival date shown on the itinerary when booking lodging or a domestic flight. Assuming the overnight return arrives the following day can put reservations a day out. Recheck local departure times across the March timetable change even if the flight number and weekday are unchanged.\n\nThe published winter schedule covers a defined period. A summer increase or uniform year-round departure times have yet to be confirmed in the sources. Introductory fares were tied to earlier booking windows. For a purchase now, verify that PR132 or PR133 runs on the required date, check the total price, and compare the arrival time at the final destination."
+        },
+        "ja": {
+          "title": "フィリピン航空のマニラ～シカゴ直行便、11月9日から週3便",
+          "summary": "4月発表の路線が冬ダイヤに入った。シカゴ発の復路は現地の日付で2日後にマニラへ着く。",
+          "body": "フィリピン航空のマニラ～シカゴ・オヘア直行便は11月9日の運航開始予定日を迎えた。シカゴ航空局が4月16日に計画を発表し、同社の10月29日版冬ダイヤに掲載された。マニラ発PR132、オヘア発PR133を双方とも月・水・金に運航する予定だ。確認できたのは公表された開始日と時刻表で、初便の実到着時刻は未確認だ。\n\nフィリピン航空はマニラを拠点に国内・国際線を運航するフィリピンのフラッグキャリアだ。シカゴ航空局によると、米国と米領を合わせて同社の8番目の目的地になる。オヘアはORD、マニラはMNLと表示される。空港コードで照合すると、同じ都市名で表示される別空港や乗り継ぎ便を区別しやすい。\n\nシカゴのフィリピン総領事館によると使用機材はエアバスA350。長距離用の双通路機だ。両都市間は途中で着陸せず、機体を乗り換えずに移動できる。米中西部が目的地なら、太平洋横断後に別の玄関口を経由していた旅程を短くできる可能性がある。地方都市まで向かう旅客は、その先の接続も比較する必要がある。\n\n冬ダイヤでは2027年3月12日まで、PR132がマニラ16時40分発、シカゴ16時55分着。双方が現地時刻で、時計の15分差には時差と日付変更線が関わる。復路PR133は22時45分発、5時25分着で「+2」の表記がある。月曜夜にシカゴを出れば水曜朝にマニラ着となる。3月15日から一部時刻が変わる別の欄もある。\n\n週3便なので出発曜日との相性が大きい。火曜夜にシカゴを出る必要があるなら、乗り継ぎ便も比較対象だ。米国内線に接続する場合は入国審査や手荷物の時間、マニラで国内線に乗り継ぐ場合はターミナルと予約条件を確認したい。短縮される区間と旅程全体の時間は分けて計算する。\n\n宿泊や国内線は旅程に記載されたマニラ到着日を使って予約する。夜行便を翌日着と思い込むと1日ずれる。3月のダイヤ切り替え前後には、同じ曜日と便名でも現地出発時刻を確かめたい。\n\n冬ダイヤには適用期間がある。夏の増便や通年で同じ時刻になるかは資料で確認できない。以前の記念運賃にも予約期間があった。購入時は希望日にPR132・PR133があるか、決済総額と最終目的地の到着時刻を確認するのが実用的だ。"
+        },
+        "zh": {
+          "title": "菲律宾航空马尼拉至芝加哥直飞列入冬季时刻表，每周三班",
+          "summary": "航线在4月公布，计划11月9日开航。从芝加哥出发的返程在当地日历上两天后抵达马尼拉。",
+          "body": "菲律宾航空的马尼拉至芝加哥奥黑尔直飞航线迎来11月9日的计划开航日。芝加哥航空局4月16日公布计划，菲航10月29日版冬季时刻表列出从马尼拉出发的PR132和从奥黑尔出发的PR133，双向均为周一、周三、周五。已核实的是开航安排与班次，首班实际到达时间尚未确认。\n\n菲航是以马尼拉为主要枢纽的菲律宾载旗航空公司，经营国内和国际航线。芝加哥航空局称，奥黑尔成为菲航在美国及其领地的第八个目的地。奥黑尔代码是ORD，马尼拉是MNL。核对机场代码有助于区分同城其他机场及含中转的行程。\n\n菲律宾驻芝加哥总领馆公布的计划机型是空客A350，一种适合长途飞行的双通道宽体客机。两城之间的航段无需中途降落或换机。以美国中西部为目的地的旅客可以考虑省去其他门户机场的转机。如果要继续前往菲律宾或美国的其他城市，仍应比较后续接驳。\n\n截至2027年3月12日的时刻表显示，PR132在马尼拉16时40分起飞、芝加哥16时55分到达，均为当地时间。表面的15分钟差来自时区和日期变更线。PR133在芝加哥22时45分出发，马尼拉05时25分到达，并标有“+2”。周一晚出发对应周三早晨抵达。3月15日起另有部分时间调整。\n\n每周三班的价值取决于日期能否匹配。必须周二晚离开芝加哥的乘客仍可比较中转航班。抵达奥黑尔后接美国国内航班需考虑入境和行李，抵达马尼拉后继续飞行则需核对航站楼及联程条件。新增直飞缩短的部分，应与全程耗时分开计算。\n\n预订住宿或菲律宾国内航班应使用行程上显示的马尼拉到达日。把夜航简单当作次日到达，可能订错一天。3月时刻表切换前后，即使航班号和星期相同，也要重新确认当地出发时间。\n\n冬季时刻表具有适用期限，夏季是否增班、是否全年保持同一时间尚未核实。早期促销票价也绑定此前的订票期。现在购票应核查出行日是否有PR132或PR133，结算总额以及抵达最终目的地的时间。"
+        }
+      },
+      "image": {
+        "url": "assets/20261110-pal.jpg",
+        "alt": {
+          "ko": "저녁 무렵 미국 중서부를 연상시키는 공항 터미널",
+          "en": "Airport concourse evoking the U.S. Midwest at dusk",
+          "ja": "米中西部を思わせる夕暮れの空港ターミナル",
+          "zh": "黄昏时分让人联想到美国中西部的机场航站楼"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "qantas-sydney-cape-town-seasonal-20261106",
+      "date": "2026-11-06",
+      "published": "2026-11-10",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Qantas — Sydney–Cape Town route announcement",
+      "url": "https://www.qantasnewsroom.com.au/media-releases/qantas-to-launch-first-non-stop-flights-between-australia-and-cape-town",
+      "sources": [
+        {
+          "name": "Qantas — Sydney–Cape Town route announcement",
+          "url": "https://www.qantasnewsroom.com.au/media-releases/qantas-to-launch-first-non-stop-flights-between-australia-and-cape-town"
+        },
+        {
+          "name": "Business Travel News — November 2026 route updates",
+          "url": "https://www.businesstravelnews.com/transportation/air/new-airline-routes-november-2026-updates"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "콴타스, 시드니–케이프타운 논스톱 판매…첫 편은 2027년 10월",
+          "summary": "11월 6일 예약을 열었다. 보잉 787-9로 남아프리카 여름 동안 주 3회 운항할 계획이다.",
+          "body": "콴타스가 호주 시드니와 남아프리카공화국 케이프타운을 중간 착륙 없이 잇는 계절편을 판매하기 시작했다. 11월 6일 발표와 함께 예약을 열었고, 첫 시드니발 QF89는 2027년 10월 19일 출발할 예정이다. 발표된 운영 기간은 2028년 3월 24일까지다. 올해 표를 살 수 있게 됐지만 항공기를 타는 시점은 내년 10월부터다. 노선 검색에서 출발 연도를 구분해야 한다.\n\n호주의 콴타스는 이미 시드니와 퍼스에서 남아공 요하네스버그로 논스톱 서비스를 제공한다. 기존에 요하네스버그에서 케이프타운행 연결편을 타던 수요가 있었다고 회사는 설명했다. 새 노선의 변화는 호주와 남아공 간 연결의 최초 개설이 아니라 케이프타운을 도착지로 삼는 호주발 논스톱 선택지가 생긴다는 점이다. 요하네스버그가 최종 목적지인 승객은 기존 서비스가 여전히 더 자연스러운 경로일 수 있다.\n\n콴타스는 보잉 787-9 드림라이너를 투입하고 화·금·일 주 3회 운항한다는 계획을 공개했다. 787-9는 두 통로를 둔 장거리용 쌍발 여객기다. 시드니 09시 15분 출발과 케이프타운 14시 40분 도착은 각각 현지 시각이며, 발표된 소요시간은 약 14시간 25분이다. 시차 때문에 출발과 도착 시계의 차이만으로 비행시간을 판단할 수 없다. 아침에 출발해 같은 날짜 오후에 도착하는 일정이라 도착일 숙박을 잡을 때는 케이프타운 현지 날짜가 기준이 된다.\n\n계절 좌석 공급과 운임\n회사가 제시한 약 3만 석은 이 노선이 운항될 때 호주와 남아공 사이에 추가되는 좌석 공급 규모다. 실제 탑승객이나 이미 판매한 좌석 숫자가 아니다. 이코노미 왕복 시작가 2470호주달러도 발표 당시 가격 기준이다. 좌석 재고, 여행 날짜와 결제 조건에 따라 최종 금액이 달라질 수 있으므로 모든 출발일에 같은 요금이 적용된다고 볼 수 없다.\n\n여행자에게는 환승이 빠지는 만큼 이동 단계를 줄일 가능성이 있다. 편집부가 주목한 변수는 운항 빈도다. 주 3회 일정은 출발 요일을 선택할 수 있는 사람에게 유리하지만, 여행 날짜가 고정돼 있으면 매일 이용할 수 있는 연결 여정과 총 소요시간을 비교할 필요가 있다. 호주 다른 도시에서 출발한다면 시드니까지 오는 구간도 포함해야 한다. 직항 구간 하나의 시간만 줄어도 전체 여정의 대기시간은 달라질 수 있다.\n\n콴타스는 1952년 남아공 정기 여객편이 퍼스와 코코스 제도, 모리셔스를 거쳐 요하네스버그까지 66시간 걸렸다고 설명했다. 이번 노선의 약 14시간 25분과는 출발·도착 공항과 경로가 달라 단순한 속도 비교가 어렵다. 두 일정의 차이는 한 번에 갈 수 있는 구간이 늘면서 이전에 중간 공항에서 처리하던 여정의 일부가 사라졌다는 데서 읽을 수 있다.\n\n콴타스는 2027년 후반 도착할 새 787-9가 노선 개설을 뒷받침한다고 설명했다. 이번 자료에는 첫 시즌 이후의 연중 운항이나 증편 계획이 없다. 숙박이나 현지 교통을 먼저 예약하는 독자는 계절편의 적용 기간과 항공권에 표시된 날짜를 맞춰 볼 필요가 있다. 지금 확인된 것은 첫 시즌 일정과 예약 개시이며, 기재 인도와 실제 운항은 앞으로 확인할 단계다."
+        },
+        "en": {
+          "title": "Qantas opens Sydney–Cape Town nonstop bookings for an October 2027 start",
+          "summary": "Sales opened with the November 6 announcement. Three weekly Boeing 787-9 flights are planned for the South African summer.",
+          "body": "Qantas has opened bookings for seasonal nonstop flights between Sydney and Cape Town. Sales began with the November 6 announcement, while the first Sydney departure, QF89, is scheduled for October 19, 2027. The first season runs through March 24, 2028. The booking date and the year of travel are separate.\n\nThe Australian airline already flies nonstop from Sydney and Perth to Johannesburg. Qantas says some passengers use those services to connect onward to Cape Town. The expansion gives Cape Town its own nonstop link from Australia. The established Johannesburg flights may still suit passengers whose final destination is there.\n\nQantas plans three flights a week on Tuesdays, Fridays and Sundays using the Boeing 787-9 Dreamliner, a long-haul twin-engine widebody. QF89 is scheduled to leave Sydney at 09:15 and arrive in Cape Town at 14:40 local time. The airline quotes around 14 hours and 25 minutes. The local clocks differ by time zone. Travelers making lodging plans should use the Cape Town arrival date.\n\nSeasonal capacity and fares\nThe nearly 30,000 additional seats cited by the company describe capacity between Australia and South Africa once the service operates. They do not measure passengers carried or tickets already sold. The announced economy return fare started at AUD 2,470. Availability, date and fare terms determine the amount at checkout.\n\nA nonstop can remove a connection. In our analysis, frequency matters when comparing the whole trip. A three-times-weekly schedule can suit flexible travelers, while a traveler with fixed dates may find a different connection more practical. A passenger starting elsewhere in Australia also needs to count the leg to Sydney. Cutting time from one flight segment changes the itinerary only in combination with the waits around it.\n\nQantas says its 1952 scheduled passenger service took 66 hours to reach Johannesburg via Perth, the Cocos Islands and Mauritius. The airports and route differ from the new 14-hour-25-minute schedule, so the figures are not a direct speed comparison. They illustrate how longer nonstop sectors can remove stages previously handled at intermediate airports.\n\nQantas credits deliveries of new 787-9s expected in late 2027 with enabling the route. The release does not establish year-round service or an increase after the first season. Match lodging and ground transportation to the seasonal calendar and the ticketed dates. Booking has started and the first-season schedule is public. Aircraft delivery and flight operations are future milestones."
+        },
+        "ja": {
+          "title": "カンタス、シドニー～ケープタウン直行便を販売　初便は2027年10月",
+          "summary": "11月6日に予約開始。南アフリカの夏季にボーイング787-9で週3便を計画する。",
+          "body": "カンタスはシドニーとケープタウンを結ぶ季節直行便を11月6日に発表し、同日販売を始めた。シドニー発QF89の初便は2027年10月19日を予定し、初年度の運航は2028年3月24日まで。予約できるようになった時期と搭乗する年を区別したい。\n\n同社はシドニーとパースからヨハネスブルクに直行便を運航する。これらを利用してケープタウンへ乗り継ぐ需要があったという。今回増えるのはケープタウンを直接結ぶ選択肢だ。ヨハネスブルクが目的地の旅客には従来の便が引き続き利用しやすい。\n\n長距離用の双発ワイドボディ、787-9を使い、火・金・日に週3便運航する。QF89は現地時刻でシドニー9時15分発、ケープタウン14時40分着。公表所要時間は約14時間25分で、時差があるため時計の表示差とは異なる。宿泊を取る際はケープタウンの到着日を基準にする。\n\n約3万席は就航後に豪州と南アフリカの間に加わる供給座席数だ。実際の搭乗者数や販売済み座席数とは別の指標になる。エコノミー往復2470豪ドルからという値は発表時の最低運賃で、決済総額は日付、在庫、運賃条件で変わる。\n\n直行便で乗り継ぎを省けるが、編集部は週3便という頻度にも注目した。日程に余裕があれば選びやすく、出発日が固定なら接続便と全体の時間を比較する余地がある。豪州の別都市から出発する場合はシドニーまでの移動や待ち時間も含める。\n\nカンタスによると1952年の定期便はパース、ココス諸島、モーリシャスを経てヨハネスブルクまで66時間かかった。今回の約14時間25分とは空港や経路が異なり、速度の直接比較には使えない。長距離を一度に飛ぶことで中間空港での工程が減る変化を示す例だ。\n\nカンタスは2027年後半に届く新しい787-9が開設を支えると説明する。初シーズン終了後の通年運航や増便は公表されていない。宿泊と交通を手配する際は季節運航の期間と航空券の日付を照合したい。販売開始と予定ダイヤは確認でき、機材引き渡しと運航は今後の段階だ。"
+        },
+        "zh": {
+          "title": "澳航悉尼至开普敦直飞开售，首班定于2027年10月",
+          "summary": "航线于11月6日公布并开售，计划在南非夏季由波音787-9执飞，每周三班。",
+          "body": "澳航11月6日宣布开售悉尼至开普敦季节性直飞航班。首班悉尼出发的QF89计划于2027年10月19日起飞，首季运行至2028年3月24日。现在能预订，实际乘机从明年10月开始，搜索时要核对年份。\n\n澳航已有悉尼和珀斯直飞约翰内斯堡的航班，并称有旅客经约翰内斯堡转往开普敦。新增选项是从澳大利亚直接抵达开普敦。最终目的地是约翰内斯堡的旅客，仍可优先比较既有航班。\n\n航线计划使用双发宽体长途客机波音787-9，每周二、周五和周日运行。QF89在悉尼09时15分出发、开普敦14时40分到达，两地均为当地时间。公布耗时约14小时25分钟，不能直接用钟面时间相减。安排住宿应以开普敦的到达日期为准。\n\n接近3万个座位指航线开通后澳大利亚与南非之间增加的供应量，有别于实际载客量和已售票量。经济舱往返2470澳元起是公布时的起价，最终金额取决于日期、余票和票价条件。\n\n直飞减少一次换乘，但本刊认为班次同样影响全程安排。每周三班适合日期可调整的旅客，日期固定时可以比较转机行程的总耗时。从澳大利亚其他城市出发，还要把前往悉尼的航段与等待算进去。\n\n澳航称，1952年定期客运经珀斯、科科斯群岛和毛里求斯到约翰内斯堡，耗时66小时。两次行程的机场与路线不同，不能与新航线的14小时25分钟作直接速度比较。历史对照展示了更长的不经停航段如何减少中间机场环节。\n\n澳航称，计划于2027年后期到货的新787-9为开航提供运力。公告未公布首季之后的全年运营或增班安排。先订住宿和交通时，应核对季节航班范围与机票日期。销售已启动、首季时刻已公布，飞机交付与实际运行仍是后续节点。"
+        }
+      },
+      "image": {
+        "url": "assets/20261110-cape.jpg",
+        "alt": {
+          "ko": "남쪽 해안을 배경으로 상승하는 일반 여객기",
+          "en": "Generic passenger jet climbing over a southern coastline",
+          "ja": "南の海岸を背景に上昇する一般的な旅客機",
+          "zh": "在南部海岸上空爬升的通用客机"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "qatar-porter-canada-codeshare-20261109",
+      "date": "2026-11-09",
+      "published": "2026-11-10",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Qatar Airways — Porter Airlines codeshare agreement",
+      "url": "https://www.qatarairways.com/press-releases/en-WW/274303-qatar-airways-expands-connections-across-canada-through-new-codeshare-agreement-with-porter-airlines/",
+      "sources": [
+        {
+          "name": "Qatar Airways — Porter Airlines codeshare agreement",
+          "url": "https://www.qatarairways.com/press-releases/en-WW/274303-qatar-airways-expands-connections-across-canada-through-new-codeshare-agreement-with-porter-airlines/"
+        },
+        {
+          "name": "Qatar Airways — WestJet codeshare announcement",
+          "url": "https://www.qatarairways.com/press-releases/en-WW/273800-qatar-airways-launches-codeshare-partnership-with-westjet/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "카타르항공·포터항공 공동운항, 11월 16일부터 캐나다 연결편 추가",
+          "summary": "토론토와 몬트리올을 경유하는 일부 포터항공편을 카타르항공 편명으로 예약할 수 있다.",
+          "body": "카타르항공은 11월 9일 캐나다 포터항공과 공동운항 계약을 맺었다고 발표했다. 카타르항공은 토론토 피어슨과 몬트리올 트뤼도를 출입국 관문으로 삼아 포터항공이 운항하는 일부 국내선에 자사 QR 편명을 붙인다. 카타르항공 웹사이트와 앱에서 예약하는 공동운항편의 여행 적용일은 11월 16일부터다. 발표일과 이 표를 이용해 실제 이동할 수 있는 날짜에는 일주일 차이가 있다.\n\n카타르항공은 도하를 중심으로 장거리 국제선을 연결하는 항공사다. 포터항공은 캐나다 국내선 연결망을 운영하는 현지 항공사다. 카타르항공은 토론토와 몬트리올에 각각 매일 운항해 두 관문을 합쳐 주 14편이라고 밝혔다. 이번 계약의 초점은 도하에서 이 도시들로 가는 편을 증편하는 데 있지 않다. 기존 국제선 도착 뒤 캐나다 국내에서 이어지는 구간에 판매 선택지가 생긴다.\n\n공동운항은 같은 항공편을 여러 항공사가 각자의 편명으로 판매하는 방식이다. 예약 확인서에 QR 번호가 있더라도 그 구간의 실제 비행기와 승무원은 포터항공 소속일 수 있다. 공항에서는 실제 운항사 표시를 확인하면 어느 카운터에서 수속해야 하는지, 해당 구간의 객실 서비스와 좌석 배치가 어떻게 되는지 판단하기 쉽다. 장거리 구간의 객실이나 수하물 안내를 포터 국내 구간에도 그대로 적용하기보다 전자항공권의 구간별 조건을 확인해야 한다.\n\n카타르항공이 예로 든 연결 목적지는 에드먼턴, 핼리팩스, 오타와, 세인트존스, 선더베이다. 각 목적지가 토론토와 몬트리올 양쪽에서 모두 연결된다는 세부 목록은 공개 자료에 없다. 회사는 선택된 포터 운항편에 적용한다고 밝혔다. 포터가 운항하는 편이라고 해서 모든 날짜와 편명이 같은 조건에 포함된다고 가정하면 실제 검색 결과와 달라질 수 있다.\n\n최근 발표된 웨스트젯과의 공동운항은 별도 계약이다. 두 파트너가 있다는 것은 구매 화면에서 항공사와 연결 시간이 다른 조합을 비교할 수 있다는 뜻이다. 편집부의 해석으로는 캐나다의 중소 도시를 출발하거나 도착하는 승객에게 장거리 구간과 국내 구간을 한 번에 찾기 쉬워질 여지가 있다. 다만 최저가, 마일리지 적립, 좌석 선택 또는 연결 실패 시 처리 조건은 항공권별로 확인해야 한다.\n\n예약 화면의 선택지는 두 가지로 나눠 읽을 수 있다. 첫째는 특정 구간의 운항편이 시간표에 존재하는지, 둘째는 국제선과 함께 선택했을 때 해당 편이 공동운항 운임으로 판매되는지다. 포터의 자체 검색에서는 좌석이 보이더라도 카타르항공에서 연결편으로 제시하는 조합은 다를 수 있다. 이런 차이는 공항에 도착한 뒤 승객을 더 많이 태우도록 기체를 늘리는 것과 성격이 다르다. 판매 편명과 실제 항공편을 따로 확인해야 공동운항의 효과를 제대로 이해할 수 있다.\n\n11월 16일 이후 여행이라면 예약 화면의 출발지와 최종 목적지를 지정해 실제 판매되는 조합을 확인할 수 있다. 토론토 또는 몬트리올에서 환승하는 사람은 입국과 수하물 수속에 필요한 시간도 일정에 넣어야 한다. 이번 발표가 확정한 범위는 제휴 상대, 관문, 적용 시작일이다. 구간별 제공 편수나 이후 노선 확대는 추가 공지를 기다려야 한다."
+        },
+        "en": {
+          "title": "Qatar Airways and Porter add Canadian connections from November 16",
+          "summary": "Selected Porter flights connecting through Toronto and Montréal will be bookable under Qatar Airways flight numbers.",
+          "body": "Qatar Airways announced a codeshare with Canada’s Porter Airlines on November 9. Qatar will place its QR code on selected Porter-operated services beyond Toronto Pearson and Montréal Trudeau. Codeshare travel booked through Qatar’s website or app applies from November 16. The public announcement and the start of eligible travel are a week apart.\n\nQatar Airways connects long-haul routes through Doha. Porter operates a domestic Canadian network. Qatar says it serves Toronto and Montréal daily, for 14 weekly flights across the two gateways. This agreement concerns the domestic leg beyond those existing long-haul flights. The announced frequency describes Qatar’s gateway operations.\n\nCodesharing allows multiple airlines to market the same flight under different numbers. A QR number on a confirmation can therefore refer to a flight flown by Porter with its aircraft and crew. Check the operating-carrier field for check-in, onboard service and seat layout. Cabin and baggage terms should be read by segment, especially when combining long-haul and domestic travel.\n\nExamples include Edmonton, Halifax, Ottawa, St. John’s and Thunder Bay. The announcement does not map each city to both gateways or list every eligible flight. It refers to selected Porter services. A Porter flight shown for a particular date may have different sales terms or may fall outside the agreement.\n\nThe recently announced WestJet codeshare is a separate agreement. Two partners can give travelers different operating airlines and connection times to compare. In our analysis, finding a domestic segment alongside a long-haul ticket may become easier for travelers from smaller cities. Fares, mileage credit, seat selection and missed-connection terms depend on the booked ticket.\n\nThere are two separate booking questions: whether the domestic flight is on the schedule and whether it is offered as part of a Qatar codeshare itinerary. Seats visible in Porter’s own search may differ from the combinations Qatar offers with the international leg. That distribution change differs from adding aircraft or seats to the underlying flight. Read the marketing code alongside the operating flight.\n\nFor travel from November 16, enter the origin and final destination to check the combinations actually offered. Allow for immigration and baggage procedures at the Canadian gateway. The partner, gateways and start date are confirmed. Segment-level frequencies and future expansion await further detail."
+        },
+        "ja": {
+          "title": "カタール航空とポーター航空、11月16日からカナダ国内線で共同運航",
+          "summary": "トロント、モントリオール経由の一部ポーター便をカタール航空の便名で予約できる。",
+          "body": "カタール航空は11月9日、カナダのポーター航空とのコードシェアを発表した。トロント・ピアソンとモントリオール・トルドー以遠の一部ポーター運航便にQR便名を付ける。同社ウェブサイトやアプリで予約できる対象旅行は11月16日から。発表と利用開始には1週間の差がある。\n\nカタール航空はドーハを拠点に長距離路線をつなぎ、ポーター航空はカナダ国内網を運航する。カタール航空はトロント、モントリオールに各日1便、合わせて週14便を運航するとした。今回加わる選択肢は、この国際線の先にある国内区間だ。\n\nコードシェアでは同じ便を複数社が異なる便名で販売する。QR番号でも機体と乗務員はポーターの場合がある。チェックインや座席配置、機内サービスは実際の運航会社を確認し、手荷物や客室の条件は区間ごとに予約書類で確かめたい。\n\n例示された都市はエドモントン、ハリファクス、オタワ、セントジョンズ、サンダーベイ。全都市が両方の玄関口から接続するという一覧はなく、一部のポーター運航便が対象だ。すべての便や日付で同じ条件になると考えると検索結果とずれる可能性がある。\n\n先に発表されたウエストジェットとの共同運航は別契約だ。複数の運航会社と接続時間を比較しやすくなり、地方都市から長距離便を探す手順が簡単になる可能性がある。これは編集部の見方で、運賃、マイル、座席指定、接続に間に合わなかった場合の扱いは航空券ごとに異なる。\n\n予約では国内便が時刻表にあるかと、カタール航空の共同運航旅程として買えるかを分けて考える。ポーターの検索で空席が見えても、国際線と組み合わせたカタール航空の販売内容は異なり得る。機材や座席を増やす話とは異なる販売上の変化で、販売便名と運航便を併せて見ると分かりやすい。\n\n11月16日以降なら、実際の出発地と最終目的地で販売中の組み合わせを調べられる。カナダの玄関口で必要な入国・手荷物手続きの時間も考慮したい。提携相手、玄関口、開始日は明らかになった。区間ごとの便数や今後の拡大は追加発表を待つ。"
+        },
+        "zh": {
+          "title": "卡塔尔航空与波特航空代码共享，11月16日起增加加拿大接驳",
+          "summary": "经多伦多、蒙特利尔衔接的部分波特航班可以使用卡塔尔航空航班号预订。",
+          "body": "卡塔尔航空11月9日公布与加拿大波特航空的代码共享协议，将在多伦多皮尔逊和蒙特利尔特鲁多以远的部分波特执飞航班上加挂QR代码。通过卡塔尔航空网站和应用预订的共享航班适用于11月16日起的出行，公布日与出行生效日相隔一周。\n\n卡塔尔航空以多哈连接长途国际航线，波特经营加拿大国内网络。卡塔尔航空称现有多伦多与蒙特利尔航线各为每日一班，合计每周14班。协议新增的是既有国际航班后面的国内段销售选项。\n\n代码共享指同一航班可以由不同航司以各自号码销售。订单上有QR号码时，仍可能由波特提供飞机和机组。办理值机以及了解客舱和座位时，应查看实际承运人。行李与客舱条款宜按每个航段核对。\n\n公告列举埃德蒙顿、哈利法克斯、渥太华、圣约翰斯和桑德贝。公开材料没有逐一确认每座城市都可经两个门户接驳，也未列出所有航班。协议只涵盖部分波特执飞航班，日期不同，实际销售结果也可能不同。\n\n此前与西捷航空的合作属于另一份协议。两家合作伙伴带来了不同的承运人及中转时间。编辑部认为，部分中小城市旅客可能更容易把国内接驳和长途段一起查找。价格、里程、选座以及误接航班后的处理仍取决于机票条件。\n\n查询时应分别看国内航班是否存在，以及能否与国际段一起按卡塔尔航空代码共享行程出售。波特官网有余票，并不保证卡塔尔航空提供同样的联程组合。销售渠道的变化与增加实际飞机或座位不同，应把销售航班号和实际执飞航班一起核对。\n\n11月16日起出行，可输入真实起点与终点查询在售组合。经加拿大门户转机时还需留出入境与行李手续时间。公告确认合作方、门户与生效日，分航段班次以及未来扩展仍待进一步披露。"
+        }
+      },
+      "image": {
+        "url": "assets/20261110-porter.jpg",
+        "alt": {
+          "ko": "창밖에 여객기가 보이는 캐나다풍 환승 통로",
+          "en": "Canadian-style airport connection corridor with a jet outside",
+          "ja": "窓の外に旅客機が見えるカナダ風の乗り継ぎ通路",
+          "zh": "窗外可见客机的加拿大风格机场中转走廊"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "condor-frankfurt-abudhabi-bangkok-20261104",
+      "date": "2026-11-04",
+      "published": "2026-11-10",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Condor — Inaugural Frankfurt–Abu Dhabi–Bangkok service",
+      "url": "https://condor-newsroom.condor.com/en/de/news-article/condor-launches-daily-service-from-frankfurt-via-abu-dhabi-to-bangkok-1/",
+      "sources": [
+        {
+          "name": "Condor — Inaugural Frankfurt–Abu Dhabi–Bangkok service",
+          "url": "https://condor-newsroom.condor.com/en/de/news-article/condor-launches-daily-service-from-frankfurt-via-abu-dhabi-to-bangkok-1/"
+        },
+        {
+          "name": "Fraport — Frankfurt winter schedule",
+          "url": "https://www.fraport.com/en/newsroom/press-releases/2026/q4/2026-27-winter-schedule--231-destinations-from-frankfurt.html"
+        },
+        {
+          "name": "Emirates News Agency — Abu Dhabi airport arrival",
+          "url": "https://www.wam.ae/en/article/c33pn3z-zayed-international-airport-welcomes-condors"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "콘도르, 프랑크푸르트–방콕에 아부다비 경유편 추가",
+          "summary": "11월 4일 첫 편을 띄웠다. 기존 논스톱과 새 경유편을 합쳐 하루 두 가지 출발 선택지를 제공한다.",
+          "body": "독일 항공사 콘도르가 11월 4일 프랑크푸르트에서 아부다비를 거쳐 방콕으로 가는 매일 운항편을 개설했다. 같은 날 공식 발표에서 첫 편 출발을 알렸고, 아랍에미리트 국영 통신사 WAM은 11월 5일 아부다비 자이드 국제공항의 첫 도착편 환영 소식을 보도했다. 프랑크푸르트와 방콕 사이에는 콘도르의 기존 매일 논스톱도 남아 있다. 이 회사가 말하는 하루 두 편은 논스톱과 경유편을 합친 횟수다.\n\n콘도르는 프랑크푸르트를 중심으로 장거리 여객편을 운영하는 독일 항공사다. 에티하드항공은 아부다비를 국제선 허브로 사용한다. 두 회사의 공동운항은 항공사 한 곳의 노선을 다른 항공사의 판매망에서도 찾을 수 있게 한다. 콘도르는 새 여정에 에어버스 A330neo 장거리 기재를 투입한다고 밝혔다. A330neo는 에어버스가 A330 계열의 엔진과 설계를 갱신한 두 통로 여객기다.\n\n운항 횟수와 중간 정차\n예약 화면에서 프랑크푸르트 출발과 방콕 도착이 같은 조합으로 보이더라도 아부다비에 착륙하는 일정은 논스톱과 다른 경로다. 중간 정차가 있으면 해당 공항의 체류 시간이 여정에 포함된다. 같은 편명으로 표시되는 경우에도 항공권의 각 구간과 공항 안내에 따라 기내 대기 또는 이동 절차가 정해질 수 있다. 회사 자료는 항공편별 승객 하차 방식까지 제시하지 않았다. 단순히 출발편 수만 세는 것보다 공항 코드와 도착 현지 시각을 함께 보는 것이 정확하다.\n\n아부다비를 최종 목적지로 삼는 사람은 프랑크푸르트에서 바로 갈 수 있다. 그 너머로 이동하는 승객에게는 에티하드의 국제선과 연결할 수 있는 선택지가 추가된다. 콘도르는 제휴를 통해 전체 여정을 한 장의 항공권으로 예약하고 수하물을 최종 목적지까지 맡기는 연결을 안내했다. 이 설명은 제휴 조건에 맞춰 발권한 여정에 해당한다. 별도로 구매한 표를 조합할 때는 수하물 재수속과 연결 보장 조건을 따로 확인해야 한다.\n\n편집부가 보는 이번 개설의 의미는 독일과 태국 사이의 방콕행 선택지 확대와 아부다비 환승망 연결이 같은 운항으로 이루어진다는 점이다. 방콕만 목적지라면 기존 논스톱의 시간 이점과 경유편의 출발 시각·요금을 비교할 수 있다. 제3의 목적지로 향한다면 경유 시간이 적당한지, 뒤 항공편의 실제 운항사가 누구인지가 더 중요해진다. 새 노선이 생긴 사실만으로 모든 여행일의 가격이나 소요시간이 개선된다고 볼 근거는 없다.\n\n공항 이름이 비슷한 도시를 함께 검색할 때는 프랑크푸르트 FRA, 아부다비 AUH, 방콕 수완나품 BKK를 확인하면 경로가 분명해진다. 프랑크푸르트 공항 운영사 프라포트도 겨울 시간표에서 11월 4일 아부다비 연결을 안내했다. 공항 자료는 해당 공항의 운항 추가를 설명하고, 콘도르 자료는 방콕까지 이어지는 여정과 제휴 조건을 설명한다. 두 자료의 범위를 나눠 보면 무엇을 공항에서 확인하고 무엇을 항공사에서 확인해야 하는지 알 수 있다.\n\n공개 자료는 겨울철 확대와 현재의 매일 일정을 설명한다. 다음 여름에도 같은 빈도가 이어질지, 개별 날짜에 같은 기종이 투입될지는 확인되지 않았다. 결제 전에 논스톱과 경유를 구별하고, 공항별 도착 시간과 수하물 조건까지 확인하면 두 경로를 같은 기준에서 비교할 수 있다."
+        },
+        "en": {
+          "title": "Condor adds a Frankfurt–Bangkok service via Abu Dhabi",
+          "summary": "The first flight departed November 4. The new daily service adds a second Bangkok option alongside the existing nonstop.",
+          "body": "Germany’s Condor launched daily Frankfurt–Abu Dhabi–Bangkok service on November 4. Its announcement marked the inaugural departure, and Emirates News Agency reported on November 5 that Abu Dhabi’s Zayed International Airport welcomed the first arrival. Condor retains its existing daily Frankfurt–Bangkok nonstop. The airline’s two daily options count both itineraries together.\n\nCondor operates long-haul passenger services from Frankfurt. Etihad Airways uses Abu Dhabi as its international hub. A codeshare lets travelers find a flight through a partner’s sales network. Condor says it uses Airbus A330neo aircraft for the new service. The A330neo is a twin-aisle update of the A330 family with newer engines and design changes.\n\nFrequency and the intermediate stop\nA Frankfurt departure and Bangkok arrival can appear on a single itinerary even when it lands in Abu Dhabi. Time spent at the intermediate airport is part of the trip. A common flight number does not establish whether travelers wait on board or move through the terminal. The release gives no flight-by-flight deplaning procedure. Compare airport codes and local arrival times alongside the departure count.\n\nFor Abu Dhabi passengers, the Frankfurt leg can be the entire flight. Others gain an opportunity to connect to Etihad’s network. Condor describes one-ticket itineraries with baggage checked to the final destination under the partnership. That applies to qualifying itineraries. If tickets were bought separately, verify rechecking and connection protection independently.\n\nIn our analysis, the service expands Bangkok choices and links to a Gulf hub with the same operation. Bangkok passengers can compare the nonstop’s time advantage with the via service’s departure times and fare. Onward travelers may care more about layover length and the operating carrier. The new route alone does not establish lower prices or shorter trips on every date.\n\nUse FRA for Frankfurt, AUH for Abu Dhabi and BKK for Bangkok Suvarnabhumi to identify the exact path. Frankfurt operator Fraport listed the November 4 Abu Dhabi addition in its winter schedule. The airport source establishes the addition from Frankfurt. Condor’s notice explains the onward Bangkok itinerary and partnership terms.\n\nThe materials describe the winter expansion and the current daily schedule. They do not confirm the same frequency for summer or the aircraft on every future date. Distinguish the nonstop from the one-stop option before purchase and compare local arrival times and baggage conditions on the same basis."
+        },
+        "ja": {
+          "title": "コンドル、フランクフルト～バンコクにアブダビ経由便",
+          "summary": "11月4日に初便。従来のノンストップ便と経由便を合わせ、毎日2つの選択肢を提供する。",
+          "body": "ドイツのコンドルは11月4日、フランクフルトからアブダビ経由でバンコクへ向かう毎日運航便を開設した。同日発表は初便の出発を伝え、UAE国営通信WAMは5日にザイード国際空港が到着便を迎えたと報じた。従来の毎日のノンストップ便も継続する。1日2便という説明はこの2種類の合計だ。\n\nコンドルはフランクフルトを拠点に長距離便を運航し、エティハド航空はアブダビを国際ハブとする。コードシェアによって提携先の販売網でも便を探せる。コンドルは新便にA330neoを使う。A330系のエンジンや設計を更新した双通路機だ。\n\n一つの旅程にフランクフルト発とバンコク着が表示されても、アブダビに着陸するならその滞在時間が加わる。同じ便名でも機内待機かターミナル移動かは便と空港の案内による。発表は便別の降機手順を示していない。便数に加え空港コードと現地到着時刻を比べたい。\n\nアブダビが目的地ならフランクフルトから直接行ける。さらに移動する場合はエティハドの国際網につながる。コンドルは提携対象の旅程で、通しの航空券と最終地までの手荷物預けを案内する。別々に買った航空券では再預けと接続の扱いを個別に確認する必要がある。\n\n編集部の見方では、バンコクの選択肢と湾岸ハブへの接続が同じ便で広がる。バンコク行きならノンストップの所要時間と経由便の出発時刻や運賃を比較できる。その先へ向かう場合は乗り継ぎ時間や実際の運航会社が重要だ。全日程の値下がりや短縮まで確認されたわけではない。\n\nFRA、AUH、BKKの空港コードで経路を確認できる。フランクフルト空港の運営会社フラポートも冬ダイヤで11月4日のアブダビ便を案内した。空港資料は出発便の追加を示し、コンドルの発表はバンコクへの区間と提携条件を説明する。\n\n資料が示すのは冬季の拡大と毎日の計画だ。夏も同じ頻度か、各日に同じ機材かは確認されていない。予約時に経由の有無を見分け、現地到着時刻と手荷物条件をそろえて比べると判断しやすい。"
+        },
+        "zh": {
+          "title": "神鹰航空新增法兰克福经阿布扎比至曼谷航班",
+          "summary": "首班于11月4日出发。与原有不经停航班合计，旅客每天有两个选项。",
+          "body": "德国神鹰航空11月4日开通法兰克福经阿布扎比至曼谷的每日航班，并在当天公告首航出发。阿联酋通讯社11月5日报道扎耶德国际机场迎来首班。原有法兰克福至曼谷每日不经停航班继续运行，每日两种选项由两条不同路径组成。\n\n神鹰航空以法兰克福经营长途客运，阿提哈德航空以阿布扎比为国际枢纽。代码共享让航班进入伙伴销售网络。神鹰称新航班使用空客A330neo，这是一款对A330系列发动机与设计进行更新的双通道客机。\n\n法兰克福出发、曼谷到达可以显示在同一行程，但阿布扎比落地停留的时间仍应计入。即使使用相同航班号，是否在机内等候或进入航站楼，也要看具体航班及机场指引。公告未说明逐班下机流程。比较时应同时看机场代码与当地到达时间。\n\n以阿布扎比为终点的旅客可以从法兰克福直接抵达，继续出行者则可接驳阿提哈德的国际网络。神鹰介绍了合作行程中一次出票和行李直挂最终目的地的安排。分开购买机票时，需要另查行李重办与中转保障条款。\n\n编辑部认为，同一项服务同时增加了前往曼谷的选择和海湾枢纽接驳。前往曼谷可比较不经停的时间与经停航班的起飞时间、票价。继续前往其他城市时，中转时长与实际承运人更重要。开通并不能证明每个日期都更便宜或更快。\n\n核对法兰克福FRA、阿布扎比AUH和曼谷素万那普BKK可以确认路径。法兰克福机场运营方Fraport也在冬季计划中列出11月4日的阿布扎比航班。机场资料确认从法兰克福增加的航班，神鹰公告则解释后续曼谷段与合作条件。\n\n资料说明了冬季扩张及当前每日计划，尚未确认下个夏季频率或各日机型。购票前核对是否经停、当地到达时间与行李条件，可让两种行程在同一口径下比较。"
+        }
+      },
+      "image": {
+        "url": "assets/20261110-condor.jpg",
+        "alt": {
+          "ko": "사막 지역을 연상시키는 공항의 탑승교와 일반 여객기",
+          "en": "Generic jet and boarding bridge at an airport in a desert setting",
+          "ja": "砂漠地帯を思わせる空港の搭乗橋と一般的な旅客機",
+          "zh": "沙漠地区机场的通用客机与登机廊桥"
+        },
+        "generated": true
+      }
+    },
     {
       "id": "airbus-october-deliveries-20261106",
       "date": "2026-11-06",
