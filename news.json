@@ -1,6 +1,277 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "articles": [
+    {
+      "id": "qatar-executive-starlink-gulfstream-20261112",
+      "date": "2026-11-12",
+      "published": "2026-11-13",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Qatar Airways Newsroom",
+      "url": "https://www.qatarairways.com/press-releases/en-WW/274405-qatar-executive-delivers-fleet-wide-starlink-connectivity/",
+      "sources": [
+        {
+          "name": "Qatar Airways Newsroom",
+          "url": "https://www.qatarairways.com/press-releases/en-WW/274405-qatar-executive-delivers-fleet-wide-starlink-connectivity/"
+        },
+        {
+          "name": "Starlink Aviation coverage and authorization",
+          "url": "https://starlink.com/pr/support/article/bc134ccc-57ee-c44d-8b90-e8cbc9a44865"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "카타르 이그제큐티브, G700·G650ER 전 기체에 스타링크 설치 완료",
+          "summary": "카타르항공그룹의 전세기 부문이 초장거리 걸프스트림 기단의 위성 인터넷 개조를 마쳤다.",
+          "body": "카타르 이그제큐티브가 걸프스트림 G700과 G650ER 초장거리 기단 전체에 스타링크 와이파이를 설치했다고 11월 12일 발표했다. 회사는 두 기종에서 서비스가 제공된다고 밝혔다. 12일은 설치 완료를 공개한 날이며, 마지막 기체에서 작업을 끝낸 시각이나 개별 기체의 첫 서비스 날짜는 자료에 없다. 여행자가 이번 소식을 예약에 적용할 때는 먼저 실제 배정 기종을 확인해야 한다.\n\n카타르 이그제큐티브는 카타르항공그룹의 전용기 전세 사업 부문이다. 정해진 시간표에 따라 좌석을 파는 여객편과 운영 방식이 다르다. 회사가 설명하는 유동 기단 방식에서는 수요가 있는 지역으로 항공기를 재배치한다. G700과 G650ER는 장거리 논스톱 임무를 수행하는 비즈니스 제트다. 기종별로 장비가 통일되면 같은 두 기종 안에서 기체가 바뀔 때 인터넷 설비가 달라질 가능성을 줄일 수 있다는 것이 편집부의 해석이다.\n\n객실 와이파이에는 두 연결이 있다. 노트북이나 휴대전화가 객실의 무선망에 붙고, 항공기에 장착한 위성 단말이 외부 네트워크로 데이터를 보낸다. 스타링크가 사용하는 저궤도 위성은 정지궤도 위성보다 지구에 가깝다. 전파가 오가는 거리가 짧아지면 신호가 왕복하는 데 걸리는 시간을 줄일 수 있다. 화상 회의에서는 파일을 받는 속도와 별개로 상대방의 말에 반응이 얼마나 늦게 돌아오는지도 중요하다.\n\n회사는 설치 대부분을 카타르 이그제큐티브 엔지니어링과 카타르항공 정비 조직이 자체 수행했다고 설명했다. MRO는 항공기의 유지보수·수리·정비를 뜻한다. 외부 안테나를 달고 객실 장치와 연결하는 개조는 좌석에 공유기를 하나 추가하는 일과 다르다. 전력과 배선, 안테나의 설치 위치, 운항에 필요한 승인 조건이 맞아야 한다. 이번 발표에는 기체별 개조 기간이나 부품 비용이 나오지 않았다.\n\n전세 고객에게는 장시간 비행 중 회의나 메시지 전송을 계획할 근거가 하나 늘었다. 다만 회사가 설명한 낮은 지연과 넓은 서비스 범위는 노선마다 측정한 보장 수치로 공개되지 않았다. 같은 항공편에서도 동시에 접속한 기기 수나 비행 경로, 위성망의 상태에 따라 체감이 달라질 수 있다. 놓치기 어려운 업무라면 기내 접속 가능 구간과 이용 조건을 예약 담당자에게 확인하고, 연결 없이 열 수 있는 자료도 준비하는 편이 현실적이다.\n\n위성이 보이는 곳과 서비스가 허용되는 곳도 구분할 필요가 있다. 스타링크의 항공 서비스 안내는 국제 수역을 포함한 위성망 범위를 설명하는 한편, 항공기 이동 중 서비스가 허가된 국가를 별도로 안내한다. 기술적으로 위성 신호를 받을 수 있어도 모든 공역에서 같은 조건으로 이용할 수 있다는 근거는 아니다. 출발지나 도착지의 허가 범위가 중요하다면, 예약 시 항공사에 비행 경로와 지상 연결 가능 여부를 함께 문의하는 것이 해당 여정의 답에 가깝다.\n\n같은 발표에 나오는 카타르항공 여객기 170대는 그룹 정기편의 별도 스타링크 설치 실적이다. 전세기 G700과 G650ER의 수량을 뜻하지 않는다. 공개 자료가 확인해 주는 범위는 두 초장거리 기종의 설치 완료다. 다른 전세 기종에 장비가 언제 적용될지, 각 기체에서 어떤 속도를 낼지는 아직 공개되지 않았다."
+        },
+        "en": {
+          "title": "Qatar Executive finishes Starlink installations on its G700 and G650ER fleet",
+          "summary": "The Qatar Airways Group charter division has completed the retrofit on its two ultra-long-range Gulfstream types.",
+          "body": "On November 12 Qatar Executive reported Starlink Wi-Fi installed and available across its Gulfstream G700 and G650ER fleet. November 12 is the date it announced completion. The release gives neither the final aircraft’s installation date nor each jet’s first service date. Charter customers should identify the aircraft assigned to their trip.\n\nQatar Executive is the group’s private charter division. Its floating fleet can reposition aircraft to meet demand, unlike a passenger timetable that sells individual seats. The G700 and G650ER serve ultra-long-range nonstop missions. In our assessment, standardizing the equipment across these types makes the installed internet system more predictable if another aircraft of either type is assigned.\n\nCabin Wi-Fi involves two links: a device connects to the cabin network, while the aircraft terminal exchanges data with satellites. Starlink’s low-Earth-orbit satellites are closer than geostationary ones. Shorter paths can reduce the time a signal takes to make a round trip. In a video call, the delay before a reply is a separate concern from file download speed.\n\nThe company says its engineering staff and Qatar Airways maintenance, repair and overhaul teams performed most installations in-house. Connecting an external antenna to cabin equipment involves power, wiring, placement and operational approvals. The announcement gives no per-aircraft installation duration or component costs.\n\nCustomers now have more reason to plan messaging or meetings on long flights. The release does not offer guaranteed route-specific speeds or latency. Passenger load on the network, flight path and satellite service conditions can influence the experience. For time-critical work, check usage terms and where a connection is expected, and keep offline copies of essential material.\n\nSatellite visibility and service permission are separate. Starlink’s aviation guidance describes coverage over international waters and lists countries that authorize in-motion use. Receiving a signal does not establish identical conditions in every airspace. When ground access or a particular country matters, ask the operator about the itinerary and expected availability.\n\nThe 170 widebodies cited in the same release belong to a separate Qatar Airways scheduled-fleet rollout. The reported completion covers the G700 and G650ER charter types. Timelines for other charter aircraft and individual aircraft performance remain undisclosed."
+        },
+        "ja": {
+          "title": "カタール・エグゼクティブ、G700とG650ER全機へのStarlink搭載を完了",
+          "summary": "カタール航空グループのチャーター部門が超長距離ガルフストリーム機を改修した。",
+          "body": "カタール・エグゼクティブは11月12日、G700とG650ERの全機にStarlinkのWi-Fiを搭載し、提供可能になったと発表した。12日は完了の公表日で、最後の施工日や各機のサービス初日は示していない。利用時には割り当て機材を確認したい。\n\n同部門はグループの専用機チャーターを担う。定期便と異なり、需要に合わせて機体を世界各地へ再配置する。G700とG650ERは超長距離直行向けのビジネスジェットだ。編集部は、2機種で装備をそろえることで、同じ対象機種内で機体が変更されても通信設備を予測しやすくなると見る。\n\n機内端末はまず客室の無線網につながり、機上端末が衛星と通信する。Starlinkの低軌道衛星は静止衛星より地表に近いため、電波の経路が短くなり往復時間を抑えられる。会議で相手の反応が戻るまでの遅れは、ファイルの受信速度とは別の指標だ。\n\n作業の大半は自社技術部門とカタール航空の整備・修理・オーバーホール部門が担ったという。外部アンテナと客室装置を結ぶには電源、配線、設置位置、運航に必要な承認が関わる。機体ごとの工期と部品費は公表されていない。\n\n長距離飛行で会議やメッセージを計画する材料が増えた。ただし路線別の保証速度や遅延は資料にない。同時接続数、経路や衛星網の状態で体感は変わり得る。重要な業務では利用条件と接続区間を確認し、オフライン資料も用意するとよい。\n\n衛星が見える範囲と利用許可は別だ。Starlinkの案内は公海上のカバー範囲に加え、移動中の航空機で利用が許可される国を示す。電波を受けられても全空域で条件が同じとは限らない。地上接続や特定国が重要なら、旅程を伝えて運航会社に確認したい。\n\n資料のワイドボディ170機はカタール航空の定期便側の別の実績だ。今回の完了範囲はチャーターのG700とG650ER。ほかの機種への適用日や機体別性能は未公表である。"
+        },
+        "zh": {
+          "title": "卡塔尔公务航空完成G700和G650ER机队的Starlink安装",
+          "summary": "卡塔尔航空集团包机部门完成两种超远程湾流飞机的卫星联网改装。",
+          "body": "卡塔尔公务航空11月12日宣布，G700和G650ER机队已全部安装并提供Starlink Wi-Fi。12日是公布完成的日期，最后一架的施工日期和各架飞机首次提供服务的日期未披露。预订包机时可先确认分配的机型。\n\n该部门负责集团私人飞机包机，按需求调动飞机，与按时刻表销售座位的定期客运不同。两款湾流飞机用于超远程直飞。编辑部认为，在这两种机型内统一设备，可使换机后的联网配置更容易预判。\n\n个人设备先连接客舱无线网，再由机载终端与卫星交换数据。低轨卫星距离地面比地球同步轨道卫星近，较短的信号路径有助于降低往返延迟。视频会议中的应答延迟与下载速度是不同指标。\n\n公司称大部分施工由本部门工程人员及卡塔尔航空维护、修理和大修团队完成。外部天线接入客舱设备涉及供电、布线、位置和运行许可。各架飞机的改装工期和零部件成本未公布。\n\n长途旅客可据此安排会议或通信，但公告未给航线级速度或延迟保证。同一班机上的连接数量、飞行路径和卫星网络状态都会影响体验。重要工作宜核对可用区段和条款，并准备离线文件。\n\n卫星可见范围和服务许可不同。Starlink航空说明既介绍国际水域覆盖，也列出允许航空器移动中使用的国家。可收到信号不代表各空域条件一致。需要地面连接或特定国家覆盖时，可向承运方核对实际行程。\n\n同份公告的170架宽体客机属于卡塔尔航空定期客运机队的另一项部署数据。本次完成范围是包机的G700和G650ER。其他包机机型的部署时间及逐架性能仍未披露。"
+        }
+      },
+      "image": {
+        "url": "assets/20261113-qatar.jpg",
+        "alt": {
+          "ko": "노트북과 창이 보이는 일반 비즈니스 제트 객실",
+          "en": "Generic business jet cabin with a laptop and windows",
+          "ja": "ノートパソコンと窓のある一般的なビジネスジェット機内",
+          "zh": "配有笔记本电脑和舷窗的通用商务机客舱"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "swiss-dubai-suspension-delhi-extra-20261111",
+      "date": "2026-11-11",
+      "published": "2026-11-13",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "SWISS Newsbrief #51",
+      "url": "https://newsroom.swiss.com/en/middle-east-flight-operations--updates-newsbrief/",
+      "sources": [
+        {
+          "name": "SWISS Newsbrief #51",
+          "url": "https://newsroom.swiss.com/en/middle-east-flight-operations--updates-newsbrief/"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "SWISS, 두바이 재개 미루고 12월 2일부터 델리 하루 두 편 계획",
+          "summary": "11월 25일로 잡았던 두바이 재개는 겨울 시간표 종료 시점까지 보류됐다.",
+          "body": "스위스국제항공 SWISS가 11월 11일 취리히–두바이 운항 재개를 2026~2027년 겨울 시간표가 끝나는 2027년 3월 27일까지 보류한다고 밝혔다. 직전 재개 계획은 11월 25일이었다. 같은 공지에서 취리히–델리의 두 번째 일일편을 12월 2일부터 겨울 시간표 종료까지 다시 편성한다고 발표했다. 발표일은 11월 11일이고, 델리 추가편이 실제로 출발할 예정인 첫날은 12월 2일이다.\n\nSWISS는 루프트한자그룹 소속으로 취리히를 장거리 연결의 거점으로 쓰는 항공사다. 이번 공지는 두 시장의 운항 계획을 함께 다루지만, 두바이에 쓸 예정이던 특정 기체를 델리로 돌렸다고 밝히지는 않았다. 두바이 재개 보류 이유는 회사 표현으로 운영상의 사유다. 편집부는 두 노선의 공급을 별도로 조정한 것으로 읽었다. 항공사가 공개하지 않은 기체 배정이나 구체적인 사유까지 추정할 근거는 없다.\n\n델리에서는 기존 하루 한 편이 유지되고 추가편이 합류한다. 계획대로라면 해당 기간 SWISS의 취리히–델리 운항 빈도는 하루 두 편이다. 다른 항공사까지 포함한 양 도시 전체 공급이나 좌석 수가 두 배라는 계산은 할 수 없다. 기재에 따라 편당 좌석 수가 다르고, 날마다 같은 기종을 보장하지 않기 때문이다. 공지에는 추가편에 주로 에어버스 A340을 배정한다고 돼 있다.\n\nA340은 네 개의 엔진과 두 개의 객실 통로를 갖춘 광동체 기종이다. 항공기 이름은 배치될 수 있는 기재를 알려 주지만 정확한 좌석 배열이나 기내 장비는 예약 화면의 편별 정보가 필요하다. ‘주로 A340’이라는 표현에는 대체 기재가 들어갈 여지가 있다. 델리행을 이용하는 사람이라면 기종과 함께 취리히 도착편에서 새 출발편으로 이어지는 대기 시간, 인도 도착 시각, 수하물 연결을 확인하는 게 더 직접적인 비교가 된다.\n\n두바이 예약 고객에 대해서는 항공사가 취소를 알리고 대체편으로 다시 예약한다고 안내했다. 통보를 받았다면 대체편의 도착 공항과 전체 여정의 시간을 원래 일정과 비교할 수 있다. 다른 항공사나 별도 예약으로 이어지는 구간이 있다면, 재예약 통보 한 건으로 그 구간까지 바뀌는지 예약별로 확인해야 한다. 공개 공지는 개인별 대체편이나 확정된 좌석을 보여 주지 않는다.\n\n10월 23일자 이전 공지도 같은 페이지에 남아 있다. 공지 목록을 위에서부터 읽어야 하는 이유다. 아래쪽의 더 오래된 항목에는 델리 추가편에 A330을 쓴다는 설명이 있지만, 이는 10월 24일까지의 여름 시간표에 관한 것이었다. 12월부터의 추가편은 이번에 언급된 A340 중심 계획으로 읽어야 한다. 지난 공지에서 복사한 편명이나 출발 시각도 자동으로 새 편에 적용되지 않는다. 날짜를 입력한 예약 결과를 최신 공지와 대조하면 다른 시즌의 운항 정보를 섞을 가능성을 줄일 수 있다.\n\n3월 27일은 공지가 제시한 중단 범위의 끝이다. 이후 첫 항공편의 판매와 실제 운항은 후속 일정에서 확인해야 한다. 델리 쪽도 현재 확인되는 것은 추가편 운항 계획이며, 시작 뒤의 실적은 아직 없다. 이번 변경으로 두바이와 델리를 같은 겨울 여행으로 준비해도 출발 날짜에 따라 필요한 확인 항목이 달라졌다."
+        },
+        "en": {
+          "title": "SWISS postpones Dubai return and plans a second daily Delhi flight",
+          "summary": "The planned November 25 Dubai restart is suspended through the winter timetable.",
+          "body": "On November 11 SWISS said Zurich–Dubai would remain suspended through March 27, 2027, the end of its winter schedule. It previously planned a November 25 restart. The same notice reinstates a second daily Zurich–Delhi flight from December 2 until the winter timetable ends. November 11 is the announcement date, while December 2 is the planned start of the added service.\n\nSWISS is a Lufthansa Group airline with long-haul connections through Zurich. It attributes the Dubai decision to operational reasons. The announcement discusses both markets but does not identify any Dubai aircraft transferred to Delhi. We interpret these as separate capacity decisions and have no evidence for a specific aircraft reassignment or a more detailed cause.\n\nThe regular daily Delhi service remains, with a second daily flight added during the stated period. That doubles SWISS’s frequency in the plan, not the total market’s seats. Aircraft may have different seating capacities. The carrier expects an Airbus A340 to operate most additional flights.\n\nThe A340 is a four-engine, twin-aisle aircraft. The aircraft type alone does not establish the exact seat map or cabin features. “Mostly” also leaves room for substitutions. Delhi travelers can compare aircraft alongside connection time at Zurich, arrival time in India and baggage transfer terms.\n\nSWISS says it will notify affected Dubai passengers and rebook them onto alternatives. Compare the arrival airport and overall journey time after receiving the new booking. Separately ticketed onward travel may require its own confirmation. The public notice does not identify each traveler’s replacement flight.\n\nThe same page retains the October 23 update and older notices. An earlier entry describes an A330 on the additional Delhi flight through October 24 under the summer schedule. December’s reinstatement refers to the newer plan, mostly with the A340. Do not carry over old flight numbers or departure times. Match the latest dated notice to the actual travel-date search.\n\nMarch 27 marks the end of the announced suspension window. A first flight after that date still needs a later schedule confirmation. Delhi’s additional service is also a plan until the start date arrives. The two changes affect winter bookings in different ways depending on the travel date."
+        },
+        "ja": {
+          "title": "SWISS、ドバイ再開を延期　12月2日からデリーを1日2便へ",
+          "summary": "11月25日に予定したドバイ再開は冬ダイヤ終了まで見送る。",
+          "body": "SWISSは11月11日、チューリヒ～ドバイ線の運休を冬ダイヤ終了の2027年3月27日まで延ばすと発表した。直前の再開予定は11月25日。同時にチューリヒ～デリーの2便目を12月2日から冬ダイヤ終了まで復活させる。発表日とデリー増便開始予定日は異なる。\n\nSWISSはルフトハンザグループの航空会社で、チューリヒを長距離接続の拠点とする。ドバイの延期理由は運航上の事情と説明した。2路線を同時に扱う告知だが、ドバイ向け機体をデリーに回すとは示していない。編集部は市場ごとの供給調整と読み、個別機材や詳細理由は推定していない。\n\nデリーでは既存の毎日便に2便目が加わる。対象期間のSWISSの頻度は計画上1日2便だ。他社を含む市場全体の座席が倍になるという意味ではない。1便の座席数は機材で変わる。追加便には主にエアバスA340を使用する予定だ。\n\nA340は4発で通路が2本の大型機。具体的な座席配置と機内設備は便ごとの情報が必要だ。「主に」には機材変更の余地がある。利用者にはチューリヒでの接続時間、インド到着時刻、手荷物の扱いも直接の比較項目になる。\n\nドバイ線の対象客には欠航を通知し代替便へ振り替えるという。受け取った予約の到着空港と全体の時間を元の計画と比べたい。別切りの後続便は予約ごとの確認が要る場合がある。公開告知で個別の代替便は分からない。\n\n同じページには10月23日付とさらに古い告知も残る。以前のA330増便は10月24日までの夏ダイヤについての説明だ。12月分は今回のA340中心の計画を参照する。古い便名と時刻を引き継がず、最新の日付付き告知と予約検索を照合したい。\n\n3月27日は公表された運休範囲の終端だ。以後の初便は後続ダイヤで確認する必要がある。デリー増便も現時点では計画で、運航実績は開始後の確認事項となる。"
+        },
+        "zh": {
+          "title": "瑞士国际航空推迟迪拜复航，计划12月2日起每日两班飞德里",
+          "summary": "原定11月25日恢复的迪拜航线暂停至冬季时刻表结束。",
+          "body": "瑞士国际航空11月11日宣布，苏黎世至迪拜继续停飞至2027年3月27日冬季时刻表结束，原定11月25日恢复。公司同时计划12月2日起至冬季结束恢复苏黎世至德里的第二个每日航班。公告日期和新增航班计划首飞日不同。\n\n瑞士国际航空属于汉莎集团，以苏黎世连接长途航线。公司以运营原因为由推迟迪拜复航。两项调整出现在同一公告中，但没有说明将原定飞迪拜的飞机转到德里。编辑部将其解读为分别调整运力，具体原因与飞机调配未披露。\n\n德里保留原有每日一班，再增加一班。计划期内该公司的频率为每日两班。这不能推导出包含其他航司的市场座位数翻倍，各机型载客量也不同。新增班次计划主要使用空客A340。\n\nA340是四引擎双通道宽体机。具体座位布局与客舱设备应查看航班资料，“主要”也意味着可能换机。赴德里旅客还可比较苏黎世换乘等待、印度到达时间和行李衔接。\n\n公司表示将通知受影响的迪拜旅客并改订其他航班。收到通知后宜比较到达机场与总行程时间，另买的后续航段可能需要单独确认。公告没有列出旅客个人的替代航班。\n\n同页保留10月23日及更早公告。此前使用A330的德里增班指10月24日结束的夏季时刻表，12月则看本次以A340为主的安排。旧航班号和时间不应直接沿用，应将最新日期公告与实际出行日期的搜索结果核对。\n\n3月27日是此次宣布的停航期限终点，之后首班仍待后续时刻表确认。德里增班也仍处于计划阶段，实际执行要在开始后核查。"
+        }
+      },
+      "image": {
+        "url": "assets/20261113-swiss.jpg",
+        "alt": {
+          "ko": "겨울 아침 공항 탑승구의 일반 대형 여객기",
+          "en": "Generic widebody at an airport gate on a winter morning",
+          "ja": "冬の朝に搭乗口に駐機する一般的な大型旅客機",
+          "zh": "冬季清晨停靠登机口的通用宽体客机"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "vietjet-cebu-clark-three-routes-20261110",
+      "date": "2026-11-10",
+      "published": "2026-11-13",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Vietjet route announcement",
+      "url": "https://seo.vietjetair.com/en/news/news-1697697232035/vietjet-launches-three-new-routes-to-cebu-and-clark-strengthening-air-connectivity-between-vietnam-and-the-philippines-1794362456284",
+      "sources": [
+        {
+          "name": "Vietjet route announcement",
+          "url": "https://seo.vietjetair.com/en/news/news-1697697232035/vietjet-launches-three-new-routes-to-cebu-and-clark-strengthening-air-connectivity-between-vietnam-and-the-philippines-1794362456284"
+        },
+        {
+          "name": "Dân trí English coverage",
+          "url": "https://dtinews.dantri.com.vn/vietnam-today/vietjet-launches-three-new-routes-to-philippines-20261111155908008.htm"
+        },
+        {
+          "name": "Vietjet advance announcement, August 17",
+          "url": "https://www1.vietjetair.com/en/news/news-1697697232035/fly-direct-to-cebu-clark-and-chiang-mai-with-vietjet-from-0-vnd-and-20-off-skyboss-and-deluxe-1786937397241"
+        },
+        {
+          "name": "Philstar, November 12 coverage",
+          "url": "https://www.philstar.com/lifestyle/travel-and-tourism/2026/11/12/2569441/budget-airline-launches-routes-between-vietnam-and-cebu-clark"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "비엣젯, 세부·클라크에 베트남 직항 세 노선 개설",
+          "summary": "하노이와 호찌민에서 세부로, 호찌민에서 클라크로 각각 주 3회 왕복한다.",
+          "body": "취항일은 앞선 자료와도 맞는다. 비엣젯은 8월 17일 판매 안내에서 필리핀 세 노선의 시작일을 11월 10일로 예고했다. 이어 11월 10일자 공식 자료로 개설을 알렸으며, 필리핀스타는 11월 12일 보도에서 세 노선이 10일 시작됐다고 확인했다. 따라서 8월 안내는 운항 전 예고, 11월 자료는 개설 확인으로 읽을 수 있다. 다만 날짜가 확인됐다고 공항별 실제 도착 시각까지 확인된 것은 아니다. 첫날 운항 기록과 이후 정기 일정도 각각 다른 자료가 필요하다.\n\n비엣젯이 호찌민–세부, 하노이–세부, 호찌민–클라크 직항의 취항을 11월 10일자 공식 자료로 알렸다. 항공사는 막탄세부 국제공항과 클라크 국제공항에서 첫 항공편을 맞이했다고 밝혔다. 새 노선 세 개의 운항 개시를 확인하는 발표다. 공개 자료에는 세 구간 각각의 최초 출발 시각이 명시되지 않아, 자료에 붙은 날짜를 모든 첫 편의 출발 시각으로 해석할 수는 없다.\n\n비엣젯은 베트남을 기반으로 국내선과 국제선을 운영하는 저비용항공사다. 이번에는 기존 호찌민–마닐라에 별도의 목적지를 더했다. 세부에는 베트남의 두 출발 도시에서 들어오고, 클라크는 호찌민에서 연결한다. 같은 필리핀행이라도 노선마다 출발 도시와 도착 공항이 다르다. 특히 하노이–클라크까지 새로 운항한다는 발표는 없었다. 일정 검색에서 베트남 출발 도시를 바꾸면 선택지가 달라지는 이유다.\n\n주 3회라는 숫자는 각 노선의 왕복 빈도다. 세 노선을 합하면 주 9회 왕복이고, 왕복의 두 방향을 각각 세면 정기 시간표상 18개 편도 구간이 된다. 이 계산에는 기존 마닐라 노선을 넣지 않았다. 세부행 두 노선의 빈도를 합산해도 하노이 승객이 주 6회 출발할 수 있다는 뜻은 아니다. 실제로 탈 수 있는 횟수는 자신의 출발 공항과 날짜에 맞는 편만 남겨 계산해야 한다.\n\n세부와 클라크의 역할도 다르다. 세부에서는 막탄에 도착해 인근 도시나 섬으로 이동할 수 있고, 클라크는 마닐라 북쪽 루손 지역으로 접근하는 공항이다. 클라크로 도착한 뒤 마닐라 시내나 마닐라의 다른 공항에서 출발해야 한다면 지상 이동을 따로 고려해야 한다. 반대로 중부나 북부 루손이 목적지라면 공항을 바꿔 접근 시간을 비교할 수 있다. 편집부는 이번 노선의 가치가 필리핀행 총편수보다 도착 공항의 선택지에서 더 직접적으로 드러난다고 본다.\n\n항공사가 소개한 베트남 경유 연결은 여행 상품을 고를 때 조건을 확인할 항목이다. 같은 회사가 두 구간을 팔더라도 예약이 별개라면 수하물을 찾아 다시 맡겨야 할 수 있고, 앞 편의 지연 때 뒤 편을 보호받는 범위가 다를 수 있다. 주 3회 운항에서는 연결을 놓쳤을 때 당일 대체편이 충분하다고 가정하기 어렵다. 항공권 가격을 비교할 때 편도 최저가와 함께 수하물, 이동, 여유 시간을 포함하면 실제 동선에 가까운 비교가 된다.\n\n베트남 매체 Dân trí의 11월 11일 보도도 같은 세 노선과 두 공항의 취항 행사를 전했다. 현재 확인된 것은 취항과 발표된 주간 빈도다. 이후 날짜별 시각과 계절별 변경, 판매 운임은 예약 시점의 항공사 시간표에서 확인해야 한다. 새 직항이 생긴 효과는 왕복 전체가 자신의 일정에 맞는지 볼 때 구체적으로 판단할 수 있다."
+        },
+        "en": {
+          "title": "Vietjet launches three Vietnam flights to Cebu and Clark",
+          "summary": "The airline reports three weekly round trips on each of three nonstop routes.",
+          "body": "Vietjet’s August 17 sales notice had scheduled all three Philippine services to start November 10. The November 10 release then reported the launches, and Philstar’s November 12 report confirmed that start date. The August notice is a plan and the November reporting confirms commencement. Precise inaugural arrivals and later regular schedules require separate records.\n\nVietjet’s November 10 release confirms launches from Ho Chi Minh City to Cebu, Hanoi to Cebu, and Ho Chi Minh City to Clark. It reports inaugural arrivals at Mactan-Cebu and Clark international airports. The publication date does not establish the precise first departure time of every route.\n\nVietjet is a Vietnam-based low-cost carrier operating domestic and international services. The additions complement its Ho Chi Minh City–Manila route. Cebu gets two Vietnamese origins, while Clark gets Ho Chi Minh City. Hanoi–Clark is outside the announced set, so changing the departure city changes which nonstop is available.\n\nThree weekly round trips apply to each route. Together they represent nine round trips, or 18 scheduled one-way sectors when both directions are counted. This excludes existing Manila service. Combining the two Cebu routes does not give a Hanoi passenger six weekly departures. Count the flights that match the actual origin and travel date.\n\nCebu’s airport is on Mactan, while Clark serves an area north of Manila on Luzon. Travelers heading to Manila or another airport there should allow for ground travel from Clark. People bound for Central or Northern Luzon can compare access times. Our interpretation is that the choice of arrival airport matters more directly than a network-wide flight total.\n\nOnward connections through Vietnam need checking at booking. Separate tickets may require baggage collection and recheck, with different protections if an incoming flight runs late. Three weekly services can leave few same-day recovery options. Compare baggage, surface transport and connection time as well as the advertised fare.\n\nVietnamese outlet Dân trí also reported the three routes and inaugural ceremonies on November 11. The launches and announced frequencies are confirmed in the sources. Times, seasonal adjustments and fares still need a date-specific booking check."
+        },
+        "ja": {
+          "title": "ベトジェット、セブとクラークにベトナム発の直行3路線",
+          "summary": "ホーチミンとハノイからセブ、ホーチミンからクラークへ各週3往復。",
+          "body": "8月17日の販売案内は3路線とも11月10日開始予定としていた。11月10日付資料が就航を伝え、Philstarも12日の記事で10日の開始を確認した。8月は予告、11月は就航確認に当たる。正確な初便到着時刻とその後のダイヤには別の記録が要る。\n\nベトジェットは11月10日付資料でホーチミン～セブ、ハノイ～セブ、ホーチミン～クラークの就航を発表した。マクタン・セブ国際空港とクラーク国際空港で初便を迎えたという。資料の日付は各路線の初便出発時刻まで示すものではない。\n\n同社はベトナムを拠点とする低コスト航空会社。新路線は既存のホーチミン～マニラを補う。セブには2都市から、クラークにはホーチミンから入る。ハノイ～クラークは今回の対象外なので、出発都市によって直行便の候補が変わる。\n\n各路線の週3往復を合計すると週9往復、両方向を別々に数えると予定上18区間だ。既存マニラ線は含まない。セブの2路線を合算しても、ハノイから週6回出られるわけではない。出発空港と日付に合う便を数えたい。\n\nセブの空港はマクタンにあり、クラークはルソン島のマニラ北方にある。クラーク着でマニラ市内や別空港へ向かうなら地上移動が必要だ。中部・北部ルソンが目的ならアクセス時間を比較できる。編集部は、全体の便数以上に到着空港の選択肢が今回の意味を表すと見る。\n\nベトナム経由の接続は予約条件も確認したい。別切りでは荷物の引き取りと再預けが必要になり、遅延時の保護も異なり得る。週3便では当日の代替が限られることがある。運賃に荷物、地上移動、接続時間を加えて比べると実際の旅程に近い。\n\nDân tríも11月11日に同じ3路線と両空港の式典を報じた。確認できるのは就航と発表された頻度で、個別の時刻、季節変更、運賃は日付指定の予約画面で確認する必要がある。"
+        },
+        "zh": {
+          "title": "越捷开通三条越南至宿务和克拉克直飞航线",
+          "summary": "胡志明市和河内飞宿务，胡志明市飞克拉克，每条每周三个往返。",
+          "body": "越捷8月17日销售通知原定三条菲律宾线于11月10日开始。11月10日公司宣布开航，Philstar在12日报道也确认10日开通。8月是预告，11月是开航确认，具体首班到达时刻和后续时刻表仍需另查。\n\n越捷在11月10日公告中确认胡志明市至宿务、河内至宿务及胡志明市至克拉克开航，并称首班抵达麦克坦宿务及克拉克国际机场。公告日期未给出各航线首班的具体起飞时间。\n\n越捷是在越南运营国内及国际航线的低成本航空公司。新航线补充既有胡志明市至马尼拉服务。宿务有两个越南出发点，克拉克从胡志明市出发。此次没有公布河内至克拉克，选择不同出发城市会改变直飞选项。\n\n每条每周三个往返，合计九个往返，双向分别计为18个计划单程航段，未计既有马尼拉线。将宿务两条线相加，不表示河内旅客每周有六班可搭。应按实际出发机场和日期计算。\n\n宿务机场位于麦克坦，克拉克位于吕宋岛马尼拉以北。若抵达克拉克后去马尼拉市内或另一机场，应计入地面时间；前往吕宋中部和北部则可比较交通便利性。编辑部认为，到达机场选择比全网班次总数更直接影响行程。\n\n经越南转机应检查订票条件。分开购票可能要提取并重办托运，前班延误时的后续保障也可能不同。每周三班意味着当天补救选项可能有限。比较时应同时考虑行李、地面交通和衔接时间。\n\n越南媒体Dân trí也于11月11日报道了三条航线与两机场首航活动。已确认开航及公告频率，具体日期的时刻、季节性调整及票价仍需在预订时核对。"
+        }
+      },
+      "image": {
+        "url": "assets/20261113-vietjet.jpg",
+        "alt": {
+          "ko": "열대 공항에 주기한 일반 단일 통로 여객기",
+          "en": "Generic narrowbody on a tropical airport apron",
+          "ja": "熱帯の空港に駐機する一般的な単通路機",
+          "zh": "停在热带机场停机坪的通用窄体客机"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "delta-summer-weekend-schedule-20261106",
+      "date": "2026-11-06",
+      "published": "2026-11-13",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Delta News Hub",
+      "url": "https://news.delta.com/delta-broadens-summer-schedule-new-and-expanded-weekend-routes",
+      "sources": [
+        {
+          "name": "Delta News Hub",
+          "url": "https://news.delta.com/delta-broadens-summer-schedule-new-and-expanded-weekend-routes"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "델타, 2027년 여름 주말편 확대…오스틴·LA에서 산악 도시 연결",
+          "summary": "노선별 시작일과 종료일이 다르고, 기존 노선에 주말편을 추가하는 구간도 있다.",
+          "body": "델타항공이 11월 6일 발표한 2027년 여름 일정에 오스틴–캘리스펠, 로스앤젤레스–잭슨홀 등 주말 시즌편이 추가됐다. 두 노선의 공지상 운항 기간은 2027년 6월 12일부터 9월 4일까지다. 출발지에 따라 다른 노선은 5월부터 시작하거나 10월까지 이어진다. 11월 6일 공개한 내용은 여름 시간표 발표이며, 각 노선의 첫 운항은 내년 일정이다.\n\n델타는 미국 여러 허브에서 국내선과 국제선을 잇고, 일부 구간은 지역 항공사 브랜드인 델타 커넥션으로 운항한다. 여름 시즌편은 수요가 집중되는 기간과 요일에 좌석을 배치하는 방식이다. 이번 발표에서 오스틴은 캘리스펠과 보즈먼, 로스앤젤레스는 보즈먼과 잭슨홀이 새로 제시됐다. 같은 산악권 여행이라도 어느 공항으로 도착할지에 따라 마지막 지상 이동이 달라진다.\n\n발표에서 애틀랜타발 뱅고어와 트래버스시티, 래피드시티는 5월 29일에 시작한다. 종료는 각각 10월 24일, 9월 6일, 9월 4일로 다르다. 디트로이트발 뱅고어는 6월 12일부터 10월 23일까지로 제시됐다. 같은 ‘여름 노선’이라는 이름 아래에도 운항 기간의 차이가 있다. 왕복 여행이라면 가는 날짜에 편이 있는지뿐 아니라 돌아오는 날짜가 시즌 안에 들어오는지 확인해야 한다.\n\n한편 기존 노선에 주말 운항을 한 차례 더 편성하는 변화도 있다. 예를 들어 신시내티–올랜도와 신시내티–포트마이어스는 4월 17일부터 9월 4일까지 추가 빈도가 안내됐다. 중남미와 카리브해에서는 토요일 추가편과 일부 시즌 연장을 함께 발표했다. 노선에 항공편이 하나 더 생긴 경우와 해당 계절에 새로 직항을 편성한 경우는 여행자가 체감하는 변화가 다르다.\n\n국제선에서 갈아타는 독자에게는 연결 가능성이 시간표의 핵심이다. 미국행 장거리편이 늦게 도착하면 같은 날 지역 공항으로 넘어가는 주말편을 이용하기 어려울 수 있다. 편집부는 가까운 목적지 공항을 고를 수 있다는 장점이 주말에 여행을 시작하거나 마칠 수 있는 사람에게 더 클 것으로 본다. 다른 요일의 기존 경유편과 공항 접근 비용을 함께 봐야 일정 전체가 얼마나 달라지는지 알 수 있다.\n\n시즌에 맞춰 지방 공항으로 바로 가는 일정은 환승 횟수를 줄일 수 있지만, 비행기에서 내린 뒤 이어지는 교통이 같은 시간대에 운행하는지는 별도다. 예를 들어 토요일 저녁에 도착하는 일정이라면 렌터카 영업시간이나 숙박시설 체크인 시간이 여행 시작에 영향을 준다. 반대로 더 큰 공항으로 들어가 차를 오래 타는 대안은 항공편 선택이 넓을 수 있다. 특정 노선의 출발 요일과 시각이 자료에 없을 때에는 장거리편과 숙박을 먼저 고정하기보다, 여름편이 검색되는 날짜를 확인한 다음 동선을 맞추는 편이 합리적이다.\n\n회사 자료는 델타 본편과 델타 커넥션 운항이 섞인다고 설명했다. 구간별 고정 기종과 좌석 수, 날짜별 실제 운임은 발표에 한꺼번에 제시되지 않았다. 예약할 때 운항사 표기와 수하물 조건, 연결 시간, 왕복 날짜를 함께 확인하는 게 좋다. 공지에 적힌 시작일과 실제 첫 편의 운항 결과는 시점이 다르며, 후자는 시즌이 시작된 뒤 확인할 수 있다."
+        },
+        "en": {
+          "title": "Delta expands summer 2027 weekend flights to mountain destinations",
+          "summary": "The schedule adds seasonal service and extra weekend departures on existing routes.",
+          "body": "Delta’s November 6 summer 2027 announcement adds weekend services including Austin–Kalispell and Los Angeles–Jackson Hole. Both are scheduled from June 12 to September 4, 2027. Other markets start in May or extend into October. This is the schedule announcement, with first flights planned for next year.\n\nDelta connects domestic and international services through US hubs, with some sectors operated as Delta Connection. Seasonal flights concentrate capacity on selected days and months. Austin adds Kalispell and Bozeman, while Los Angeles adds Bozeman and Jackson Hole. Each arrival airport changes the last part of a mountain trip by road.\n\nAtlanta–Bangor, Traverse City and Rapid City start May 29 and end October 24, September 6 and September 4 respectively. Detroit–Bangor runs June 12 to October 23. The common summer label covers different windows. Confirm both outbound and return dates fall within the schedule.\n\nThe plan also adds weekend frequency on existing routes. Cincinnati–Orlando and Cincinnati–Fort Myers get additional service from April 17 to September 4. Some Latin American and Caribbean markets get more Saturdays or longer seasons. An extra flight on an existing route changes a trip differently from the introduction of a seasonal nonstop.\n\nInternational connections depend on timings. A late inbound arrival may miss a regional weekend departure. In our view, the closer airport option particularly helps people able to begin or end their trips on those days. Compare weekday connecting service and ground transport costs across the whole itinerary.\n\nA seasonal nonstop can remove a connection while still leaving ground transport constraints. A late Saturday arrival may need a rental desk or hotel check-in that remains open. Flying to a larger airport and driving farther can offer more timetable choices. Where exact flight times are absent, search for the summer service first before fixing long-haul tickets and lodging.\n\nDelta says flying is split between Delta and Delta Connection. Its announcement does not set every aircraft, seat count or date-specific fare. Check the operating carrier, baggage terms, connection and return when booking. The timetable’s start dates can be distinguished from operated first flights once the season begins."
+        },
+        "ja": {
+          "title": "デルタ、2027年夏の週末便を拡大　オースティンとLAから山岳都市へ",
+          "summary": "季節便の運航期間は路線ごとに異なり、既存便の週末増便も含む。",
+          "body": "デルタ航空が11月6日に公表した2027年夏ダイヤに、オースティン～カリスペル、ロサンゼルス～ジャクソンホールなどの週末便が加わった。両路線は2027年6月12日から9月4日までの予定。他には5月開始や10月までの区間もある。今回はダイヤの発表で、初便は翌年の計画だ。\n\n同社は米国内の拠点で国内線と国際線をつなぎ、一部をデルタ・コネクションとして運航する。季節便は需要の集まる期間と曜日に座席を置く。オースティンはカリスペルとボーズマン、LAはボーズマンとジャクソンホールが追加される。到着空港によって山岳地への地上移動が変わる。\n\nアトランタ発バンゴー、トラバースシティ、ラピッドシティは5月29日開始で、終了は順に10月24日、9月6日、9月4日。デトロイト～バンゴーは6月12日～10月23日だ。同じ夏ダイヤでも期間は異なる。往路と復路がともに期間内にあるかを確認したい。\n\n既存路線への週末便追加もある。シンシナティ～オーランドとフォートマイヤーズは4月17日～9月4日の増便を案内した。中南米とカリブ海でも土曜便追加や季節延長を行う。既存便が増える場合と季節直行便が加わる場合では使い方が変わる。\n\n国際線からの接続は時刻次第だ。到着が遅ければその日の地方便に間に合わないことがある。編集部は週末に旅行の始めか終わりを合わせられる人ほど近い空港の利点が出やすいと見る。平日の乗り継ぎ便と地上費用も旅程全体で比較したい。\n\n季節直行便で乗り継ぎが減っても、到着後の交通には別の制約がある。土曜夜ならレンタカー窓口と宿の受付時間を確認したい。大空港から長く運転する案は航空便の選択が広い場合もある。詳細時刻が未公表なら、長距離便や宿を固定する前に夏便の検索日を確かめたい。\n\n運航はデルタとデルタ・コネクションの混在となる。各便の機材や座席、日別運賃は資料に一括掲載されていない。実運航会社、手荷物、接続と復路を予約時に確認し、初便の実績はシーズン開始後に確認する。"
+        },
+        "zh": {
+          "title": "达美扩大2027年夏季周末班次，奥斯汀和洛杉矶增飞山区",
+          "summary": "计划包括季节性服务及现有航线增加周末班次。",
+          "body": "达美11月6日公布2027年夏季时刻表，增加奥斯汀至卡利斯佩尔和洛杉矶至杰克逊霍尔等周末班次。两条计划期均为2027年6月12日至9月4日。其他航线有的5月开始，有的延至10月。此次公布时刻表，首飞计划在明年。\n\n达美以美国枢纽衔接国内和国际线，一些航段由达美联运品牌运营。季节航班将运力放在特定月份与日期。奥斯汀增加卡利斯佩尔和博兹曼，洛杉矶增加博兹曼和杰克逊霍尔。到达不同机场，最后一段山区地面交通也不同。\n\n亚特兰大飞班戈、特拉弗斯城和拉皮德城均于5月29日开始，分别至10月24日、9月6日及9月4日。底特律飞班戈为6月12日至10月23日。同属夏季时刻表，具体日期并不一致，应同时检查去程和回程。\n\n计划还给现有航线增加周末频率，例如辛辛那提至奥兰多及迈尔斯堡为4月17日至9月4日。部分拉美及加勒比航线增加周六班次或延长季节。既有线增加一班与开设季节直飞对行程的影响不同。\n\n国际旅客需检查衔接时间，长途航班晚到可能赶不上同日地区航班。编辑部认为，能将行程起止放在周末的旅客更容易利用较近机场。工作日的中转方案和地面成本也应按全程比较。\n\n季节直飞可减少换乘，但落地交通另有约束。周六晚到时应核对租车柜台和酒店接待时间。改飞较大机场再长途开车，航空班次可能更多。未给具体时刻时，宜先搜索夏季班次，再确定长途机票和住宿。\n\n公司说明由达美及达美联运共同执飞，未统一给出逐班机型、座位数和每日票价。订票时核查承运方、行李、衔接和回程，首班实际执行待季节开始后确认。"
+        }
+      },
+      "image": {
+        "url": "assets/20261113-delta.jpg",
+        "alt": {
+          "ko": "산이 보이는 미국 지역 공항의 일반 여객기",
+          "en": "Generic airliner at a US regional airport with mountain views",
+          "ja": "山が見える米国地方空港の一般的な旅客機",
+          "zh": "美国山区地方机场的通用客机"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "american-thanksgiving-flight-plan-20261109",
+      "date": "2026-11-09",
+      "published": "2026-11-13",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "American Airlines Newsroom",
+      "url": "https://news.aa.com/news/news-details/2026/American-Airlines-is-ready-to-bring-customers-together-this-Thanksgiving-OPS-OTH-11/default.aspx",
+      "sources": [
+        {
+          "name": "American Airlines Newsroom",
+          "url": "https://news.aa.com/news/news-details/2026/American-Airlines-is-ready-to-bring-customers-together-this-Thanksgiving-OPS-OTH-11/default.aspx"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "아메리칸항공, 추수감사절 기간 약 8만5000편 계획…11월 29일 7021편",
+          "summary": "11월 19일부터 12월 1일까지 지역 제휴사를 포함한 운항 계획이 전년보다 4% 늘었다.",
+          "body": "아메리칸항공이 11월 19일부터 12월 1일까지 추수감사절 여행 기간에 지역 제휴사를 포함해 약 8만5000편을 운항할 계획이라고 밝혔다. 11월 9일 공개된 자료에서 회사는 2025년 같은 명절 운항 규모보다 4% 늘어난 수치라고 설명했다. 800만 명 이상을 수송한다는 예상도 내놓았다. 발표 시점의 계획과 예상치이므로 실제 출발 편수와 탑승 인원은 기간이 지난 뒤에 확인할 수 있다.\n\n아메리칸항공은 댈러스포트워스 등 미국의 주요 공항을 거점으로 장거리편과 지역편을 연결한다. 회사가 이번에 집계한 약 8만5000편에는 지역 제휴사 운항이 들어간다. 개별 항공편이 한 구간을 뜻하므로, 환승 승객이 이용하는 두 구간은 일정에서 두 편으로 셀 수 있다. 이 숫자를 공항 한 곳의 처리량이나 미국 전체의 항공 교통량으로 바꾸어 읽을 수는 없다.\n\n회사가 가장 바쁜 날로 잡은 11월 29일 일요일에는 7021편을 계획했다. 팬데믹 이후 아메리칸의 하루 운항 계획 중 가장 크다는 설명이다. 또 11월 20일·29일·30일 중부시간 오전 11시에는 1130편이 동시에 운항 중일 것으로 예상했다. 7021편은 하루 전체에 걸친 편수이고, 1130편은 특정 시각에 겹치는 비행이다. 한 공항에 비행기 1130대가 모이거나 같은 순간 이륙한다는 뜻은 아니다.\n\n회사의 통합운항센터는 네트워크 곳곳에서 진행되는 항공편을 함께 관리한다. 한 구간의 지연이 뒤편에 영향을 줄 수 있는 이유는 같은 기체나 승무원이 다음 일정에도 쓰이기 때문이다. 편집부는 전체 편수가 늘면 일부 여정에서 고를 수 있는 시간대가 많아질 수 있다고 본다. 실제 대체편에 남는 좌석과 환승 공항의 혼잡도는 계획 편수만으로 계산할 수 없다. 특히 이용하는 공항과 날짜가 다르면 전체 네트워크의 최대 운항일과 여행자가 느끼는 혼잡도도 달라질 수 있다.\n\n항공사는 앱에서 운항 상태와 위탁 수하물을 추적할 수 있다고 안내한다. 자격이 있는 AAdvantage 회원의 선호 좌석 자동 변경이나 일부 위탁 수하물의 사전 결제 할인도 소개했다. 이런 항목에는 회원과 항공권 조건이 따른다. 앱에 알림을 켜 두면 변경을 확인하는 데 도움이 되지만, 공항 보안 검색과 탑승 마감에 필요한 시간은 스스로 확보해야 한다.\n\n800만 명 전망과 8만5000편을 단순히 나누면 편당 약 94명이라는 값이 나온다. 두 수치가 각각 ‘이상’과 ‘약’으로 제시됐고, 작은 지역기와 큰 장거리기가 함께 들어 있어 이 계산은 운항 편당 평균을 어림하는 수준이다. 탑승률을 알려면 실제 탑승 인원 외에 판매 가능한 전체 좌석 수가 필요하다. 국제선 한 편에 남을 좌석이나 공항 보안 검색의 대기 시간을 이 비율에서 예측할 수 없다.\n\n같은 기간이라도 출발지에서 첫 비행을 타는 사람과 허브에서 갈아타는 사람은 살펴볼 지점이 다르다. 전자는 공항 접근과 수하물 접수 마감이 중요하고, 후자는 터미널 이동이나 국제선 도착 뒤 필요한 절차가 연결 시간에 들어간다. 발표 자료가 제시하지 않은 것은 공항별 대기 시간과 날짜별 실제 정시율이다. 예약 여정의 운항사, 연결 시간, 변경 조건을 확인하면 항공사 전체의 규모를 자신의 일정에 맞게 해석할 수 있다."
+        },
+        "en": {
+          "title": "American plans almost 85,000 Thanksgiving flights",
+          "summary": "The November 19–December 1 plan includes regional partners and is 4% larger than 2025.",
+          "body": "American Airlines expects almost 85,000 flights and more than eight million customers from November 19 through December 1, including regional partners. The November 9 release describes a 4% increase in flights over 2025. These are planned operations and a passenger forecast, with actual totals to be measured later.\n\nAmerican connects long-haul and regional services through US hubs including Dallas Fort Worth. Its Thanksgiving count includes partner-operated regional flying. A flight represents one sector, so a two-leg connection can contribute two flights to the timetable. The figure covers neither a single airport nor all US aviation.\n\nNovember 29 is planned at 7,021 flights, American’s largest operating day since the pandemic. It also expects 1,130 flights in progress at 11 a.m. Central on November 20, 29 and 30. One figure covers an entire day, the other a snapshot across the network. They do not describe aircraft departing simultaneously at one airport.\n\nThe Integrated Operations Center coordinates the network. Delays can spread when an aircraft or crew is scheduled to work later sectors. We see potential for more options on some journeys, but the flight total does not determine open seats on alternatives or local congestion. Conditions at an individual airport may peak on different dates.\n\nThe airline points to app flight status and bag tracking, automatic preferred-seat moves for eligible AAdvantage members and discounts on certain prepaid bags. These depend on membership and fare conditions. Notifications help track changes while travelers still need time for security and boarding deadlines.\n\nDividing the headline counts gives roughly 94 customers per flight. Both inputs are approximate and combine small regional and large long-haul aircraft. This is only a rough network average. A load factor requires seat capacity as well as actual passenger counts. Neither remaining seats on an international flight nor security waiting times follow from this ratio.\n\nA traveler starting at an airport should consider road access and bag cutoff. A connecting passenger must consider terminals and any international arrival procedures. The release gives no airport-level waits or actual punctuality. The operating carrier, connection and change terms put the network figures in the context of a particular booking."
+        },
+        "ja": {
+          "title": "アメリカン航空、感謝祭期に約8万5000便　11月29日は7021便を計画",
+          "summary": "11月19日から12月1日まで、地域運航会社を含め前年より4％多い計画。",
+          "body": "アメリカン航空は11月9日、11月19日～12月1日に地域運航会社を含め約8万5000便、800万人超の利用を見込むと発表した。便数は2025年比4％増。実際の出発数と利用者数は期間後に確認する数字だ。\n\n同社はダラス・フォートワースなどの拠点で長距離便と地域便をつなぐ。今回の集計には地域運航会社も含む。1便は一区間で、乗り継ぎの二つの区間はそれぞれ数えられる。単一空港の処理量や全米の航空交通量とは範囲が違う。\n\n11月29日は7021便で、パンデミック以降で最大の運航日となる計画。20日、29日、30日の中部時間11時には1130便が同時に運航中と予測する。前者は一日合計、後者はネットワーク全体の一時点で、一空港で同時に離陸する数ではない。\n\n統合運航センターが全体を調整する。同じ機材や乗務員が次の便も担当すれば遅延が波及し得る。編集部は一部で選択肢が増えると見るが、代替便の空席や空港混雑は総便数では分からない。空港ごとのピーク日も異なり得る。\n\nアプリで運航と荷物を追跡できる。対象会員の希望座席への自動変更や一部荷物の事前払い割引には条件がある。通知を使いながら保安検査と搭乗締切に間に合う時間を確保したい。\n\n見出しの数字を割ると1便約94人だが、いずれも概数で地域機と大型機が混ざる。全体をならした概算にとどまる。搭乗率には実際の利用者と供給座席数が必要で、個別便の空席や保安検査の待ち時間は分からない。\n\n出発空港ではアクセスと荷物締切、乗り継ぎではターミナル移動や国際線到着手続きが重要になる。空港別の待ち時間や実際の定時率は未公表。運航会社、接続と変更条件を予約ごとに確認すると全体数字を旅程に当てはめられる。"
+        },
+        "zh": {
+          "title": "美国航空感恩节期间计划近8.5万班，11月29日拟执飞7021班",
+          "summary": "11月19日至12月1日计划包含地区合作航司，班次较2025年多4%。",
+          "body": "美国航空11月9日公布，11月19日至12月1日预计运营近8.5万班、接待逾800万名旅客，包含地区伙伴。计划班次比2025年多4%，实际出发和客流要等期间结束后核实。\n\n该公司通过达拉斯沃思堡等枢纽衔接长途和地区航线。此次统计含地区伙伴执飞的航班。每班对应一个航段，两段转机可分别计数，不能视为单个机场或全美交通总量。\n\n11月29日拟运营7021班，为疫情以来该公司最大的单日计划。11月20日、29日和30日中部时间上午11时预计有1130班同时运行。前者是全天总数，后者是全网同一时点，不是同一机场同时起飞的数量。\n\n综合运行中心负责全网调度。同一飞机或机组继续执行后续任务时，延误可能传递。编辑部认为部分行程可能有更多选项，但总班次无法决定替代航班空位和机场拥挤程度，各机场高峰日也可能不同。\n\n公司介绍应用的航班状态及行李追踪。符合条件的会员可自动调换偏好座位，部分托运行李提前付款有折扣，均受资格限制。通知有助于跟踪变化，仍应为安检和登机截止留时间。\n\n将两个标题数字相除约每班94人，但两数均为约数，且混合地区小飞机和大型长途飞机。这只是全网粗略平均。客座率还需实际旅客与总座位数，不能据此推断单班余票或安检等待。\n\n首程旅客宜看地面交通和行李截止，转机旅客则要计入航站楼移动和国际到达手续。公告未给各机场等待时间或实际准点率。核对承运方、衔接及改签规则，才能将网络数字用于个人行程。"
+        }
+      },
+      "image": {
+        "url": "assets/20261113-american.jpg",
+        "alt": {
+          "ko": "여행객이 이동하는 일반 공항 터미널",
+          "en": "Travelers in a generic airport terminal",
+          "ja": "旅行者が行き交う一般的な空港ターミナル",
+          "zh": "旅客往来的通用机场航站楼"
+        },
+        "generated": true
+      }
+    },
     {
       "id": "air-arabia-dammam-amman-20261111",
       "date": "2026-11-11",
