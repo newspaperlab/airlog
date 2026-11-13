@@ -1,6 +1,261 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "articles": [
+    {
+      "id": "southwest-starlink-twitch-flight-20261112",
+      "date": "2026-11-12",
+      "published": "2026-11-14",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Southwest Airlines release",
+      "url": "https://www.prnewswire.com/news-releases/southwest-airlines-brings-live-gaming-to-35-000-feet-powered-by-starlink-302938581.html",
+      "sources": [
+        {
+          "name": "Southwest Airlines release",
+          "url": "https://www.prnewswire.com/news-releases/southwest-airlines-brings-live-gaming-to-35-000-feet-powered-by-starlink-302938581.html"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "사우스웨스트, 오스틴발 특별편에서 스타링크로 게임 생중계",
+          "summary": "트위치콘을 앞두고 기내에서 대회를 열었다. 기단 전체 설치 목표는 2027년 가을이다.",
+          "body": "미국 사우스웨스트항공은 오스틴에서 샌디에이고로 향한 스타링크 장착 특별편에서 게임 대회를 열고 트위치로 실시간 중계했다고 현지 11월 12일 발표했다. 회사가 제시한 비행 고도는 3만5000피트로, 약 10.7km다. 트위치콘을 앞두고 참가 창작자들이 기내에서 겨룬 행사다. 중계가 이루어졌다는 것은 회사 발표로 확인되지만, 자료에는 이륙 시각과 중계 전 구간에서 측정한 통신 기록이 공개되지 않았다.\n\n사우스웨스트는 미국을 중심으로 정기 여객편을 운영한다. 이번 사례에는 미리 장비를 설치한 특별편이 사용됐다. 회사는 2027년 가을에 기단 전체에 스타링크를 갖추는 것을 목표로 제시했다. 따라서 오늘 표를 검색하는 승객에게 직접 영향을 주는 것은 완료 목표보다 예약한 항공편에 어떤 기체가 배정되고 어떤 인터넷 서비스가 제공되는지다. 기종이 같아도 설치 작업을 끝낸 개별 항공기와 아직 작업 전인 항공기가 섞일 수 있다.\n\n기내에서 영상 하나를 보는 것과 게임을 하며 중계하는 것은 같은 인터넷을 쓰더라도 요구 조건이 다르다. 미리 받아 둔 영상 데이터는 잠깐 느려져도 버퍼가 남아 있으면 끊김 없이 재생된다. 온라인 게임은 조작한 결과가 서버를 돌아 화면에 반영되기까지의 시간이 중요하다. 중계에는 기내에서 외부로 영상을 내보내는 업로드가 필요하다. 다운로드 최고 속도 하나로 이 세 상황을 설명하기 어렵다.\n\n스타링크는 저궤도 위성을 이용한다. 객실 안에서는 승객의 기기가 기내 무선망에 연결되고, 항공기 단말이 위성과 통신해 지상의 인터넷망에 닿는다. 위성이 지표에 가까울수록 전파가 오가는 거리와 그에 따른 지연을 줄일 여지가 있다. 실제 게임에서는 이후 연결되는 서버의 위치, 순간적인 지연의 흔들림, 같은 무선망을 쓰는 기기 수까지 영향을 준다. 행사 영상이 재생됐다는 사실만으로 모든 참여자의 연결이 항상 일정했다고 판단할 수는 없다.\n\n편집부가 이번 행사를 주목하는 이유는 항공사가 기내망을 단순한 열람이나 메시지 전송을 넘어 양방향 활동에도 쓰는 모습을 공개했기 때문이다. 다만 특별편에 참가한 기기와 접속 인원, 정기편에서 좌석이 찼을 때의 속도, 연결이 약해진 구간의 길이는 자료에 없다. 혼잡한 항공편에서 회의나 게임을 계획하는 독자라면 이 시연을 자기 좌석의 품질 보장으로 해석하기 어렵다. 항공권을 고를 때는 예약편의 장비 여부와 해당 여정에서 적용되는 접속 조건을 따로 확인할 수 있다.\n\n3만5000피트는 행사 당시의 고도이지, 기내 인터넷을 사용할 수 있는 최저 고도로 공개한 수치가 아니다. 비행기가 지상에 있을 때와 이착륙 중에도 연결할 수 있는지는 항공사의 서비스 정책과 해당 지역의 허가 조건에 달려 있다. 게임 중 연결이 끊겼다가 돌아오는 상황에서는 다시 접속할 때 걸리는 시간도 중요하다. 행사 자료에는 이런 비행 단계별 이용 조건이나 복구 시간이 나와 있지 않다.\n\n트위치콘은 11월 13~15일 샌디에이고에서 열린다. 이 행사 날짜와 항공사의 12일 발표, 2027년 가을 기단 개조 목표는 서로 다른 일정이다. 특별편에서 중계가 이뤄졌다는 사실은 확인됐고, 일반 승객이 이용할 수 있는 설치 편의 전체 목록과 각 기체의 전환 시점은 이번 발표에 담기지 않았다."
+        },
+        "en": {
+          "title": "Southwest streams a game tournament from an Austin–San Diego flight",
+          "summary": "The TwitchCon demonstration used a Starlink-equipped special flight. Fleetwide installation is targeted for fall 2027.",
+          "body": "Southwest said on November 12 local time that Twitch creators competed and livestreamed from a Starlink-equipped special flight between Austin and San Diego. The airline cited an altitude of 35,000 feet, approximately 10.7 km. Its account confirms the event ahead of TwitchCon, with no exact takeoff time or connection measurements for the full stream.\n\nSouthwest operates scheduled passenger services primarily in the US. The event used an aircraft already equipped for the demonstration. The carrier targets fleetwide Starlink installation in fall 2027. For a traveler buying a flight now, the assigned aircraft and available service matter more directly than that fleet target. Identical aircraft types can include both retrofitted and unmodified jets.\n\nWatching video, playing a game and broadcasting it involve different demands. A buffer can mask a short slowdown in playback. A game needs the result of an input to come back quickly from a server. A broadcast needs upload capacity. Peak download speed cannot describe all three.\n\nA device first joins the cabin network. An aircraft terminal connects through low-Earth-orbit satellites to the wider network. Shorter radio paths can reduce propagation time. Server location, variability in delay and the number of connected devices also affect gameplay. A successful broadcast does not reveal whether every participant had consistent performance.\n\nWe see significance in the airline demonstrating a two-way use beyond reading or messaging. Its account does not quantify devices, connected users, performance on a full scheduled flight or the length of any weak connection. The event cannot establish quality at a particular seat. Check aircraft equipment and service terms for the intended journey.\n\nThe 35,000-foot figure describes the demonstration altitude. It is not an announced minimum for service. Ground and takeoff access depend on airline policies and applicable permissions. Reconnection time also matters after an interruption, but the event report does not give stage-by-stage access or recovery data.\n\nTwitchCon runs November 13–15 in San Diego. The conference, the November 12 announcement and the fall 2027 retrofit target are separate dates. The release confirms the demonstration, while the full list of equipped scheduled flights and aircraft-by-aircraft dates remains unspecified."
+        },
+        "ja": {
+          "title": "サウスウエスト、特別便からStarlinkでゲーム大会を生配信",
+          "summary": "オースティン発の実演。全機搭載は2027年秋が目標だ。",
+          "body": "サウスウエストは現地11月12日、オースティン～サンディエゴのStarlink搭載特別便でTwitchの配信者が対戦し、生中継したと発表した。高度は同社によると3万5000フィート、約10.7km。TwitchConに先立つ企画で、離陸時刻や配信全体の通信測定値は公表していない。\n\n同社は米国を中心に定期旅客便を運航する。実演は装備済みの特別便で、全機搭載は2027年秋の目標だ。今予約する際には割り当て機材と利用できるサービスが直接関わる。同じ機種でも改修済みと未改修の機体が混在し得る。\n\n動画視聴は先読みで短い速度低下を吸収できる。オンライン対戦では操作の応答時間が重要になり、配信には上り通信が必要だ。下りの最高速度だけでは三つの用途を説明できない。\n\n端末は客室の無線網につながり、機上装置から低軌道衛星を通って外部ネットワークへ届く。伝搬距離の短さは遅延を抑え得る。サーバーの場所、遅延の変動、端末の数も対戦に影響し、配信成功から全参加者の安定性までは分からない。\n\n編集部は閲覧やメッセージ以上の双方向用途を実演した点に注目する。接続台数、満席時の速度、接続が弱い区間の長さは未公表だ。予約便の設備と利用条件を確認したい。\n\n3万5000フィートは実演時の高度で、利用開始高度ではない。地上や離着陸時の接続は会社の方針と地域の許可に左右される。切断後の復旧時間や飛行段階別の利用条件は資料にない。\n\nTwitchConはサンディエゴで11月13～15日。開催日、12日の発表、2027年秋の全機改修目標は別の日程だ。定期便の全対象一覧と機体別の日付は示されていない。"
+        },
+        "zh": {
+          "title": "西南航空以Starlink从奥斯汀至圣迭戈特别航班直播游戏",
+          "summary": "机上比赛为TwitchCon预热，全机队安装目标是2027年秋季。",
+          "body": "西南航空当地时间11月12日宣布，Twitch创作者在装有Starlink的奥斯汀至圣迭戈特别航班上比赛和直播。公司称飞行高度3.5万英尺，约10.7公里。公告证实活动举行，未给确切起飞时间或直播全程的网络测量。\n\n公司主要在美国运营定期客运。本次是预先装好设备的特别航班。全机队安装目标在2027年秋。近期订票时，实际分配飞机和可用服务更直接。同种机型也可能同时存在已改装与未改装飞机。\n\n看视频的缓冲可掩盖短时降速，在线游戏依赖操作反馈延迟，直播需要上传。下载峰值无法概括三种用途。\n\n个人设备先接客舱无线网，机载终端经低轨卫星连向外部网络。较短传播距离有助降低延时，服务器位置、延迟波动及连接数也影响游戏。直播成功无法证明每位参与者的体验始终稳定。\n\n编辑部关注航空公司展示了阅读和消息之外的双向应用，但并未公布设备和接入人数、满载定期航班速度或弱连接区段。订票宜核对该班设备和服务条款。\n\n3.5万英尺是演示高度，不是公布的最低接入高度。地面与起降时能否连接取决于航司政策和当地许可。中断后重连时间也重要，公告未提供分阶段条件及恢复数据。\n\n圣迭戈TwitchCon在11月13至15日举行。会期、12日公告与2027年秋改装目标是不同节点。公司未给普通航班的完整设备清单与逐架改装日期。"
+        }
+      },
+      "image": {
+        "url": "assets/20261114-south.jpg",
+        "alt": {
+          "ko": "휴대용 기기를 든 승객이 보이는 일반 여객기 객실",
+          "en": "Travelers with handheld devices in a generic cabin",
+          "ja": "携帯端末を手にする乗客がいる一般的な機内",
+          "zh": "乘客手持设备的普通客机客舱"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "archer-formula1-air-taxi-partnership-20261112",
+      "date": "2026-11-12",
+      "published": "2026-11-14",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Archer investor announcement",
+      "url": "https://www.investors.archer.com/news/news-details/2026/Archer-Partners-with-Formula-1/default.aspx",
+      "sources": [
+        {
+          "name": "Archer investor announcement",
+          "url": "https://www.investors.archer.com/news/news-details/2026/Archer-Partners-with-Formula-1/default.aspx"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "아처와 F1, 경기장 전기 에어택시 연계 검토",
+          "summary": "다년 파트너십이 발표됐다. 실제 승객 수송 시점과 노선은 아직 공개되지 않았다.",
+          "body": "아처 에이비에이션과 포뮬러원은 11월 12일 다년 파트너십을 발표했다. 아처는 상업 운영을 추진하는 미국·중동·아시아·유럽 일부 시장과 맞는 그랑프리에 참여하고, 양측은 경기장과 주변을 잇는 전기 에어택시 서비스를 검토하기로 했다. 공개 자료가 확인해 주는 새 변화는 협력 범위다. 관람객이 구매할 항공권이나 운항 노선, 서비스 개시일은 함께 발표되지 않았다.\n\n아처는 전기로 추진하는 수직이착륙 항공기를 개발하는 기업이다. 미드나이트는 가까운 도시 구간을 여러 차례 오가는 용도로 개발 중인 기체다. eVTOL은 전기로 움직이며 수직으로 이착륙하도록 설계된 항공기를 가리킨다. 일반 여객기가 쓰는 긴 활주로가 없어도 이착륙할 수 있는 구상을 뒷받침하지만, 승객 수송에는 기체와 운항 승인, 이용 가능한 이착륙 장소가 각각 필요하다.\n\n회사에 따르면 미드나이트는 오스틴 미국 그랑프리에서 이미 전시됐으며, 올해 라스베이거스와 아부다비 그랑프리에서도 전시할 계획이다. 전시 장소에서 관람객에게 기체를 보여 주는 일정과 그 장소에서 실제 승객을 태우고 이착륙하는 일정은 따로 확인해야 한다. 발표 속 전시 기록은 협력이 일부 행사에 먼저 적용된 사례다. 공개된 날짜나 장소만 가지고 내년 경기 관람권에 항공 이동이 포함된다고 해석할 근거는 없다.\n\n경기장 주변에서는 짧은 시간에 여러 사람이 몰린다. 편집부는 에어택시의 가능성을 따질 때 공중에 있는 시간보다 양쪽 착륙 지점의 위치와 처리량이 먼저 중요해질 것으로 본다. 몇 분 비행하더라도 출발장까지 차를 타고 올라가거나 도착장부터 경기장의 지정 입구까지 걸어야 할 수 있다. 시간대마다 태울 수 있는 인원과 배터리 충전 시간, 대기 위치를 함께 봐야 도로 이동보다 얼마나 절약하는지 비교할 수 있다.\n\n전동 추진은 기체가 비행 중 연료를 직접 태우지 않는 설계에 해당한다. 그러나 전력 생산과 배터리, 지상 이동을 포함한 전체 환경 부담은 별도의 계산이 필요하다. 경기장 주변 소음도 비행 경로와 횟수, 주변 지형에 따라 체감이 달라질 수 있다. 이번 발표는 상업 운항에서의 소음 측정치나 수송 인원과 요금을 제시하지 않았다. 비행 횟수와 지상 설비가 정해진 뒤에야 다른 교통수단과 같은 단위로 비교할 수 있다.\n\n운영 계획을 볼 때는 경기장 바깥까지 가는 편과 경기 뒤 돌아오는 편을 각각 따져야 한다. 관람객이 경기 시작 전에는 여러 시간에 걸쳐 도착하지만 종료 직후에는 한꺼번에 나올 수 있기 때문이다. 같은 수의 항공기가 있어도 출발 수요가 몰리면 대기 시간이 길어질 수 있다. 편집부의 이런 예상은 특정 그랑프리의 수요 예측이나 계약상 수송 약속이 아니다. 양측이 실제 검토에 들어가면 행사별로 다른 혼잡 시간과 대기 공간을 어떻게 반영하는지가 관건이다.\n\nF1 팬에게 가까운 일정은 올해 두 행사에서의 전시 계획이다. 경기장 연계 승객 수송은 기체 승인과 운영 여건이 갖춰지고 판매 날짜 및 이착륙 장소가 공개된 뒤에 평가할 수 있다. 그때에는 편도 비행 시간과 함께 경기장 입장 동선, 기상으로 운항을 못 할 때 제공되는 대체 이동, 마지막 귀가편의 시간도 중요한 정보가 된다."
+        },
+        "en": {
+          "title": "Archer and Formula 1 explore electric air taxi links to races",
+          "summary": "The multiyear partnership covers selected events, with passenger routes and start dates still undisclosed.",
+          "body": "Archer Aviation and Formula 1 announced a multiyear partnership on November 12. Archer will attend selected Grands Prix in markets where it plans to operate across the US, Middle East, Asia and Europe. The partners will explore electric air taxi connections to circuits. No tickets, passenger routes or operating start date were announced.\n\nArcher develops electric vertical takeoff and landing aircraft. Its Midnight is designed for repeated short urban journeys. Vertical operation can avoid the long runway used by conventional airliners, while passenger transport still depends on aircraft approval, operator approval and usable landing sites.\n\nArcher says Midnight was displayed at the US Grand Prix in Austin and is scheduled for display in Las Vegas and Abu Dhabi later this year. An exhibition brings the aircraft to viewers. Transporting ticket holders would involve different arrangements. Race admission should not be assumed to include a flight.\n\nCrowds converge on circuits in a short period. In our view, the location and throughput of both landing sites may matter more than airborne time. A short flight can still require a drive to the departure site and a walk to the right gate. Passenger capacity per interval, charging and waiting areas are relevant to a comparison with ground transport.\n\nElectric propulsion avoids burning fuel onboard, while electricity generation, batteries and surface travel affect the broader footprint. Noise exposure can vary with flight paths, frequency and terrain. The announcement gives no commercial route measurements, capacity or fares. Those comparisons need a defined service and ground network.\n\nOutbound and return demand should be evaluated separately. Fans may arrive over several hours but leave together after the race. With the same aircraft count, a departure surge can lengthen queues. This is an editorial inference, not an event forecast or contractual promise. Event-specific peak demand and waiting space would need to be considered.\n\nThe nearer event for fans is the planned exhibition at two races. Passenger service remains subject to approval, operating arrangements and announcements of sales and locations. Compare future airborne time with venue access, alternatives during weather disruption and the last departure after a race."
+        },
+        "ja": {
+          "title": "アーチャーとF1、サーキットへの電動エアタクシーを検討",
+          "summary": "複数年の協力を発表。旅客運航日と路線は未公表。",
+          "body": "アーチャーとF1は11月12日、複数年の提携を発表した。米国、中東、アジア、欧州で事業を計画する市場の一部GPに参加し、サーキットへの電動エアタクシーを検討する。航空券、旅客路線、就航日は示されていない。\n\nアーチャーは電動垂直離着陸機を開発する。Midnightは短い都市間移動を繰り返す想定だ。長い滑走路を使わない構想だが、旅客輸送には機体や運航の承認と使用可能な離着陸場所が必要になる。\n\nオースティンの米国GPで展示し、年内のラスベガスとアブダビでも展示予定という。機体を見せる日程と観客を乗せて運航する日程は別に確認する。観戦券に航空移動が含まれる根拠はない。\n\n観客が集中するため、編集部は飛行時間に加え離着陸地点の位置と処理能力が重要と見る。短時間飛行でも出発地までの車移動、入場門までの徒歩が加わる。時間当たりの輸送人数、充電、待機場所も道路交通との比較に必要だ。\n\n電動機は機上で燃料を燃やさないが、電力、電池、地上移動を含む負荷は別に計算する。騒音は経路、頻度、地形で異なり得る。営業運航の測定値、人数、運賃は未公表である。\n\n往路と復路の需要は別に見る必要がある。入場は数時間に分散しても、終了時は集中し得る。同じ機数でも待ち時間が延びる可能性がある。編集部の見方であり、個別大会の予測や輸送保証ではない。\n\n目前の予定は2大会での展示だ。旅客運航の評価には認可、運用と販売日・離着陸地点の発表を待つ。飛行時間とともに入場動線、悪天候時の代替、レース後の最終便も重要になる。"
+        },
+        "zh": {
+          "title": "Archer与F1探讨赛道电动空中出租车",
+          "summary": "双方公布多年合作，载客航线和运行日期待公布。",
+          "body": "Archer与F1于11月12日宣布多年合作，将参加美国、中东、亚洲与欧洲计划经营市场的部分大奖赛，并研究赛道电动空中出租车。公告未给机票、载客航线或首运日期。\n\nArcher开发电动垂直起降飞机，Midnight面向反复短程城市飞行。垂直起降可避免传统长跑道，但客运仍需要飞机和运营批准及可用起降点。\n\n公司称Midnight已在奥斯汀美国大奖赛展出，年内还计划在拉斯维加斯和阿布扎比展示。展示与载观众飞行有不同安排，观赛票不能据此视为包含飞行。\n\n观众集中抵达，编辑部认为两端位置和吞吐量可能比空中时间更重要。飞行虽短，仍可能要驾车去起降点及步行至入口。需计入单位时间运量、充电与候乘空间。\n\n电动推进在机上不烧燃料，整体影响仍涉及电力、电池和地面交通。噪音体验会随航线、频次及地形变化，公告未提供商业运行测量、运量及票价。\n\n进场与返程需求宜分别评价。观众可能分散入场，却在结束时集中离开，同样飞机数量也可能排队更久。这是编辑部推断，非某场比赛预测或运量承诺，仍需考虑各站高峰与候乘空间。\n\n近期安排为两站展示。客运需等许可、运营及销售日期和地点公布。届时除了飞行时长，还可比较入场路线、恶劣天气替代安排和赛后末班。"
+        }
+      },
+      "image": {
+        "url": "assets/20261114-archer.jpg",
+        "alt": {
+          "ko": "경기장 관중석과 비어 있는 항공기 착륙 구역 참고 장면",
+          "en": "Illustrative racetrack grandstand beside an empty landing area",
+          "ja": "観客席と空の着陸エリアを描いた参考画像",
+          "zh": "赛道看台与空旷起降区参考场景"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "frontier-first-class-reservations-20261110",
+      "date": "2026-11-10",
+      "published": "2026-11-14",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Frontier Group investor release",
+      "url": "https://ir.flyfrontier.com/news-events/news/news-details/2026/Frontier-Opens-First-Class-Reservations-Expands-Cabin-Transformation-With-More-Extra-Legroom-Premium-Seats-and-In-Seat-Power/default.aspx",
+      "sources": [
+        {
+          "name": "Frontier Group investor release",
+          "url": "https://ir.flyfrontier.com/news-events/news/news-details/2026/Frontier-Opens-First-Class-Reservations-Expands-Cabin-Transformation-With-More-Extra-Legroom-Premium-Seats-and-In-Seat-Power/default.aspx"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "프런티어, 퍼스트 클래스 예약 시작…2027년 3월 5일 탑승 일정부터",
+          "summary": "앞 두 줄에 2대 2 좌석, 3~8열에 추가 다리 공간을 배치한다. 전원과 인터넷은 기체별로 설치한다.",
+          "body": "미국 프런티어항공이 11월 10일 퍼스트 클래스 좌석 예약을 열었다. 새 좌석을 선택할 수 있는 탑승 일정은 2027년 3월 5일부터다. 객실 앞 두 줄은 통로 양쪽에 두 석씩 놓고, 3~8열에는 다리 공간이 넓은 프리미엄 좌석을 둔다. 회사는 좌석 설치를 시작했으며 3월 5일 완료를 예상한다고 밝혔다. 예약이 가능해진 날짜와 객실 개조의 완료 예정일은 이렇게 다르다.\n\n프런티어는 미국 저비용항공사다. 이번 변화는 운임에 어떤 좌석과 수하물을 묶어 팔지에 직접 영향을 준다. 앞 두 줄의 퍼스트 클래스는 한쪽에 두 석만 두므로 가운데 좌석이 없다. 회사가 밝힌 최대 좌석 피치는 37인치, 약 94cm다. 뒤에 이어지는 프리미엄 열은 최대 34인치, 약 86cm다. 좌석 피치는 앞뒤 줄에서 같은 지점 사이의 거리다. 좌석 등판 두께와 모양에 따라 무릎 공간은 달라질 수 있다. 두 최대치의 차인 3인치를 그대로 무릎 앞에 더해지는 공간으로 읽으면 부정확하다.\n\n회사 발표에서 First 묶음은 편도 129달러부터이며, 새 좌석과 위탁 수하물 두 개, 기내 반입 가방 및 우선 탑승을 포함한다. Premium 묶음은 90달러부터로, 공간이 넓은 좌석과 기내 반입 가방 및 우선 탑승이 들어간다. 두 시작가의 산술 차이인 39달러는 같은 날짜의 실제 차액을 보장하지 않는다. 수하물을 맡기는 여행자와 기내 가방만 들고 가는 여행자는 포함 항목에 매기는 가치가 다르다.\n\n특가에는 2026년 11월 16일 미국 동부시간 밤 11시 59분까지 새로 구매하고, 2027년 3월 5일~4월 5일 중 지정 요일에 미국 국내 직항을 이용해야 한다는 조건이 붙는다. 회사 홈페이지나 앱에서 항공편을 살 때 묶음을 동시에 골라야 하며, 가격은 승객 한 명의 한 방향 기준이다. 왕복이나 여러 명의 예약이라면 가격을 단순히 한 번만 적용할 수 없다. 일정 변경이나 손님별 수하물 필요량도 같은 화면에서 비교할 항목이다.\n\n객실 전원과 스타링크는 2027년에 설치를 시작해 기체별로 순차 적용할 계획이다. 새 퍼스트 좌석이 판매되는 날짜가 전원과 인터넷의 동시 개통일로 제시되지는 않았다. 편집부는 두 종류의 넓은 좌석에 더해 장치별 적용 속도까지 확인해야 구매 후 기대하는 서비스와 맞추기 쉽다고 본다. 특히 전원 사용이 필요한 여행이라면 항공권의 등급 이름보다 실제 편의 기내 장비 안내가 직접적인 근거다.\n\n좌석 배치를 선택할 때는 동행 인원도 고려할 만하다. 두 좌석씩 나뉜 앞줄은 두 사람이 나란히 앉기 쉬운 구성이다. 세 명 이상이면 통로 건너편이나 앞뒤 줄에 배정될 수 있으므로 예약에서 선택 가능한 좌석을 봐야 한다. 3~8열의 프리미엄과 앞 두 줄의 퍼스트는 모두 다리 공간 확대 대상이지만 열마다 배치가 다르다. 좌석 등급 이름만으로 동행 좌석이 붙는다고 판단할 수는 없다.\n\n판매 화면에서 확인할 수 있는 것은 예약 가능한 날짜와 그때 제시된 가격이다. 발표는 좌석 개조 일정과 첫 판매 기간을 밝혔지만, 기체별 전원·와이파이 설치 날짜와 날짜별 프로모션 잔여 좌석은 공개하지 않았다. 3월 이후 실제 이용할 사람은 배정 기체가 바뀔 때 좌석이 어떻게 처리되는지도 여행 전 확인할 수 있다."
+        },
+        "en": {
+          "title": "Frontier opens First Class reservations for March 2027 travel",
+          "summary": "The first two rows get two seats per side. Power and Wi-Fi have a separate aircraft-by-aircraft rollout.",
+          "body": "Frontier opened reservations on November 10 for First Class travel starting March 5, 2027. Its first two rows will have two seats on each side, with extra-legroom Premium seats in rows three through eight. Installation has started, with completion expected March 5. Booking opened ahead of the cabin completion target.\n\nThe US low-cost carrier is changing what passengers can bundle with a fare. First Class has no middle seats and lists up to 37 inches of pitch, about 94 cm, versus up to 34 inches, about 86 cm, for Premium. Pitch measures matching points in successive rows. Seat shape and back thickness affect usable knee room, so the three-inch difference between maxima does not measure knee clearance.\n\nThe introductory First bundle starts at $129 one way, including the seat, two checked bags, a carry-on and priority boarding. Premium starts at $90, including extra-legroom seating, a carry-on and priority boarding. The $39 difference between starting prices does not determine the actual difference for a particular date. Baggage needs affect the value of the package.\n\nIntroductory pricing requires a new direct booking with the bundle by 11:59 p.m. Eastern on November 16, 2026, for eligible nonstop US domestic travel on selected days from March 5 to April 5, 2027. Prices are per traveler per direction. Compare both legs and passengers, baggage needs and change conditions.\n\nPower and Starlink are slated to roll out aircraft by aircraft beginning in 2027. The seat launch is not a shared activation date for those features. We see the flight’s equipment listing as especially relevant for passengers depending on power or connectivity.\n\nGroup size affects the seating choice. Pairs fit the front-row layout, while parties of three or more might sit across the aisle or in different rows. Both sections increase legroom, with distinct layouts. Inspect the actual seat map to see whether the group can sit together.\n\nThe announcement identifies the seat plan and initial offer windows but does not give individual installation dates or remaining promotional inventory. Travelers can check the assigned aircraft and how their seat would be handled if equipment changes."
+        },
+        "ja": {
+          "title": "フロンティア、ファーストクラス予約開始　2027年3月5日搭乗分から",
+          "summary": "前2列は2席ずつ、3～8列は足元の広いプレミアム席となる。",
+          "body": "米フロンティアは11月10日、2027年3月5日以降のファーストクラス予約を開始した。前2列は通路の左右に2席、3～8列は足元の広い席とする。装着作業は始まり、完了も3月5日の見込みだ。\n\n同社は米国の低コスト航空会社。中央席のないファーストの最大ピッチは37インチ、約94cm。プレミアムは34インチ、約86cmだ。ピッチは前後の列の同じ位置間の距離で、背もたれの厚さも膝の空間を左右する。\n\n片道の導入価格はFirstが129ドルからで席、受託手荷物2個、機内持ち込みと優先搭乗を含む。Premiumは90ドルからで広い席、機内持ち込みと優先搭乗を含む。開始価格の39ドル差は個別日の差額を保証しない。\n\n特価は2026年11月16日米東部23時59分までに公式サイトかアプリで航空券と同時購入する新規予約が対象。2027年3月5日～4月5日の指定曜日の米国内直行便で、1人片道の価格だ。往復と人数、荷物、変更条件を確認したい。\n\n電源とStarlinkは2027年から機体ごとに導入する。座席発売日と両機能の開始日は別だ。編集部は必要な機能を便別の装備案内で確かめることを重視する。\n\n前方席は2人で並びやすいが、3人以上は通路を挟むか別の列になり得る。ファーストとプレミアムはどちらも脚元を広げるが配置は異なる。同行者と隣り合えるかは座席表を確認したい。\n\n機体別の電源・通信工事日と特価残席は未公表。購入時の価格を確認し、機材変更時の座席の扱いも旅行前に確認できる。"
+        },
+        "zh": {
+          "title": "边疆航空开放头等舱预订，适用于2027年3月5日起的行程",
+          "summary": "前两排采用2加2布局，第三至第八排增加腿部空间。",
+          "body": "美国低成本航司边疆航空11月10日开放头等舱预订，适用于2027年3月5日起出行。前两排过道两侧各两座，第三至第八排为加大腿部空间座位。改装已开始，预计同在3月5日完成。\n\n头等舱无中间座位，最大座椅间距37英寸，约94厘米。高级座位为34英寸，约86厘米。间距测量前后排相同位置，椅背厚度也影响膝部空间，两者最大值相差三英寸并非膝部净增量。\n\nFirst套餐单程129美元起，含座位、两件托运行李、随身行李和优先登机。Premium为90美元起，含加大座位、随身行李及优先登机。39美元是起价之差，实际日期和行李需求会改变比较。\n\n优惠限美国东部时间2026年11月16日23:59前，在官网或应用同时订票和套餐，适用于2027年3月5日至4月5日指定日期的美国国内直飞。按每人每方向计算，应检查往返、人数和改签条件。\n\n座位电源与Starlink计划2027年起逐架上线。座位可售不代表这些功能同时开通。编辑部认为有明确设备需求的旅客应以航班说明为准。\n\n前舱两座一组适合两人并排，三人以上可能分在过道两边或不同排。两区均扩充腿部空间，布局仍不同。能否坐在一起应查看实际座位图。\n\n逐架安装日及优惠余票尚未公布。旅行前可核对分配机型，并查看换机时座位如何处理。"
+        }
+      },
+      "image": {
+        "url": "assets/20261114-frontier.jpg",
+        "alt": {
+          "ko": "앞줄 좌석이 보이는 일반 여객기 객실",
+          "en": "Generic cabin showing the front seating rows",
+          "ja": "前方の座席列が見える一般的な客室",
+          "zh": "可见前排座椅的普通客机客舱"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "virgin-australia-delta-737-component-support-20261111",
+      "date": "2026-11-11",
+      "published": "2026-11-14",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Delta News Hub",
+      "url": "https://news.delta.com/virgin-australia-selects-techops-737-component-support-extending-reach-asia-pacific",
+      "sources": [
+        {
+          "name": "Delta News Hub",
+          "url": "https://news.delta.com/virgin-australia-selects-techops-737-component-support-extending-reach-asia-pacific"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "버진 오스트레일리아, 737 부품 지원에 델타 테크옵스 선정",
+          "summary": "5년 계약은 737NG·MAX 100대 이상에 적용된다. 작업은 미국, 물류는 아시아·호주 거점을 잇는다.",
+          "body": "델타항공은 11월 11일 버진 오스트레일리아가 보잉 737NG와 737 MAX의 부품 지원을 델타 테크옵스에 맡긴다고 밝혔다. 계약 기간은 5년이고 대상은 두 계열 합계 100대 이상이다. 기체 구성품과 CFM56-7B, LEAP-1B 엔진의 구성품이 범위에 들어간다. 발표에는 선정 결과와 계약 범위가 나와 있으며 첫 부품을 접수하는 날짜나 계약의 정확한 기산일은 명시되지 않았다.\n\n버진 오스트레일리아는 호주의 여객 항공사이고, 델타 테크옵스는 여객기를 운영하는 델타항공의 정비 사업이다. 항공기 정비 분야에서 MRO는 유지보수·수리·분해정비를 뜻한다. 이 계약의 공개된 범위는 부품 지원이다. 델타가 버진 오스트레일리아 항공편을 운항하거나 모든 기체 정비를 넘겨받는 내용으로 확대해 읽을 수 없다. 델타는 이전에도 이 회사의 CFM56-7B 엔진을 지원하고 부품을 수리했다고 설명한다.\n\n737NG와 737 MAX는 보잉의 단일 통로 여객기 계열이지만 다른 시기에 설계됐다. NG의 CFM56-7B와 MAX의 LEAP-1B는 같은 CFM 계열 제조사가 공급하는 별도 엔진이다. 정비 절차와 호환 부품은 각 엔진의 문서를 기준으로 관리된다. 여객기는 비행을 계속하더라도 떼어 낸 부품은 각자 다른 시간표에 따라 점검하고 수리할 수 있다. 두 엔진의 부품이 하나의 계약에 들어갔다는 사실과 같은 부품으로 서로 교체할 수 있다는 주장은 구분해야 한다.\n\n공개 계획상 작업은 주로 애틀랜타와 미니애폴리스에서 이뤄지고, 싱가포르·브리즈번·멜버른·시드니의 버진 오스트레일리아 물류가 이를 지원한다. 부품이 고장 나면 떼어 검사하고 가용 부품을 교체한 뒤 수리품을 재고에 돌리는 흐름이 생길 수 있다. 항공사가 보유한 교체품의 수량, 정비소의 처리 시간, 항공 운송 시간은 각각 필요한 계산이다. 이 발표에는 보관 위치별 재고나 실제 수리 소요 시간은 제시되지 않았다.\n\n델타 테크옵스는 회사 전체로 연간 부품 10만 개 이상을 다룬다고 소개했다. 이는 버진 오스트레일리아가 보내는 부품 수가 아니며, 다섯 해 동안 이 계약에 배정된 물량도 아니다. 편집부는 기단이 두 세대의 엔진을 함께 쓰는 동안 정비 지원을 묶으면 부품 조달과 수리 창구를 계획하기 쉬워질 수 있다고 본다. 다만 처리 기한과 공급 조건을 모르는 상태에서 정시율이나 결항률이 개선된다고 계산할 수는 없다.\n\n부품 지원을 평가할 때는 기체가 멈춘 시간과 부품이 정비소에 머문 시간을 따로 봐야 한다. 충분한 교체품이 있는 항공사는 수리에 시간이 걸려도 비행을 재개할 수 있다. 반대로 드문 부품이라 재고가 없다면 짧은 수리라도 운송과 대기를 합친 시간이 중요해진다. 5년이라는 계약 기간은 양측이 지원 관계를 이어갈 기간이며, 개별 부품이 돌아오는 시간을 설명하지 않는다.\n\n승객이 당장 확인할 변화는 항공편 시간표보다 두 기업 사이의 지원 범위다. 실제 운항에서는 정비 외에도 날씨, 공항 혼잡, 승무원과 기체 배치가 지연에 영향을 준다. 계약의 금액, 가동률 목표와 부품 공급 성과는 이번 발표에 포함되지 않았다. 처음 공개된 범위와 이후 보고되는 이행 실적을 구분하면, 항공편과 직접 연결되는 효과를 판단하기 쉽다."
+        },
+        "en": {
+          "title": "Virgin Australia selects Delta TechOps for Boeing 737 component support",
+          "summary": "The five-year agreement covers more than 100 737NG and MAX aircraft, including two engine families.",
+          "body": "Delta said November 11 that Virgin Australia selected Delta TechOps for component support across more than 100 Boeing 737NG and MAX aircraft. The five-year agreement covers airframe components and parts for CFM56-7B and LEAP-1B engines. It does not specify the first component intake or exact contract start date.\n\nVirgin Australia operates passenger flights. Delta TechOps is Delta’s maintenance business. Maintenance, repair and overhaul, or MRO, covers many tasks, but this announced scope is component support. It does not transfer flight operations or all maintenance. Delta previously supported CFM56-7B engines and carried out component repairs for the airline.\n\nThe 737NG and MAX are different generations of single-aisle aircraft. Their CFM56-7B and LEAP-1B engines are distinct, with engine-specific parts and procedures. A removed component can follow a repair schedule while an aircraft returns to service with a replacement. A shared contract does not establish interchangeability.\n\nMost work is expected in Atlanta and Minneapolis, supported by Virgin Australia logistics in Singapore, Brisbane, Melbourne and Sydney. Spare availability, shop time and shipment can all affect the process. The release gives no stock counts or turnaround commitments at these locations.\n\nDelta TechOps says it handles more than 100,000 components annually across its wider business. That is not a volume for this customer or contract. We see scope to coordinate repair and sourcing across two engine generations, while punctuality impact cannot be computed without actual performance data.\n\nEvaluate aircraft downtime separately from time a part spends in the workshop. A replacement can let a jet return while the repair continues. With scarce stock, shipping and waiting may dominate a short repair. Five years is the support term, not the turnaround for any part.\n\nPassengers should read this as a change in component support rather than a timetable adjustment. Weather, airports, staffing and assignments also affect disruption. Contract value, availability targets and delivered performance were not disclosed."
+        },
+        "ja": {
+          "title": "ヴァージン・オーストラリア、737部品支援にデルタTechOpsを選定",
+          "summary": "737NGとMAXの100機超を対象とする5年契約で、2系統のエンジン部品を含む。",
+          "body": "デルタは11月11日、ヴァージン・オーストラリアの737NGとMAX計100機超に部品支援を行うと発表した。5年間で機体部品とCFM56-7B、LEAP-1Bのエンジン部品を扱う。最初の受け入れ日と契約起算日は未公表。\n\nヴァージンは豪州の航空会社で、TechOpsはデルタの整備事業だ。MROは保守、修理、オーバーホールを指すが、公開範囲は部品支援だ。運航や機体整備全体を移す内容ではない。以前からCFM56-7B支援と部品修理を行っていた。\n\n737NGとMAXは単通路機の別世代で、エンジンの部品と手順はそれぞれの文書に従う。外した部品の修理中に交換品で飛行を続ける場合もある。同じ契約に含まれても相互に交換できるとは限らない。\n\n作業は主にアトランタとミネアポリスで、ヴァージンのシンガポール、ブリスベン、メルボルン、シドニーの物流が支援する。交換品在庫、作業、輸送は別々に時間を要する。拠点別在庫や所要日数は示されていない。\n\n年間10万点超はTechOps全体の取扱量だ。編集部は複数世代の調達と修理を調整しやすくなる可能性を見るが、定時率の変化は実績が必要だ。\n\n機体の停止時間と部品の工場滞在時間は別だ。交換品があれば修理中に復帰でき、在庫が少なければ輸送と待機が効く。5年は支援契約の期間で、個別部品の返却日数ではない。\n\n利用者には時刻表変更より部品支援の変更となる。天候、空港、乗員や機材も便の運航に関わる。金額、稼働率目標、成果は資料にない。"
+        },
+        "zh": {
+          "title": "维珍澳大利亚选择达美TechOps支持737零部件",
+          "summary": "五年协议覆盖逾100架737NG和MAX，包括两种发动机的部件。",
+          "body": "达美11月11日宣布，维珍澳大利亚选择TechOps支持逾100架737NG和MAX。五年协议涉及机体部件、CFM56-7B及LEAP-1B部件。首批入厂日期和合同确切起算日未披露。\n\n维珍澳大利亚经营客运，TechOps是达美维修业务。MRO指维护、修理和大修，本协议公开的是部件支持，并未转移运行或全部维修。达美此前已提供CFM56-7B支持与部件修理。\n\n737NG和MAX是不同代的窄体机。两种发动机分别有专用部件和流程。拆下的部件可去维修，飞机用备用件继续运行。同一协议不表示两种发动机的零件可互换。\n\n工作主要在亚特兰大和明尼阿波利斯，维珍在新加坡、布里斯班、墨尔本及悉尼提供物流。备件库存、维修时间与运输各自影响流程。公告未列库存及周转承诺。\n\nTechOps每年处理逾10万件是业务总量，并非该合同数量。编辑部认为跨两代组织修理和采购可能更方便，但准点率需由实际数据评估。\n\n飞机停场时间与零件在维修厂时间应分别衡量。有替换件可先恢复飞行，缺件则运输和等待可能占主要时间。五年是服务协议期限，非单件周转期。\n\n对旅客，这项公告涉及部件支持。天气、机场、机组及调机也影响运行。合同金额、可用率目标及交付成效未公布。"
+        }
+      },
+      "image": {
+        "url": "assets/20261114-delta.jpg",
+        "alt": {
+          "ko": "정비 받침대의 일반 항공기 엔진 모듈",
+          "en": "Generic aircraft engine module on a maintenance stand",
+          "ja": "整備台に置かれた一般的な航空エンジンモジュール",
+          "zh": "固定在维修支架上的通用航空发动机模块"
+        },
+        "generated": true
+      }
+    },
+    {
+      "id": "sia-half-year-fuel-hedging-20261111",
+      "date": "2026-11-11",
+      "published": "2026-11-14",
+      "category": {
+        "ko": "항공",
+        "en": "Aviation",
+        "ja": "航空",
+        "zh": "航空"
+      },
+      "source": "Singapore Airlines Group results release",
+      "url": "https://www.singaporeair.com/content/dam/sia/web-assets/pdfs/Press_Release/NR0526.pdf",
+      "sources": [
+        {
+          "name": "Singapore Airlines Group results release",
+          "url": "https://www.singaporeair.com/content/dam/sia/web-assets/pdfs/Press_Release/NR0526.pdf"
+        }
+      ],
+      "locales": {
+        "ko": {
+          "title": "싱가포르항공그룹, 반기 매출 16.8% 증가에도 영업이익 29.1% 감소",
+          "summary": "9월 말까지 여섯 달의 실적이다. 연료비 상승을 헤지 이익이 일부 완충했다.",
+          "body": "싱가포르항공그룹이 11월 11일 2026~2027회계연도 상반기 매출 112억9700만 싱가포르달러를 발표했다. 전년 같은 기간보다 16.8% 증가해 그룹 반기 최대였지만 영업이익은 5억6900만 싱가포르달러로 29.1% 줄었다. 순이익은 1억3400만 싱가포르달러로 43.9% 감소했다. 발표일은 11월 11일이고 실적 집계는 9월 30일까지의 여섯 달이다. 회사는 감사 전 수치라고 밝혔다.\n\n싱가포르항공은 싱가포르를 거점으로 여객과 화물을 운송하고, 그룹에는 저비용항공사 스쿠트도 포함된다. 이 수치는 모회사 단독이나 싱가포르 공항 전체가 아니라 그룹의 실적이다. 회사는 여객과 화물의 수요가 모두 매출을 지지했다고 설명했다. 매출은 고객에게 운송 등을 제공해 얻은 금액이고, 영업이익은 그 매출에서 운항을 비롯한 영업 비용을 반영한 뒤 남는 금액이다. 매출이 늘어도 비용이 더 큰 폭으로 늘면 두 숫자의 방향이 달라진다.\n\n지출은 107억2800만 싱가포르달러로 20.9% 증가했다. 그룹이 밝힌 반기 평균 항공유 가격은 배럴당 171미국달러로 전년보다 86.7% 높았다. 여기서 연료 가격은 미국달러, 손익은 싱가포르달러 기준이다. 연료의 단가가 올라도 항공편 수나 구입 시점이 달라지면 실제 총비용과 같은 비율로 움직이지 않는다. 이번 자료에서도 헤지 전 연료비 상승률은 90.3%이고, 헤지 효과를 반영한 순연료비 상승률은 56.0%다.\n\n헤지는 앞으로 지불해야 할 연료 가격의 변동에 대비하는 금융 거래다. 시장 가격이 오를 때 일부 부담을 상쇄할 수 있고, 반대로 시장 가격이 떨어지는 시기에는 미리 정한 조건 때문에 혜택이 제한될 수 있다. 회사는 전년에는 손실이던 헤지가 이번 반기 이익으로 바뀌었다고 설명한다. 그래도 순연료비는 39억7400만 싱가포르달러로 증가했다. 헤지 성과가 있었다는 사실과 연료에 지급한 전체 부담의 변화는 서로 다른 항목이다.\n\n반기 전체와 2분기만 떼어 본 실적도 다르다. 2분기 영업이익은 4억6300만 싱가포르달러로 전년 동기보다 16.3% 늘었다. 회사는 1분기 영업이익 감소가 반기 실적을 끌어내렸고 2분기 개선이 이를 일부 만회했다고 설명했다. 순이익에는 관계기업의 손익과 세금도 영향을 줬다. 따라서 반기 순이익 감소율을 두 분기에 동일하게 적용하거나 연료비 한 항목으로 전부 설명하기 어렵다.\n\n공개 수치로 영업이익을 매출로 나누면 이번 반기 영업이익률은 약 5.0%다. 전년 반기의 영업이익 8억300만 싱가포르달러와 매출 96억7500만 싱가포르달러로 같은 계산을 하면 약 8.3%다. 매출 100달러에 남는 영업이익이 줄었다는 설명이다. 그룹 전체를 같은 기준으로 본 계산이므로 항공편 한 편의 이익이나 항공권 한 장의 원가를 나타내지는 않는다.\n\n편집부는 운항 수요와 연료비 부담을 함께 보여 주는 실적으로 본다. 이 결과만으로 특정 한국발 항공권이 얼마나 오를지, 특정 노선의 편수가 줄어들지 알 수 없다. 항공권에는 판매 시점, 좌석 공급과 경쟁편이 함께 작용한다. 11월 실적 공지가 제시하는 것은 과거 반기의 수입·비용과 분기별 흐름이며 다음 반기의 연료 가격과 실제 운항 결과는 추후 자료를 봐야 한다."
+        },
+        "en": {
+          "title": "SIA Group’s record half-year revenue rises 16.8% as operating profit falls",
+          "summary": "The six months to September show higher fuel costs, partly offset by hedging.",
+          "body": "Singapore Airlines Group reported S$11.297 billion in half-year revenue on November 11, up 16.8% year over year. Operating profit fell 29.1% to S$569 million, and net profit fell 43.9% to S$134 million. These unaudited results cover the six months ended September 30, not November operations.\n\nSingapore Airlines carries passengers and freight through Singapore, and the group includes low-cost Scoot. The numbers represent the group. Passenger and cargo demand supported revenue. Operating profit reflects operating expenses as well as revenue, so greater sales can accompany lower operating earnings.\n\nExpenditure rose 20.9% to S$10.728 billion. Average jet fuel was US$171 per barrel, up 86.7%. Fuel price is denominated in US dollars, while the accounts use Singapore dollars. Volume and purchase timing also matter. Fuel cost rose 90.3% before hedging and 56.0% after hedging.\n\nHedging uses financial contracts to address future price swings. It can offset part of a rise and limit the benefit of some price declines. The group says hedging moved from a loss to a gain. Net fuel cost still increased to S$3.974 billion. The hedge result and the overall fuel bill describe separate items.\n\nSecond-quarter operating profit rose 16.3% to S$463 million. The company attributes the half-year weakness mainly to the first quarter, partly offset by the second. Associate results and taxes also affected net profit. One half-year percentage cannot describe both quarters or one expense alone.\n\nUsing the disclosed figures, the operating margin was about 5.0%. The previous half’s S$803 million operating profit and S$9.675 billion revenue imply about 8.3%. This measures operating profit per unit of group revenue, not the margin on an individual flight or ticket.\n\nWe read the announcement as evidence that demand and cost pressure can rise together. It gives no basis for calculating a particular Korean-origin fare or frequency cut. Fare timing, capacity and competition also matter. Future fuel prices and operating performance require later evidence."
+        },
+        "ja": {
+          "title": "シンガポール航空グループ、上期売上16.8％増も営業利益29.1％減",
+          "summary": "9月末までの6カ月。燃料高をヘッジ益が一部緩和した。",
+          "body": "SIAグループは11月11日、上期売上が前年同期比16.8％増の112億9700万シンガポールドルと発表した。営業利益は29.1％減の5億6900万、純利益は43.9％減の1億3400万。9月30日までの6カ月の未監査値だ。\n\n同社はシンガポールを拠点とし、グループには低コストのスクートも含む。旅客と貨物需要が売上を支えた。営業利益には運航などの費用も反映されるため、増収と減益は同時に起こる。\n\n費用は20.9％増の107億2800万シンガポールドル。燃料平均は1バレル171米ドルで86.7％上昇した。通貨の違いに加え、購入量と時期で燃料費は変わる。ヘッジ前は90.3％増、反映後は56.0％増だった。\n\nヘッジは将来の価格変動に備える取引で、値上がりを一部吸収する一方、下落時の恩恵も限り得る。前年の損失から利益に転じたが、純燃料費は39億7400万シンガポールドルに増えた。\n\n第2四半期の営業利益は16.3％増の4億6300万。第1四半期の悪化が上期を押し下げ、第2四半期が一部を補った。純利益には関連会社損益と税も関わる。\n\n公表値から営業利益率は約5.0％。前年の営業利益8億300万、売上96億7500万シンガポールドルでは約8.3％だ。グループ売上当たりの利益で、個別便や航空券の原価ではない。\n\n編集部は需要と費用負担が並行して強まったと見る。韓国発の運賃や個別便数はこの資料から決まらない。販売時期、供給、競争も影響する。次期の燃料価格と実績は後続資料で確認する。"
+        },
+        "zh": {
+          "title": "新航集团上半年营收增长16.8%，营业利润下降29.1%",
+          "summary": "数据覆盖截至9月底的六个月，套期保值部分缓冲燃油涨价。",
+          "body": "新航集团11月11日公布上半年营收112.97亿新元，同比增16.8%。营业利润降29.1%至5.69亿新元，净利润降43.9%至1.34亿新元。为截至9月30日六个月的未经审计数字。\n\n新航以新加坡为枢纽运输旅客和货物，集团包括低成本航司酷航。集团客货需求支撑营收。营业利润还反映运营费用，收入增长可与利润下降并存。\n\n支出增20.9%至107.28亿新元。平均航油为每桶171美元，涨86.7%。油价用美元，报表用新元，采购量和时点也有影响。对冲前燃油成本升90.3%，对冲后升56.0%。\n\n对冲是应对未来价格变化的金融交易，能缓解部分上涨，也可能限制部分下跌收益。集团称对冲由亏转盈，但净燃油成本仍增至39.74亿新元。\n\n第二季度营业利润增16.3%至4.63亿新元。一季度走弱拖累半年，二季度改善部分弥补。联营企业损益和税也影响净利润。\n\n按公告计算，营业利润率约5.0%。上年同期营业利润8.03亿新元、收入96.75亿新元，约8.3%。这是集团单位收入对应利润，非单个航班或机票成本。\n\n编辑部认为本次结果反映需求和成本压力同时上升，不能用来计算韩国出发的某张机票或航班减量。销售时点、座位供应与竞争也有作用。未来燃油价格和运营表现需后续资料。"
+        }
+      },
+      "image": {
+        "url": "assets/20261114-sia.jpg",
+        "alt": {
+          "ko": "공항 계류장의 일반 항공기와 급유 차량",
+          "en": "Generic airliner and fuel truck on an airport apron",
+          "ja": "空港の一般的な旅客機と給油車",
+          "zh": "机场停机坪上的通用客机与加油车"
+        },
+        "generated": true
+      }
+    },
     {
       "id": "qatar-executive-starlink-gulfstream-20261112",
       "date": "2026-11-12",
